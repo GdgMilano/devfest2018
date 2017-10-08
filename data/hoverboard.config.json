@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Milano",
+    "twitter": "gdgmilano"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest2017-68557",
+    "domain": "devfest2017-68557.firebaseapp.com",
+    "database": "https://devfest2017-68557.firebaseio.com",
+    "api": "AIzaSyA9GEvCgKn1KNITVkqYfaB07u2v_I6b3K0",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -29,10 +29,10 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "it-IT",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "dfmi",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -84,17 +84,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Università degli studi Milano Bicocca",
+    "address": "Edificio U6,Piazza dell'Ateneo Nuovo, 1, 20126 Milano",
+    "link": "https://www.facebook.com/bicocca",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 45.518383,
+      "longitude": 9.213452,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 45.518383,
+      "longitude": 9.213452
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -116,14 +116,14 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#1976D2",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Milano 2018",
           "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "text": "GDGMilano devfest 2015"
         },
         "hideLogo": true,
         "minHeight": "360px"
