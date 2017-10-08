@@ -1,66 +1,66 @@
 {
   "title": "GDGMilano DevFest 2018",
-  "description": "Questa è la descrizione",
+  "description": "La pià grande festa [...]",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "dates": "4-5 Marzo, 2018",
+  "locationAddressShort": "Università Bicocca, Milano",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
+  "c4p": "Diventa uno speaker",
+  "buyTicket": "Acquista biglietto",
+  "backToTop": "Top",
+  "subscribe": "Iscriviti alla newsletter",
+  "yourEmail": "La tua email",
+  "subscribeNote": "Rimani aggiornato sugli ultimi update!",
+  "contactUs": "Contattaci",
+  "ticketsTitle": "Biglietti",
+  "ticketsDetails": "Nel biglietto è incluso [...]. Non è incluso [...]",
+  "close": "Chiudi",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "socialMotto": "Connettiti e seguici su",
   "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
+  "clickToViewPhotos": "Vuoi vedere altre foto? Clicca qui!",
   "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "becomePartner": "Diventa partner",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "featuredVideosViewAll": "Tutti i video",
+  "featuredPeopleTitle": "Superhero Speakers",
+  "featuredPeopleViewAll": "Tutti gli speakers",
+  "action": "",
+  "locationTitle": "Università degli studi Bicocca",
+  "locationDescription": "L'università Bicocca è un campus giovane e multidisciplinare, situato nell'area nord Milano",
+  "locationAddress": "Edificio U6,Piazza dell'Ateneo Nuovo, 1",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
+  "aboutOrganizers": "<a href='http://gdgmilano.it' target='_blank'>GDG Milano</a> con il supporto di [...] è lieto di[...]",
+  "openTeamPage": "Chi fa parte del team",
+  "whatIsGdg": "cosa è GDG?",
+  "aboutGdg": "Google Developers Group (GDG) -  uno user group indipendente rivolto a sviluppatori, tecnici, studenti e, in generale, ad appassionati di tecnologie informatiche, con un focus in particolare su quelle offerte da Google",
+  "readMore": "Continua",
+  "copyLink": "Copia link",
+  "filteredBy": "filtra per",
+  "clearAll": "Cancella tutto",
+  "filter": "Filtro",
+  "latestNews": "Ultime news",
+  "continueReading": "Continua la lettura",
+  "viewPresentation": "Guarda presentazione",
+  "viewVideo": "Guarda il video",
   "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
+  "share": "Condividi",
+  "shareWith": "Condividi",
+  "signIn": "Accedi",
   "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "mySchedule": "My schedule",
+  "browseMore": "Esplora tutti gli eventi",
+  "youShouldSignInSessions": "Accedi per salvare le sessioni",
+  "youShouldSignInRating": "Accedi per votare le sessioni",
+  "offlineMessage": "Sei offline",
+  "removedFromSchedule": "Eliminato da My schedule",
+  "addedToSchedule": "Aggiunto a My Schedule",
+  "rateSession": "Vota la sessione",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Info",
       "links": [
         {
           "text": "Team",
@@ -68,7 +68,7 @@
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Codice di condotta",
           "url": "/cod/",
           "newTab": false
         },
@@ -78,18 +78,8 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Nord Italia 2015",
+          "url": "http://www.gdgmilano.it/2015",
           "newTab": true
         }
       ]
@@ -98,8 +88,8 @@
       "title": "For Partners",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "text": "Diventa partner",
+          "url": "",
           "newTab": true
         },
         {
@@ -119,22 +109,22 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Presentazione che ti faccia dire 'uao, voglio essere come loro!'.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 0,
       "caption": "Attendees"
     },
     {
-      "counter": 2,
+      "counter": 0,
       "caption": "Days"
     },
     {
-      "counter": 30,
+      "counter": 0,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 0,
       "caption": "Tracks"
     }
   ],

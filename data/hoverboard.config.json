@@ -3,8 +3,8 @@
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "",
+    "dev": ""
   },
   "organizer": {
     "name": "GDG Milano",
@@ -30,13 +30,13 @@
   },
   "dateFormat": {
     "locale": "it-IT",
-    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+    "blog": {"day": "numeric","month": "short", "year": "numeric"}
   },
   "hashtag": "dfmi",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLxO8IwZQae_y9x_H6XRVSz09-PyrqJpzo",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -63,27 +63,22 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMilano",
+      "url": "https://twitter.com/gdgmilano"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "116616172180257887422",
+      "url": "https://plus.google.com/116616172180257887422"
     },
     {
       "name": "facebook",
       "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "url": "https://www.facebook.com/GDGMilano"
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAoNXvOjpnazdL68bWQr5B7H45NvM5u_x0",
     "name": "Università degli studi Milano Bicocca",
     "address": "Edificio U6,Piazza dell'Ateneo Nuovo, 1, 20126 Milano",
     "link": "https://www.facebook.com/bicocca",
@@ -102,16 +97,6 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
-  },
   "pages": {
     "home": {
       "title": "Home",
@@ -120,12 +105,7 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Milano 2018",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "GDGMilano devfest 2015"
-        },
-        "hideLogo": true,
+        "hideLogo": false,
         "minHeight": "360px"
       }
     },
@@ -146,7 +126,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Programma",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -162,7 +142,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Codice di condotta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
