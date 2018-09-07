@@ -1,13 +1,14 @@
 {
-  "title": "GDGMilano DevFest 2018",
-  "description": "La pià grande festa [...]",
+  "title": "GDG DevFest Season 2018",
+  "description": "Be a hero. Be a GDG!",
+  "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "4-5 Marzo, 2018",
+  "dates": "6 Ottobre 2018",
   "locationAddressShort": "Università Bicocca, Milano",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
   "c4p": "Diventa uno speaker",
-  "buyTicket": "Acquista biglietto",
+  "buyTicket": "Iscriviti",
   "backToTop": "Top",
   "subscribe": "Iscriviti alla newsletter",
   "yourEmail": "La tua email",
@@ -48,7 +49,7 @@
   "skills": "Skills",
   "share": "Condividi",
   "shareWith": "Condividi",
-  "signIn": "Accedi",
+  "signIn": "Sign in",
   "signOut": "Sign out",
   "mySchedule": "My schedule",
   "browseMore": "Esplora tutti gli eventi",
@@ -58,78 +59,235 @@
   "removedFromSchedule": "Eliminato da My schedule",
   "addedToSchedule": "Aggiunto a My Schedule",
   "rateSession": "Vota la sessione",
-  "footerBlocks": [
+  "viewHighlights": "View Highlights",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Caching complete! Future visits will work offline.",
+  "newVersionAvailable": "A new version of this app is available.",
+  "refresh": "Refresh",
+  "position": "Position",
+  "country": "Country",
+  "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": ""
+  },
+  "mySchedule": {
+    "title": "My schedule",
+    "browseSession": "Browse sessions"
+  },
+  "footerRelBlock": [
     {
-      "title": "Info",
+      "title": "About",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
+          "name": "GDG Milano",
+          "url": "http://www.gdgmilano.it",
+          "newTab": true
         },
         {
-          "text": "Codice di condotta",
-          "url": "/cod/",
-          "newTab": false
-        },
-        {
-          "text": "Google Developers",
+          "name": "Google Developers Group",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Nord Italia 2015",
-          "url": "http://www.gdgmilano.it/2015",
+          "name": "",
+          "url": "",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Risorse evento",
       "links": [
         {
-          "text": "Diventa partner",
-          "url": "",
+          "name": "Diventa partner",
+          "url": "https://goo.gl/forms/GkGVtaHBewmxcRUC3",
           "newTab": true
         },
         {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "name": "Call for Papers",
+          "url": "https://sessionize.com/devfest-milano-2018/",
           "newTab": true
         }
       ]
     }
   ],
-  "contactBlock": {
-    "links": [
+  "subscribeNote": "No spam, solo gli ultimi aggiornamenti!",
+  "codeOfConduct": "",
+  "aboutBlock": {
+    "title": "Cosa è la Devfest",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento proposto da Google stessa e si tiene in tutto il mondo, solitamente nel periodo autunnale. Come dice la parola, la DevFest è prima di tutto una festa, un momento di ritrovo per gli sviluppatori, i professionisti dell’informatica, gli studenti e i tech enthusiast in generale.",
+        "label": "",
+        "link": ""
+      },
+      "howItWas": {
+        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2016",
+        "youtubeId": "TdpbgRgz6eE"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Partecipanti",
+        "number": "200"
+      },
+      "days": {
+        "label": "Giorno",
+        "number": "1"
+      },
+      "sessions": {
+        "label": "Session",
+        "number": "18"
+      },
+      "tracks": {
+        "label": "Tracks",
+        "number": "3"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Iscrizione",
+    "ticketsDetails": "L'iscrizione dà diritto all'accesso alla conferenza, coffee breaks e pranzo.",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
+    "save": "Save ${discount}% today"
+  },
+  "partnersBlock": {
+    "title": "Partners",
+    "button": "Diventa partner",
+    "form": {
+      "title": "Diventa partner!",
+      "submitLabel": "Invia",
+      "fullName": "Nome e cognome",
+      "companyName": "Azienda"
+    },
+    "toast": "Ti contatteremo presto!"
+  },
+  "featuredVideos": {
+    "title": "DFUA'16 featured videos",
+    "callToAction": {
+      "label": "See all videos",
+      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+    }
+  },
+  "blog": {
+    "published": "Published",
+    "suggested": "Up next"
+  },
+  "latestPostsBlock": {
+    "title": "The latest news",
+    "callToAction": {
+      "label": "View all stories",
+      "link": "/blog/"
+    }
+  },
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Years",
+    "previousYear": "Year"
+  },
+  "speakersBlock": {
+    "title": "Rockstar speakers",
+    "callToAction": {
+      "label": "View all speakers",
+      "link": "/speakers/"
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Previous speakers",
+    "callToAction": {
+      "label": "View all",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "#dfua16 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "callToAction": {
+      "label": "See all photos",
+      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+    }
+  },
+  "mapBlock": {
+    "title": "Location"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Rimani aggiornato sulle novità",
+      "label": "Iscriviti alla newsletter"
+    },
+    "yourEmail": "Your email",
+    "emailAddress": "Email Address",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "emailRequired": "Please enter a valid email address.",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "close": "Close",
+    "generalError": "Some error has occured. Please, try again later.",
+    "toast": "Successfully subscribed!"
+  },
+  "team": {
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://www.gdgmilano.it) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "sessionDetails": {
+    "contentLevel": "Content level",
+    "viewPresentation": "View presentation",
+    "viewVideo": "View video",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "title": "Organizzatori",
+        "description": "<a href='http://www.gdgmilano.it/' target='_blank'>GDG Milano</a> in collaborazione con Bicocca è lieta di organizzare la Devfest Milano 2018",
+        "callToAction": {
+          "label": "Conosci il team",
+          "link": "/team"
+        }
+      },
+      {
+        "title": "GDG",
+        "description": "Google Developers Group (GDG) - è una community di appassionati che crea e condivide esperienze sulle tecnologie Google.",
+        "callToAction": {
+          "label": "Scopri di più",
+          "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Presentazione che ti faccia dire 'uao, voglio essere come loro!'.",
-  "statistics": [
-    {
-      "counter": 0,
-      "caption": "Attendees"
-    },
-    {
-      "counter": 0,
-      "caption": "Days"
-    },
-    {
-      "counter": 0,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 0,
-      "caption": "Tracks"
+  "signInDialog": {
+    "alreadyHaveAccount": "Hai già un account",
+    "alreadyUsed": "You've already used",
+    "signInToContinue": {
+      "part1": "Logga",
+      "part2": "per continuare."
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
   }
 }

@@ -6,7 +6,7 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "babel src --out-dir dist --source-maps",
-    "postbuild": "cp ../build/index.html dist/"
+    "postbuild": "copy ..\\build\\index.html dist\\"
   },
   "dependencies": {
     "@google-cloud/storage": "^1.6.0",

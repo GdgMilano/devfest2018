@@ -1,0 +1,17 @@
+{
+  "000": {
+    "name": "Università statale Bicocca",
+    "logoUrl": "../images/logos/google.svg",
+    "url": "https://www.google.com.ua/intl/en/about/"
+  },
+  "001": {
+    "name": "Redbull",
+    "logoUrl": "../images/logos/gdg-x.svg",
+    "url": "https://github.com/gdg-x"
+  },
+  "002": {
+    "name": "Google",
+    "logoUrl": "../images/logos/google.svg",
+    "url": "https://www.google.com.ua/intl/en/about/"
+  }
+}
