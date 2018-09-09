@@ -1,1 +1,238 @@
-{"2018-10-06":{"date":"2018-10-06","tracks":[{"title":"Magna"},{"title":"U6-7"},{"title":"New room"},{"title":"U6-6-6"}],"dateReadable":"Programma della giornata","timeslots":[{"startTime":"09:00","sessions":[{"items":["registration"]}],"endTime":"09:30"},{"sessions":[{"items":["opening"]}],"endTime":"09:30","startTime":"09:00"},{"sessions":[{"items":["solid_principles_in_practice_the_clean_architecture"]},{"items":["beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays"]},{"items":["guida_intergalattica_per_cercatori_di_lavoro"]},{"items":["designing_for_wicked_challenges"]}],"endTime":"11:10","startTime":"10:30"},{"startTime":"11:20","sessions":[{"items":["library_development_open_source_your_ideas"]},{"items":["behind_the_curtains_how_photos_works"]},{"items":[]},{"items":[]}],"endTime":"12:00"},{"startTime":"12:10","sessions":[{"items":["develop_a_product_on_gcp"]},{"items":["want_a_slice"]},{"items":["hrmatch_machine_learning_vs_pregiudizi_umani"]},{"items":[]}],"endTime":"12:50"},{"endTime":"13:45","startTime":"12:55","sessions":[{"items":["lunch"]}]},{"endTime":"14:30","startTime":"13:50","sessions":[{"items":["la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"]},{"items":["ml_kit_for_mobile_developers"]},{"items":["image_recognition_with_tensorflow_using_deep_learning"]},{"items":["firebase_cloud_firestore_deep_dive"]}]},{"sessions":[{"items":["arcore_is_magic"]},{"items":["game_of_coins_on_the_future_of_blockchain"]},{"items":["il_lato_oscuro_del_deep_learning"]},{"items":[]}],"endTime":"15:20","startTime":"14:40"},{"endTime":"16:10","startTime":"15:30","sessions":[{"items":["motion_layout_easy_animations_for_everyone"]},{"items":["how_to_become_an_android_dev_starting_from_ios_and_vice_versa"]},{"items":["creating_ml-powered_applications"]},{"items":["introduction_to_sceneform"]}]},{"sessions":[{"items":["android_jetpack_easy_navigation_with_the_new_navigation_controller"]},{"items":["digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"]},{"items":["come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza"]},{"items":[]}],"endTime":"17:00","startTime":"16:20"},{"sessions":[{"items":["closing"]}],"endTime":"17:30","startTime":"17:05"}]}}
+{
+  "2018-10-06": {
+    "date": "2018-10-06",
+    "tracks": [
+      {
+        "title": "Magna"
+      },
+      {
+        "title": "U6-7"
+      },
+      {
+        "title": "New room"
+      },
+      {
+        "title": "U6-6-6"
+      }
+    ],
+    "dateReadable": "Programma della giornata",
+    "timeslots": [
+      {
+        "startTime": "09:00",
+        "sessions": [
+          {
+            "items": [
+              "registration"
+            ]
+          }
+        ],
+        "endTime": "09:30"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              "opening"
+            ]
+          }
+        ],
+        "endTime": "09:30",
+        "startTime": "09:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              "solid_principles_in_practice_the_clean_architecture"
+            ]
+          },
+          {
+            "items": [
+              "beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays"
+            ]
+          },
+          {
+            "items": [
+              "guida_intergalattica_per_cercatori_di_lavoro"
+            ]
+          },
+          {
+            "items": [
+              "designing_for_wicked_challenges"
+            ]
+          }
+        ],
+        "endTime": "11:10",
+        "startTime": "10:30"
+      },
+      {
+        "startTime": "11:20",
+        "sessions": [
+          {
+            "items": [
+              "library_development_open_source_your_ideas"
+            ]
+          },
+          {
+            "items": [
+              "behind_the_curtains_how_photos_works"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ],
+        "endTime": "12:00"
+      },
+      {
+        "startTime": "12:10",
+        "sessions": [
+          {
+            "items": [
+              "develop_a_product_on_gcp"
+            ]
+          },
+          {
+            "items": [
+              "want_a_slice"
+            ]
+          },
+          {
+            "items": [
+              "hrmatch_machine_learning_vs_pregiudizi_umani"
+            ]
+          },
+          {
+            "items": []
+          }
+        ],
+        "endTime": "12:50"
+      },
+      {
+        "endTime": "13:45",
+        "startTime": "12:55",
+        "sessions": [
+          {
+            "items": [
+              "lunch"
+            ]
+          }
+        ]
+      },
+      {
+        "endTime": "14:30",
+        "startTime": "13:50",
+        "sessions": [
+          {
+            "items": [
+              "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"
+            ]
+          },
+          {
+            "items": [
+              "ml_kit_for_mobile_developers"
+            ]
+          },
+          {
+            "items": [
+              "image_recognition_with_tensorflow_using_deep_learning"
+            ]
+          },
+          {
+            "items": [
+              "firebase_cloud_firestore_deep_dive"
+            ]
+          }
+        ]
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              "arcore_is_magic"
+            ]
+          },
+          {
+            "items": [
+              "game_of_coins_on_the_future_of_blockchain"
+            ]
+          },
+          {
+            "items": [
+              "il_lato_oscuro_del_deep_learning"
+            ]
+          },
+          {
+            "items": []
+          }
+        ],
+        "endTime": "15:20",
+        "startTime": "14:40"
+      },
+      {
+        "endTime": "16:10",
+        "startTime": "15:30",
+        "sessions": [
+          {
+            "items": [
+              "motion_layout_easy_animations_for_everyone"
+            ]
+          },
+          {
+            "items": [
+              "how_to_become_an_android_dev_starting_from_ios_and_vice_versa"
+            ]
+          },
+          {
+            "items": [
+              "creating_ml-powered_applications"
+            ]
+          },
+          {
+            "items": [
+              "introduction_to_sceneform"
+            ]
+          }
+        ]
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              "android_jetpack_easy_navigation_with_the_new_navigation_controller"
+            ]
+          },
+          {
+            "items": [
+              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+            ]
+          },
+          {
+            "items": [
+              "come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza"
+            ]
+          },
+          {
+            "items": []
+          }
+        ],
+        "endTime": "17:00",
+        "startTime": "16:20"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              "closing"
+            ]
+          }
+        ],
+        "endTime": "17:30",
+        "startTime": "17:05"
+      }
+    ]
+  }
+}
