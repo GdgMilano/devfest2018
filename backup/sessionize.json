@@ -1,0 +1,1322 @@
+{
+  "sessions": [
+    {
+      "id": "62137",
+      "title": "Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays",
+      "description": "In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more.",
+      "startsAt": "2018-10-06T10:30:00",
+      "endsAt": "2018-10-06T11:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "961f895c-9bed-41fa-b4d4-9615b451a186"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        11997
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "62541",
+      "title": "SOLID principles in practice: the clean architecture",
+      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martini nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
+      "startsAt": "2018-10-06T10:30:00",
+      "endsAt": "2018-10-06T11:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12012,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "65058",
+      "title": "Designing for wicked challenges",
+      "description": "This workshop is based on the Lab Exercises I had the opportunity to facilitate with Dave Houge UX Lead, Android @Google and it is a really interesting workshop for developers/designers/product managers addressing challenges and interacting with users!\r\nThroughout 3 Lab exercises we will intro \"wicked problems\", what are they, how to address them and how to \"try\" to solve them without creating others! That's wicked!\r\nAt each Lab Exercise attendees will do some hands-on design/sketching, discussion and ideation. Each Lab Exercise builds upon the information and exercises that preceded it. The third and final lab exercise is more opened-ended (and more wicked), because the attendees will have already been walked through the other exercises.",
+      "startsAt": "2018-10-06T10:30:00",
+      "endsAt": "2018-10-06T12:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "33c7ffcf-6824-4f31-bac7-fea7ef2d4565"
+      ],
+      "categoryItems": [
+        11988,
+        11990,
+        11994,
+        12003
+      ],
+      "questionAnswers": [],
+      "roomId": 2359
+    },
+    {
+      "id": "65840",
+      "title": "Guida intergalattica per cercatori di lavoro",
+      "description": "Come strutturare un buon CV tips & tricks. Come fare un buon colloquio, utilizzare i social al fine di trovare un impiego e gestire la propria reputation online.",
+      "startsAt": "2018-10-06T10:30:00",
+      "endsAt": "2018-10-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a60c7b8a-c42b-4587-820c-37aca6a52186"
+      ],
+      "categoryItems": [
+        11988,
+        11990,
+        11994,
+        12009,
+        12011
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "61990",
+      "title": "Library development: open source your ideas!",
+      "description": "Have you ever thought that your idea could help other developers? Join the magic world of open source! \r\nIn this talk we are going to share some tips and the secrets to become an open source master. Of course some practical examples based on our experience cannot miss.",
+      "startsAt": "2018-10-06T11:20:00",
+      "endsAt": "2018-10-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
+        "34f46c86-e5d4-4ba7-9f8d-3ef7ffce0926"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "62582",
+      "title": "Behind the curtains: how Photos™ works",
+      "description": "Google Photos is an amazing piece of software, and API are pretty amazing. The only problem? They are not available on Android just yet. Join us to learn how we bypassed this limitation to create a selfie box based on Kotlin, Things™, and, of course, Google Photos!",
+      "startsAt": "2018-10-06T11:20:00",
+      "endsAt": "2018-10-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7d912e80-f02c-42cf-92db-98e670bef1a6"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        12012,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "61989",
+      "title": "HRmatch: Machine Learning vs Pregiudizi umani",
+      "description": "Machine Learning applicata ai processi HR può aiutare ad accelerare il reclutamento, ad attirare e trovare candidati eccellenti spesso trascurati dai reclutatori umani. \r\n\r\nAlcune domande alle quali dare una risposta:\r\nE'  possibile collegare il colloquio di un candidato ai risultati di business futuri?\r\nQuali KPI nella gestione HR vanno considerati?\r\nE' possibile fare migliorare i processi e assunzioni in modo imparziale?\r\n\r\nLe risorse umane raccolgono grandi quantità di dati su tutti gli aspetti dell'attività dei dipendenti e tutti questi dati hanno informazioni importanti. Inoltre, le applicazioni di apprendimento automatico sono molteplici e hanno funzioni trasversali.  \r\nLe migliori soluzioni oggi e nel prossimo futuro non sostituiscono  gli esseri umani, ma enfatizzano il ridimensionamento del processo decisionale con l'uso delle macchine come strumento di analisi e collaborazione.\r\n\r\nLe HR del futuro grazie agli strumenti di machine learning avranno sempre più un approccio incentrato sulle persone, sulle motivazioni, sulle competenze... e meno sui pregiudizi.",
+      "startsAt": "2018-10-06T12:10:00",
+      "endsAt": "2018-10-06T12:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "18a4c0bc-e7c2-406e-a9b2-1baad10169a3"
+      ],
+      "categoryItems": [
+        11989,
+        11992,
+        11994,
+        12007
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "62154",
+      "title": "Want a Slice?",
+      "description": "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented.",
+      "startsAt": "2018-10-06T12:10:00",
+      "endsAt": "2018-10-06T12:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "687de707-ffa6-4421-af42-f71b9f40bade"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        11996,
+        12003,
+        12004,
+        11997
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "63187",
+      "title": "Develop a product on GCP",
+      "description": "How to develop a scalable and multi tenant product on GCP from scratch using some of the services provided by Google. ",
+      "startsAt": "2018-10-06T12:10:00",
+      "endsAt": "2018-10-06T12:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7874fdec-9886-4824-83f5-09853494b438"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12010,
+        12003
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "62156",
+      "title": "Firebase Cloud Firestore: Deep Dive",
+      "description": "Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing. In this workshop, we’ll focus on Could Firestore, Firebase's new database solution. Cloud Firestore is an efficient, low-latency database solution for mobile apps that is optimized for speed, security, and offline use. As part of this workshop, we’ll build an app using Cloud Firestore focusing on realtime updates, expressive querying, and offline support. The workshop participants will learn how to read and write data to Firestore from an Android app, listen to changes in Firestore data in realtime, use Firebase Authentication and security rules to secure Firestore data, and write complex Firestore queries.",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T15:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "687de707-ffa6-4421-af42-f71b9f40bade"
+      ],
+      "categoryItems": [
+        11988,
+        11991,
+        11993,
+        12004
+      ],
+      "questionAnswers": [],
+      "roomId": 2359
+    },
+    {
+      "id": "63197",
+      "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+      "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "31513932-a9e7-4097-9ee9-8d886a54b63e"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12004,
+        12010
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "64189",
+      "title": "ML Kit for Mobile Developers",
+      "description": "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package.  During this talk, we are going to learn how we can boost out firebase app with a live demo that uses image recognition.",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de1f0ec6-092a-4961-80f0-c99652a2b50b"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        12004,
+        12007
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "64608",
+      "title": "Image Recognition with TensorFlow using Deep Learning",
+      "description": "Nowadays, Deep Learning is widely used in every IT sector even though a lot people might not know this. The expression “Deep Learning” brings together a vast series of algorithms which are based on the concept of the neural networks. \r\nToday, image recognition provided by neural networks and trained via Deep Learning is, in certain circumstances, better than humans’ recognition. \r\nFor instance, voice and image recognition provided by Google, relies on Deep Learning. What we buy or watch on Amazon and/or Netflix is generated by artificial neural networks calibrated on the basis of our taste. So, how does this work?\r\nIn this speech we are going to understand the basic principle of Deep Learning and how it could be performed with Tensorflow during the image recognition process.",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fe371699-f0ea-4c5e-b799-3d2b395314a3"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12007
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "62552",
+      "title": "Game of coins: on the future of blockchain",
+      "description": "The technology of Blockchain, the more complex step after Bitcoin, has compelling possibilities. Because it offers a decentralized\r\napproach to money, blockchain has the potential to promote and achieve fairness and democratization. Blockchain also has the ability to transform numerous sectors: in the financial sector, it encourages people to take initiative in innovation; in government, it creates greater transparency and makes the process of providing services more efficient. These are important developments that are worth pursuing — not for the few, but for the many. The use case for blockchain is tremendous and opportunities are abundant. \r\nThis speech offers a unique approach to the blockchain, explained simply and straightforward, then it provides an overview of my personal experience in Blockchain programming and predicts the future of this mesmerizing technology.",
+      "startsAt": "2018-10-06T14:40:00",
+      "endsAt": "2018-10-06T15:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c356f290-3d52-4aac-8ba3-f923dd58cb2d"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11993,
+        11999,
+        12002,
+        12006
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "64727",
+      "title": "ARCore is Magic",
+      "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App",
+      "startsAt": "2018-10-06T14:40:00",
+      "endsAt": "2018-10-06T15:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "42767f6e-7503-4017-b3e3-250175e1e00a"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "65786",
+      "title": "Il lato oscuro del Deep Learning",
+      "description": "Tutti hanno sentito parlare almeno una volta del potere magico del machine learning. Quanti conoscono però il “lato oscuro” delle tecnologie data-driven, come bias negli algoritmi, violazione della privacy, e minacce alla sicurezza? Attenzione ad affidarsi ciecamente al “deep learning”, a meno di non essere in cerca di “deep trouble”.",
+      "startsAt": "2018-10-06T14:40:00",
+      "endsAt": "2018-10-06T15:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d626d52e-8fc3-4be6-8abe-2968c3adbdaf"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994,
+        12007,
+        11998
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "65780",
+      "title": "How to become an Android dev starting from iOS (and vice versa)",
+      "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
+      "startsAt": "2018-10-06T15:30:00",
+      "endsAt": "2018-10-06T16:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6237b340-4f20-402b-bbe4-4e9e0d27a058"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12012,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "65975",
+      "title": "Introduction to SceneForm",
+      "description": "This codelab will guide you step by step to create an \"AR Stickers\" type application using ARCore. This application shows a gallery of objects that can be placed, or anchored in the augmented world. Then take a photo of the AR scene and save it to Photos.",
+      "startsAt": "2018-10-06T15:30:00",
+      "endsAt": "2018-10-06T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "42767f6e-7503-4017-b3e3-250175e1e00a"
+      ],
+      "categoryItems": [
+        11988,
+        11990,
+        11994,
+        13101,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2359
+    },
+    {
+      "id": "66002",
+      "title": "Motion Layout: easy animations for everyone!",
+      "description": "TBD",
+      "startsAt": "2018-10-06T15:30:00",
+      "endsAt": "2018-10-06T16:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "70727183-a4cc-4571-b37c-b6f6348827cd"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        11996,
+        12003
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "66130",
+      "title": "Creating ML-powered applications",
+      "description": "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background.  \r\n\r\nIn this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We'll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit   ",
+      "startsAt": "2018-10-06T15:30:00",
+      "endsAt": "2018-10-06T16:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c74ddde6-86e7-4b92-ad12-1a1428fb2eb9"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        12007,
+        11996,
+        12004
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "61968",
+      "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
+      "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
+      "startsAt": "2018-10-06T16:20:00",
+      "endsAt": "2018-10-06T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "47f2bd26-43a8-4b05-9db3-19d04ca8cee8"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994,
+        12009,
+        12010
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "61988",
+      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+      "startsAt": "2018-10-06T16:20:00",
+      "endsAt": "2018-10-06T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        11999
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "66144",
+      "title": "Android JetPack: Easy navigation with the new Navigation Controller",
+      "description": "Nel corso degli anni implementare la navigazione in app è sempre stato un incubo per gli sviluppatori Android. La risposta di Google a questo problema è Android Jetpack: un set di librerie per semplificare e accelerare lo sviluppo, creando app con basi solide e di alta qualità. Fra queste librerie vi è la Navigation, una libreria che semplifica sensibilmente l’implementazione della navigazione in una app Android, mettendoci a disposizione tool grafici e API che ci permettono di semplificare il codice, rendendolo più pulito e leggibile. In questa sessione parleremo di come usare il Navigation Editor in Android Studio, tramite XML o tramite le API Kotlin (o Java) per definire il navigation graph, e come tutto questo semplifica la navigazione nella tua app, e come gestire i deep link tramite la Navigation.",
+      "startsAt": "2018-10-06T16:20:00",
+      "endsAt": "2018-10-06T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "deb0793c-59f5-493c-90aa-45d6adb6ab72"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    }
+  ],
+  "speakers": [
+    {
+      "id": "b908d4a9-f8d5-44db-a785-f608885eff46",
+      "firstName": "Alessandro",
+      "lastName": "Aglietti",
+      "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
+      "tagLine": "brumbrum.it / aqquadro.it",
+      "profilePicture": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        61988
+      ],
+      "fullName": "Alessandro Aglietti"
+    },
+    {
+      "id": "c356f290-3d52-4aac-8ba3-f923dd58cb2d",
+      "firstName": "Anđela",
+      "lastName": "Todorović",
+      "bio": "She is a huge blockchain enthusiast and the main programmer on the blockchain based voting system in the Balkans. In May 2018, she has held a speech on the Point conference regarding this buzzing topic, that opened her various doors in her career. \r\n",
+      "tagLine": "Tech ninja | DAPP researcher",
+      "profilePicture": "https://sessionize.com/image?f=64495e8c31b05efe2abd93e004fa6b8d,400,400,True,False,90-3d52-4aac-8ba3-f923dd58cb2d.577f12db-fd6c-4ca6-96e7-b4a4c178da0b.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andjelatodorovich/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        62552
+      ],
+      "fullName": "Anđela Todorović"
+    },
+    {
+      "id": "34f46c86-e5d4-4ba7-9f8d-3ef7ffce0926",
+      "firstName": "Andrea",
+      "lastName": "Maglie",
+      "bio": "Andrea Maglie is a Senior Developer specialized in Java and, more recently, in Kotlin. He currently works on Musement's Android app and Google Assistant app.",
+      "tagLine": "Senior Developer at Musement",
+      "profilePicture": "https://sessionize.com/image?f=b96267157e4d9f2621f0e4fa944b4c93,400,400,True,False,86-e5d4-4ba7-9f8d-3ef7ffce0926.b2a5cb9c-05c4-4fa6-8fb9-c1a6eaca013b.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/TechIsFun",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andreamaglie/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.andreamaglie.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.musement.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        61990
+      ],
+      "fullName": "Andrea Maglie"
+    },
+    {
+      "id": "961f895c-9bed-41fa-b4d4-9615b451a186",
+      "firstName": "Aygul",
+      "lastName": "Zagidullina",
+      "bio": "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
+      "tagLine": "Actions on Google Developer, GDG/WTM London Lead",
+      "profilePicture": "https://sessionize.com/image?f=8de6aa0785f4d731a60f3a586dca2d38,400,400,True,False,5c-9bed-41fa-b4d4-9615b451a186.835be137-8e98-4848-ad09-a1320ca082e8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/aygul",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.aygul.co/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/aygulzagidullina",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/google-assistant",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        62137
+      ],
+      "fullName": "Aygul Zagidullina"
+    },
+    {
+      "id": "70727183-a4cc-4571-b37c-b6f6348827cd",
+      "firstName": "Boris",
+      "lastName": "D'Amato",
+      "bio": "Boris is an Android Developer working at ClearScore. He likes participating at tech conferences, giving talks, sharing knowledge and learning new things, but above all, he loves making beautiful and performant apps. He loves learning new languages, architectural patterns and building meaningful animations.",
+      "tagLine": "Android Developer @ ClearScore - GDG Bari co-organizer",
+      "profilePicture": "https://sessionize.com/image?f=2aa5eb3123ef82b3c03976c0f01f3d1e,400,400,True,False,83-a4cc-4571-b37c-b6f6348827cd.a6be665f-9414-4f14-a8e4-80beded6c88e.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/borisdamato",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/borisdam/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.clearscore.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        66002
+      ],
+      "fullName": "Boris D'Amato"
+    },
+    {
+      "id": "c74ddde6-86e7-4b92-ad12-1a1428fb2eb9",
+      "firstName": "Buşra",
+      "lastName": "Deniz Akın",
+      "bio": "Buşra Deniz Akin is a Software Engineer who has a keen interest in developing high-quality mobile applications. Currently, she’s working for The App Business.\u2028\r\n\r\nBesides being co-organizer in two different communities, Google Developer Group and WomenTechMakers London, she enjoys voluntarily organising and speaking at developer events.  She believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives. ",
+      "tagLine": "Android Dev @TAB, Lead @GDGLondon & @WTMLondon ",
+      "profilePicture": "https://sessionize.com/image?f=43762e014edb25b83327ed7cb92420b4,400,400,True,False,b8968e37-c867-400f-8c2b-185384e2b47b.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/busradeniz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/busradeniz/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://busradeniz.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.theappbusiness.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        66130
+      ],
+      "fullName": "Buşra Deniz Akın"
+    },
+    {
+      "id": "fe371699-f0ea-4c5e-b799-3d2b395314a3",
+      "firstName": "Elia",
+      "lastName": "Rigo",
+      "bio": "I was born in 1994. I’ve always been interested in IT since I was a child. I’m currently a student at the University of Trento attending a Master in Computer Sciences. Simultaneously, in 2011, I set up my own startup and from 2017 I collaborate with the Bruno Kessler Foundation in the Embedded System division.",
+      "tagLine": "FBK, GDG Trento",
+      "profilePicture": "https://sessionize.com/image?f=0665932a5ac72bd519d86d40c9f35822,400,400,True,False,99-f0ea-4c5e-b799-3d2b395314a3.861b12a3-e8dd-4b85-8008-a8a8bfcc9900.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/elia-rigo-248bb716a/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://startout.blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://fbk.eu",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        64608
+      ],
+      "fullName": "Elia Rigo"
+    },
+    {
+      "id": "2e93a5e7-2037-4d7d-a548-7512f9c14960",
+      "firstName": "Fabio",
+      "lastName": "Collini",
+      "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
+      "tagLine": "Android Engineer at New York Times",
+      "profilePicture": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,True,False,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/fabioCollini",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fabiocollini",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://codingjam.it/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://codingjam.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        62541
+      ],
+      "fullName": "Fabio Collini"
+    },
+    {
+      "id": "7874fdec-9886-4824-83f5-09853494b438",
+      "firstName": "Francesca",
+      "lastName": "Stagnaro",
+      "bio": "I'm an electronic engineer. In my life I worked as consultant, developing web portals, but also as firmware developer and I have a lot of fun when I can develop IoT systems. I've been working in Revevol since 2016 and now I'm leading the development of a product which is deployed on GCP and which uses several GCP services. ",
+      "tagLine": "Revevol",
+      "profilePicture": "https://sessionize.com/image?f=5ea3b84785bc3f9033bb5629e5109aa5,400,400,True,False,ec-9886-4824-83f5-09853494b438.2fd26868-7340-4253-9725-68792e1bf63f.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/francesca-stagnaro-739a1312/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.revevol.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        63187
+      ],
+      "fullName": "Francesca Stagnaro"
+    },
+    {
+      "id": "6237b340-4f20-402b-bbe4-4e9e0d27a058",
+      "firstName": "Giuseppe",
+      "lastName": "Filograno",
+      "bio": "After a small game dev experience, I begin to develop iOS mobile application in 2014.\r\nNow I'm working on native Android and iOS app, discovering a lot of similarities!",
+      "tagLine": "Enjore Srl, Native Mobile Developer",
+      "profilePicture": "https://sessionize.com/image?f=34c5ee26d3c4943ffb6a1e1e9f946a6f,400,400,True,False,40-4f20-402b-bbe4-4e9e0d27a058.6bc075ac-ebb5-4864-9423-7be1fc1f99e3.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/filograno",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://it.linkedin.com/in/filograno",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.enjore.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        65780
+      ],
+      "fullName": "Giuseppe Filograno"
+    },
+    {
+      "id": "687de707-ffa6-4421-af42-f71b9f40bade",
+      "firstName": "Kaan",
+      "lastName": "Mamikoglu",
+      "bio": "Kaan is a mobile software engineer at MyDrive Solutions, a Generali company, in London, UK. As an active community builder, he has co-organized a lot of developer events in the UK and Turkey such as DevFests, Android Developer Days’, Android Study Jams, and has been a distinguished speaker at many international industry events in the US, UK, UAE, Turkey and Georgia. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
+      "tagLine": "Mobile Software Engineer @ MyDrive Solutions",
+      "profilePicture": "https://sessionize.com/image?f=99cbd7bc29ebf8f620ef0b93f1f90c86,400,400,True,False,07-ffa6-4421-af42-f71b9f40bade.8f62db66-efba-4461-8b77-fde1a4f4e197.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/kaanmamikoglu",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/iamkaan/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Website",
+          "url": "http://www.iamkaan.com/",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        62154,
+        62156
+      ],
+      "fullName": "Kaan Mamikoglu"
+    },
+    {
+      "id": "de1f0ec6-092a-4961-80f0-c99652a2b50b",
+      "firstName": "Laura",
+      "lastName": "Morinigo",
+      "bio": "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. She has been involved in the tech industry for over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working.\r\n",
+      "tagLine": "Software Developer , Mentor & Entrepreneur",
+      "profilePicture": "https://sessionize.com/image?f=b8a12d7196c1ae7bc1a96e3d75cf6f0e,400,400,True,False,57adcc44-81ff-4fde-8e0b-a901b8d52da8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/lala_morinigo",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/laurasmorinigo/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://dmodlabs.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        64189
+      ],
+      "fullName": "Laura Morinigo"
+    },
+    {
+      "id": "deb0793c-59f5-493c-90aa-45d6adb6ab72",
+      "firstName": "Leonardo",
+      "lastName": "Pirro",
+      "bio": "Nato nel 1993 a San Giovanni Rotondo, Puglia. Sin dalla giovane età mi sono avvicinato al mondo della tecnologia e dello sviluppo software. Android User since 2010, attualmente lavoro come Android Developer in IQUII, a Roma. Seguo tutto ciò che riguarda il mondo Google, in particolare Android e Assistant. Mi piace tutto ciò che riguarda il design e la UX. Ho una smodata passione per le architetture software e la pulizia del codice e nel tempo libero amo la fotografie, leggere, guardare Film/Serie TV o bere una birra in compagnia.",
+      "tagLine": "Android Developer ",
+      "profilePicture": "https://sessionize.com/image?f=430b357c0f86862fd6a0e4cf843ad2cc,400,400,True,False,3c-59f5-493c-90aa-45d6adb6ab72.ff4c12d4-f157-4127-9e48-61808056744a.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/LPirro93",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lpirro",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@lpirro",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://iquii.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        66144
+      ],
+      "fullName": "Leonardo Pirro"
+    },
+    {
+      "id": "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
+      "firstName": "Marco",
+      "lastName": "Gomiero",
+      "bio": "I am a Computer Engineer, currently working as Android Developer at Uniwhere. In the (very few) free time I organize events for the Google Developer Group Venezia, I write and talk about tech stuff on ZeroMag.eu and I write code",
+      "tagLine": "Android Developer @ Uniwhere",
+      "profilePicture": "https://sessionize.com/image?f=ce57f169c6921f306c9bf878c10d3fce,400,400,True,False,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        61990
+      ],
+      "fullName": "Marco Gomiero"
+    },
+    {
+      "id": "18a4c0bc-e7c2-406e-a9b2-1baad10169a3",
+      "firstName": "Matteo",
+      "lastName": "Venturi",
+      "bio": "Marketing manager e digital product integrator. La mia esperienza si basa su progetti di piattaforme HR digitali, e-Commerce ed advertising. Ho maturato la mia esperienza in aziende come Italiaonline, Matrix e Buongiorno. Negli ultimi anni ho lanciato e sviluppato startup in ambito #hr e #hrtech dal carattere innovativo e con impatto sociale come Jobmetoo, Jointly e Myco.",
+      "tagLine": "MYCO Srl",
+      "profilePicture": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/qbertmv",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteoventuri/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.linkedin.com/in/matteoventuri/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.myco.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        61989
+      ],
+      "fullName": "Matteo Venturi"
+    },
+    {
+      "id": "47f2bd26-43a8-4b05-9db3-19d04ca8cee8",
+      "firstName": "Mattia",
+      "lastName": "Piccirillo",
+      "bio": "Sono uno studente di informatica di quarta superiore, vivo a Firenze ed ho 17 anni.\r\nFrequento il GDG Milano da ormai 3 anni circa.\r\nSono un tipo decisamente \"fissato\" sul mondo Google, un vero fan ;).\r\nIl mio lavoro da sogno sarebbe quello di divnetare un Googler.",
+      "tagLine": "Studente",
+      "profilePicture": "https://sessionize.com/image?f=f84dbff0fa931d760eae57898f4a12ae,400,400,True,False,26-43a8-4b05-9db3-19d04ca8cee8.2150ff82-b0bd-4ea1-9d26-e711ec8ad96a.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://it.linkedin.com/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://wordpress.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://itismeucci.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        61968
+      ],
+      "fullName": "Mattia Piccirillo"
+    },
+    {
+      "id": "31513932-a9e7-4097-9ee9-8d886a54b63e",
+      "firstName": "Michel",
+      "lastName": "Murabito",
+      "bio": "Web Developer By Day, Superhero Wannabe By Night!",
+      "tagLine": "Developer Senior @Spindox",
+      "profilePicture": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/michelmurabito",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michel-murabito-b5568845",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@mich.murabito/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.spindox.it/it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        63197
+      ],
+      "fullName": "Michel Murabito"
+    },
+    {
+      "id": "42767f6e-7503-4017-b3e3-250175e1e00a",
+      "firstName": "Michelantonio",
+      "lastName": "Trizio",
+      "bio": "Engineer & Entreprener. I took master degree in computer Engineering with thesis in Artificial Intelligence at Polytechnic University of Bari in 2007. I worked for several years in ICT companies in the south of Italy as developer. I attended the Mind The Bridge startup school in San Francisco in 2011. Back in Italy I started working on my own companies. I'm the founder of GDG Bari and he is the current community lead. Now, I'm the CTO of Wideverse, a spin-off of Polytechnic University of Bari that works on VR and AR technologies. I'm an Android developer.",
+      "tagLine": "CTO @ Wideverse",
+      "profilePicture": "https://sessionize.com/image?f=f503990b873ed9bac4ff0cd638d692f9,400,400,True,False,9e4592e8-3873-4cdb-9b58-92dc806b167c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mik3lantoni0",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michelantoniotrizio/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://nerdipity.org",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.wideverse.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        64727,
+        65975
+      ],
+      "fullName": "Michelantonio Trizio"
+    },
+    {
+      "id": "33c7ffcf-6824-4f31-bac7-fea7ef2d4565",
+      "firstName": "Panayotis",
+      "lastName": "Tzinis",
+      "bio": "Panayotis (AKA Darth), is the Intelligence Tech Lead of the X Factory of Moonshot Lab. \r\nThe X Factory is a tech tank based  on the planet of Mustafar, where crazy people, from scientists to artists, to developers to technologists, share their ideas in order to create moonshots! A moonshot is a radical solution, integrating breakthrough technology with native thinking. More than on projects we are exploring ambitions!\r\nPanayotis is also a Google Dev Expert on Product Strategy and a certified Google Sprint Master\r\n",
+      "tagLine": "GDE Product Design | Google Sprint Master",
+      "profilePicture": "https://sessionize.com/image?f=0fccf459aefd1d0027411cefd2fa3b08,400,400,True,False,167a67f6-3309-4e6f-a607-f49daea54087.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ptzinis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ptzinis/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://mustafar.xyz",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        65058
+      ],
+      "fullName": "Panayotis Tzinis"
+    },
+    {
+      "id": "7d912e80-f02c-42cf-92db-98e670bef1a6",
+      "firstName": "Roberto",
+      "lastName": "Orgiu",
+      "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
+      "tagLine": "Android Engineer @ NYTimes",
+      "profilePicture": "https://sessionize.com/image?f=8b9cf748e690ad84ba58a601bc3070bc,400,400,True,False,7d83f897-2077-4dfc-9215-bb72e5d4536b.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/_tiwiz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/robertoorgiu",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@_tiwiz",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.nytimes.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        62582
+      ],
+      "fullName": "Roberto Orgiu"
+    },
+    {
+      "id": "d626d52e-8fc3-4be6-8abe-2968c3adbdaf",
+      "firstName": "Simone",
+      "lastName": "Scardapane",
+      "bio": "I am a post-doc with a focus in machine learning and deep learning. I am very keen on promoting machine learning concepts and making them accessible to everyone by organizing events, speeches, and hackathons. I am the co-organizer of the Rome Machine Learning & Data Science Meetup, that organizes monthly events in Rome, and a member of the advisory board for Codemotion Italy. I am also a co-founder of the Italian Association for Machine Learning, a not-for-profit organization with the aim of promoting machine learning concepts in the public.",
+      "tagLine": "Post-doc @ Sapienza | GDE for ML | IAML co-founder",
+      "profilePicture": "https://sessionize.com/image?f=0e593878500a30ab8f31baa42841a1ca,400,400,True,False,2e-8fc3-4be6-8abe-2968c3adbdaf.434ba2bf-77a5-4727-b56e-60186e698dff.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/simonescardapane/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.iaml.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        65786
+      ],
+      "fullName": "Simone Scardapane"
+    },
+    {
+      "id": "a60c7b8a-c42b-4587-820c-37aca6a52186",
+      "firstName": "Valentina",
+      "lastName": "Carrirolo",
+      "bio": "Commumity lover ❤web designer and developer🤓 JOB: Community Manager @Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒️",
+      "tagLine": "Community lover <3",
+      "profilePicture": "https://sessionize.com/image?f=5a485ab83a5d87cb5fab0a62bb820e40,400,400,True,False,67317295-3cf6-4c9b-9b11-bde855a8208d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/valentinacarrirolo/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://codemotionworld.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        65840
+      ],
+      "fullName": "Valentina Carrirolo"
+    }
+  ],
+  "questions": [],
+  "categories": [
+    {
+      "id": 2524,
+      "title": "Session format",
+      "items": [
+        {
+          "id": 11989,
+          "name": "Talk",
+          "sort": 1
+        },
+        {
+          "id": 11988,
+          "name": "Workshop",
+          "sort": 2
+        }
+      ],
+      "sort": 1000
+    },
+    {
+      "id": 2525,
+      "title": "Level",
+      "items": [
+        {
+          "id": 11990,
+          "name": "Introductory and overview",
+          "sort": 1
+        },
+        {
+          "id": 11991,
+          "name": "Intermediate",
+          "sort": 2
+        },
+        {
+          "id": 11992,
+          "name": "Advanced",
+          "sort": 3
+        }
+      ],
+      "sort": 1002
+    },
+    {
+      "id": 2526,
+      "title": "Language",
+      "items": [
+        {
+          "id": 11993,
+          "name": "English",
+          "sort": 1
+        },
+        {
+          "id": 11994,
+          "name": "Italian",
+          "sort": 2
+        }
+      ],
+      "sort": 1003
+    },
+    {
+      "id": 2527,
+      "title": "Tags",
+      "items": [
+        {
+          "id": 11995,
+          "name": "Angular",
+          "sort": 1
+        },
+        {
+          "id": 11996,
+          "name": "Android",
+          "sort": 2
+        },
+        {
+          "id": 11997,
+          "name": "Assistant",
+          "sort": 3
+        },
+        {
+          "id": 11998,
+          "name": "Big Data",
+          "sort": 4
+        },
+        {
+          "id": 11999,
+          "name": "Blockchain",
+          "sort": 5
+        },
+        {
+          "id": 12000,
+          "name": "Cloud Container (Docker",
+          "sort": 6
+        },
+        {
+          "id": 12011,
+          "name": "Digital Wellbeing",
+          "sort": 7
+        },
+        {
+          "id": 12001,
+          "name": " Kubernetes)",
+          "sort": 8
+        },
+        {
+          "id": 12002,
+          "name": "Cloud Functions",
+          "sort": 9
+        },
+        {
+          "id": 12003,
+          "name": "Design",
+          "sort": 10
+        },
+        {
+          "id": 12004,
+          "name": "Firebase",
+          "sort": 11
+        },
+        {
+          "id": 12005,
+          "name": "Flutter",
+          "sort": 12
+        },
+        {
+          "id": 12006,
+          "name": "IoT",
+          "sort": 13
+        },
+        {
+          "id": 12012,
+          "name": "Kotlin",
+          "sort": 14
+        },
+        {
+          "id": 12007,
+          "name": "Machine Learning",
+          "sort": 15
+        },
+        {
+          "id": 12008,
+          "name": "Marketing",
+          "sort": 16
+        },
+        {
+          "id": 12009,
+          "name": "Social Media",
+          "sort": 17
+        },
+        {
+          "id": 12010,
+          "name": "Web",
+          "sort": 18
+        },
+        {
+          "id": 13101,
+          "name": "ARCore",
+          "sort": 19
+        }
+      ],
+      "sort": 1004
+    }
+  ],
+  "rooms": [
+    {
+      "id": 2357,
+      "name": "Magna",
+      "sort": 0
+    },
+    {
+      "id": 2358,
+      "name": "U6-7",
+      "sort": 1
+    },
+    {
+      "id": 2411,
+      "name": "New room",
+      "sort": 2
+    },
+    {
+      "id": 2359,
+      "name": "U6-6-6",
+      "sort": 3
+    }
+  ]
+}
