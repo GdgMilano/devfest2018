@@ -1,5 +1,5 @@
 <p align="center">
-<img width="720px" src="https://user-images.githubusercontent.com/2954281/39627047-0ced461a-4fad-11e8-84bb-65e8f090d67d.png">
+<img width="800px" src="https://user-images.githubusercontent.com/2954281/42683571-55ba6be6-8696-11e8-8ff7-e9acd0db63e8.png">
 </p>
 <p align="center">
 <a href="https://hoverboard-master.firebaseapp.com" align="center">:zap: Live demo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -33,6 +33,7 @@ Our goal is to allow event organizers to set up professional conference website 
 1. Setup Environment
    * Install [Node.js (v8.9.4 or above)](https://nodejs.org/en/download/)
    * Install Firebase CLI: `npm i -g firebase-tools` or `yarn global add firebase-tools`
+1. Install project dependencies: `npm install` or `yarn`
 1. Create [Firebase account](https://console.firebase.google.com) and login into [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login`
 1. Update [Hoverboard config](/config) and [Resources](/data)
 1. Import initial data to the Firebase Database
@@ -43,8 +44,6 @@ Our goal is to allow event organizers to set up professional conference website 
     * [Optional] You can edit `docs/default-firebase-data.json)` file using your own data
     * Run `npm run firestore:init` or `yarn firestore:init`
 1. Run locally
-   * `cd` into the base directory
-   * `npm install` or `yarn`
    * `npm run serve` or `yarn serve`
 1. Build and deploy
    * `npm run deploy` or `yarn deploy`
