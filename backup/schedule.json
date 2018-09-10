@@ -52,11 +52,14 @@
             ]
           },
           {
+            "extend" : 2,
             "items": [
               "guida_intergalattica_per_cercatori_di_lavoro"
             ]
           },
           {
+
+            "extend" : 3,
             "items": [
               "designing_for_wicked_challenges"
             ]
@@ -142,6 +145,7 @@
             ]
           },
           {
+            "extend" : 2,
             "items": [
               "firebase_cloud_firestore_deep_dive"
             ]
@@ -192,6 +196,7 @@
             ]
           },
           {
+            "extend" : 2,
             "items": [
               "introduction_to_sceneform"
             ]
