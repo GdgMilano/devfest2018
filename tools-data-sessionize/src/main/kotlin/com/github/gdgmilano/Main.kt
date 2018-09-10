@@ -213,5 +213,17 @@ fun main(args: Array<String>) {
     speakersFile.writeText(speakersNew.toJson())
   }
 
+
+  File("${backupFolder}social.txt").writeText(sessionsNew.map {
+    val session = it.value
+    if (session.language == "English") {
+      "DevFest Milano 2018 - FREE Conference (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nJoin now https://devfest2018.gdgmilano.it\n${session.tags?.map { "#$it" }?.joinToString(" ")}"
+    } else {
+      "DevFest Milano 2018 - Conferenza gratuita (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nIscrivi ora su https://devfest2018.gdgmilano.it\n${session.tags?.map { "#$it" }?.joinToString(" ")}"
+
+
+    }
+  }.joinToString("\n\n"))
+
 }
 
