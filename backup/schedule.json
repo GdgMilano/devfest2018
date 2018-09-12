@@ -1,6 +1,5 @@
 {
   "2018-10-06": {
-    "date": "2018-10-06",
     "tracks": [
       {
         "title": "Magna"
@@ -18,6 +17,7 @@
     "dateReadable": "Programma della giornata",
     "timeslots": [
       {
+        "endTime": "09:30",
         "startTime": "09:00",
         "sessions": [
           {
@@ -25,19 +25,18 @@
               "registration"
             ]
           }
-        ],
-        "endTime": "09:30"
+        ]
       },
       {
+        "endTime": "10:25",
+        "startTime": "09:35",
         "sessions": [
           {
             "items": [
               "opening"
             ]
           }
-        ],
-        "endTime": "10:25",
-        "startTime": "09:35"
+        ]
       },
       {
         "sessions": [
@@ -52,17 +51,16 @@
             ]
           },
           {
-            "extend" : 2,
             "items": [
               "guida_intergalattica_per_cercatori_di_lavoro"
-            ]
+            ],
+            "extend": 2
           },
           {
-
-            "extend" : 3,
             "items": [
               "designing_for_wicked_challenges"
-            ]
+            ],
+            "extend": 3
           }
         ],
         "endTime": "11:10",
@@ -91,6 +89,7 @@
         "endTime": "12:00"
       },
       {
+        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -111,8 +110,7 @@
           {
             "items": []
           }
-        ],
-        "endTime": "12:50"
+        ]
       },
       {
         "endTime": "13:45",
@@ -126,8 +124,6 @@
         ]
       },
       {
-        "endTime": "14:30",
-        "startTime": "13:50",
         "sessions": [
           {
             "items": [
@@ -145,14 +141,18 @@
             ]
           },
           {
-            "extend" : 2,
             "items": [
               "firebase_cloud_firestore_deep_dive"
-            ]
+            ],
+            "extend": 2
           }
-        ]
+        ],
+        "endTime": "14:30",
+        "startTime": "13:50"
       },
       {
+        "endTime": "15:20",
+        "startTime": "14:40",
         "sessions": [
           {
             "items": [
@@ -172,12 +172,9 @@
           {
             "items": []
           }
-        ],
-        "endTime": "15:20",
-        "startTime": "14:40"
+        ]
       },
       {
-        "endTime": "16:10",
         "startTime": "15:30",
         "sessions": [
           {
@@ -196,14 +193,17 @@
             ]
           },
           {
-            "extend" : 2,
             "items": [
               "introduction_to_sceneform"
-            ]
+            ],
+            "extend": 2
           }
-        ]
+        ],
+        "endTime": "16:10"
       },
       {
+        "endTime": "17:00",
+        "startTime": "16:20",
         "sessions": [
           {
             "items": [
@@ -223,21 +223,20 @@
           {
             "items": []
           }
-        ],
-        "endTime": "17:00",
-        "startTime": "16:20"
+        ]
       },
       {
+        "endTime": "17:30",
+        "startTime": "17:05",
         "sessions": [
           {
             "items": [
               "closing"
             ]
           }
-        ],
-        "endTime": "17:30",
-        "startTime": "17:05"
+        ]
       }
-    ]
+    ],
+    "date": "2018-10-06"
   }
 }

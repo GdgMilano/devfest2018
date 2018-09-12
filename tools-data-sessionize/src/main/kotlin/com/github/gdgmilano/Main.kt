@@ -13,7 +13,7 @@ import java.util.*
 
 const val isFirestoreBackupEnabled = true
 const val isForceUpdateSessionize = true
-const val isUpdateSpeakerData = true
+const val isUpdateSpeakerData = false
 
 const val sessionizeUrl = "https://sessionize.com/api/v2/y2kbnktu/view/all"
 
@@ -58,7 +58,7 @@ fun main(args: Array<String>) {
 
   // Build: Schedule
 
-  val mapRoomId = sessionize.rooms.mapIndexed { index, room -> room.id to index }.toMap()
+  val mapExtended = scheduleOld.day1.timeslots.flatMap { it.sessions }.filter { it.items.isNotEmpty() }.map { it.items.first() to it.extend }.toMap()
 
   class ScheduleLite(val startTime: String, val endTime: String, val roomId: Long, val sessionId: String)
 
@@ -80,7 +80,7 @@ fun main(args: Array<String>) {
       sessions = sessionize.rooms.map { room ->
         schedules
           .firstOrNull { room.id == it.roomId }
-          ?.let { Hoverboard.SessionKey(listOf(it.sessionId)) }
+          ?.let { Hoverboard.SessionKey(listOf(it.sessionId), mapExtended[it.sessionId]) }
           ?: Hoverboard.SessionKey(emptyList())
       },
       endTime = schedules.minBy { it.endTime }!!.endTime

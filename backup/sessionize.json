@@ -35,8 +35,8 @@
         11989,
         11991,
         11994,
-        12012,
-        11996
+        11996,
+        12012
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -70,7 +70,8 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "a60c7b8a-c42b-4587-820c-37aca6a52186"
+        "a60c7b8a-c42b-4587-820c-37aca6a52186",
+        "ed7e90bc-d5fe-445e-8fc3-e417a9b7a540"
       ],
       "categoryItems": [
         11988,
@@ -159,9 +160,9 @@
         11991,
         11993,
         11996,
-        12003,
         12004,
-        11997
+        11997,
+        12003
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -389,8 +390,8 @@
         11989,
         11991,
         11994,
-        11996,
-        12003
+        12003,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -648,6 +649,20 @@
         66130
       ],
       "fullName": "Buşra Deniz Akın"
+    },
+    {
+      "id": "ed7e90bc-d5fe-445e-8fc3-e417a9b7a540",
+      "firstName": "Clara",
+      "lastName": "Canova",
+      "bio": "TBD",
+      "tagLine": "ninja",
+      "profilePicture": "https://sessionize.com/image?f=12d4dd79f1add2fa65b0d6ea789d79ef,400,400,True,False,80b925c7-2ec2-41a3-b3df-71138da2563e.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        65840
+      ],
+      "fullName": "Clara Canova"
     },
     {
       "id": "fe371699-f0ea-4c5e-b799-3d2b395314a3",
