@@ -29,6 +29,7 @@
         ]
       },
       {
+        "startTime": "09:35",
         "sessions": [
           {
             "items": [
@@ -36,8 +37,7 @@
             ]
           }
         ],
-        "endTime": "10:25",
-        "startTime": "09:35"
+        "endTime": "10:25"
       },
       {
         "endTime": "11:10",
@@ -90,6 +90,7 @@
         ]
       },
       {
+        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -110,8 +111,7 @@
           {
             "items": []
           }
-        ],
-        "endTime": "12:50"
+        ]
       },
       {
         "endTime": "13:45",
@@ -128,7 +128,7 @@
         "sessions": [
           {
             "items": [
-              "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"
+              "arcore_is_magic"
             ]
           },
           {
@@ -156,9 +156,7 @@
         "startTime": "14:40",
         "sessions": [
           {
-            "items": [
-              "arcore_is_magic"
-            ]
+            "items": []
           },
           {
             "items": [
@@ -176,6 +174,8 @@
         ]
       },
       {
+        "endTime": "16:10",
+        "startTime": "15:30",
         "sessions": [
           {
             "items": [
@@ -184,12 +184,12 @@
           },
           {
             "items": [
-              "how_to_become_an_android_dev_starting_from_ios_and_vice_versa"
+              "abracagan_introduction_to_the_almost_magical_world_of_gans"
             ]
           },
           {
             "items": [
-              "creating_ml-powered_applications"
+              "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"
             ]
           },
           {
@@ -198,9 +198,7 @@
             ],
             "extend": 2
           }
-        ],
-        "endTime": "16:10",
-        "startTime": "15:30"
+        ]
       },
       {
         "endTime": "17:00",
@@ -213,7 +211,31 @@
           },
           {
             "items": [
+              "creating_ml-powered_applications"
+            ]
+          },
+          {
+            "items": [
+              "how_to_become_an_android_dev_starting_from_ios_and_vice_versa"
+            ]
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "endTime": "17:50",
+        "startTime": "17:10",
+        "sessions": [
+          {
+            "items": [
               "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+            ]
+          },
+          {
+            "items": [
+              "the_build_time_of_my_life"
             ]
           },
           {
@@ -227,15 +249,15 @@
         ]
       },
       {
-        "endTime": "17:30",
-        "startTime": "17:05",
+        "startTime": "17:50",
         "sessions": [
           {
             "items": [
               "closing"
             ]
           }
-        ]
+        ],
+        "endTime": "18:10"
       }
     ]
   }

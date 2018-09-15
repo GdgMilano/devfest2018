@@ -213,17 +213,12 @@ fun main(args: Array<String>) {
     speakersFile.writeText(speakersNew.toJson())
   }
 
-
   File("${backupFolder}social.txt").writeText(sessionsNew.map {
     val session = it.value
     if (session.language == "English") {
-      "DevFest Milano 2018 - FREE Conference (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nJoin now https://devfest2018.gdgmilano.it\n${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")} #DevFest18"
+      "DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=${makeSlug(session.title)}\nTalk by ${session.speakers!!.map { speakersNew[it]!!.name }.joinToString()} on ${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")}\nJoin now - FREE Conference (20+ speaker) #DevFest18"
     } else {
-      "DevFest Milano 2018 - Conferenza gratuita (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nIscrivi ora su https://devfest2018.gdgmilano.it\n${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")} #DevFest18"
-
-
+      "DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=${makeSlug(session.title)}\nTalk di ${session.speakers!!.map { speakersNew[it]!!.name }.joinToString()} su ${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")}\nIscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18"
     }
   }.joinToString("\n\n"))
-
 }
-
