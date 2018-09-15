@@ -13,7 +13,7 @@ import java.util.*
 
 const val isFirestoreBackupEnabled = true
 const val isForceUpdateSessionize = true
-const val isUpdateSpeakerData = false
+const val isUpdateSpeakerData = true
 
 const val sessionizeUrl = "https://sessionize.com/api/v2/y2kbnktu/view/all"
 
@@ -217,9 +217,9 @@ fun main(args: Array<String>) {
   File("${backupFolder}social.txt").writeText(sessionsNew.map {
     val session = it.value
     if (session.language == "English") {
-      "DevFest Milano 2018 - FREE Conference (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nJoin now https://devfest2018.gdgmilano.it\n${session.tags?.map { "#$it" }?.joinToString(" ")}"
+      "DevFest Milano 2018 - FREE Conference (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nJoin now https://devfest2018.gdgmilano.it\n${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")} #DevFest18"
     } else {
-      "DevFest Milano 2018 - Conferenza gratuita (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nIscrivi ora su https://devfest2018.gdgmilano.it\n${session.tags?.map { "#$it" }?.joinToString(" ")}"
+      "DevFest Milano 2018 - Conferenza gratuita (20+ speaker)\nTalk: ${session.title} (by ${speakersNew[session.speakers!!.first()]!!.name})\nIscrivi ora su https://devfest2018.gdgmilano.it\n${session.tags?.map { "#${it.replace(" ", "")}" }?.joinToString(" ")} #DevFest18"
 
 
     }

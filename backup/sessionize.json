@@ -35,8 +35,8 @@
         11989,
         11991,
         11994,
-        11996,
-        12012
+        12012,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -77,8 +77,8 @@
         11988,
         11990,
         11994,
-        12009,
-        12011
+        12011,
+        12009
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -209,27 +209,6 @@
       "roomId": 2359
     },
     {
-      "id": "63197",
-      "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
-      "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
-      "startsAt": "2018-10-06T13:50:00",
-      "endsAt": "2018-10-06T14:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "31513932-a9e7-4097-9ee9-8d886a54b63e"
-      ],
-      "categoryItems": [
-        11989,
-        11991,
-        11994,
-        12004,
-        12010
-      ],
-      "questionAnswers": [],
-      "roomId": 2357
-    },
-    {
       "id": "64189",
       "title": "ML Kit for Mobile Developers",
       "description": "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package.  During this talk, we are going to learn how we can boost out firebase app with a live demo that uses image recognition.",
@@ -244,8 +223,8 @@
         11989,
         11991,
         11993,
-        12004,
-        12007
+        12007,
+        12004
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -271,6 +250,26 @@
       "roomId": 2411
     },
     {
+      "id": "64727",
+      "title": "ARCore is Magic",
+      "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "42767f6e-7503-4017-b3e3-250175e1e00a"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
       "id": "62552",
       "title": "Game of coins: on the future of blockchain",
       "description": "The technology of Blockchain, the more complex step after Bitcoin, has compelling possibilities. Because it offers a decentralized\r\napproach to money, blockchain has the potential to promote and achieve fairness and democratization. Blockchain also has the ability to transform numerous sectors: in the financial sector, it encourages people to take initiative in innovation; in government, it creates greater transparency and makes the process of providing services more efficient. These are important developments that are worth pursuing — not for the few, but for the many. The use case for blockchain is tremendous and opportunities are abundant. \r\nThis speech offers a unique approach to the blockchain, explained simply and straightforward, then it provides an overview of my personal experience in Blockchain programming and predicts the future of this mesmerizing technology.",
@@ -293,26 +292,6 @@
       "roomId": 2358
     },
     {
-      "id": "64727",
-      "title": "ARCore is Magic",
-      "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App",
-      "startsAt": "2018-10-06T14:40:00",
-      "endsAt": "2018-10-06T15:20:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "42767f6e-7503-4017-b3e3-250175e1e00a"
-      ],
-      "categoryItems": [
-        11989,
-        11990,
-        11994,
-        11996
-      ],
-      "questionAnswers": [],
-      "roomId": 2357
-    },
-    {
       "id": "65786",
       "title": "Il lato oscuro del Deep Learning",
       "description": "Tutti hanno sentito parlare almeno una volta del potere magico del machine learning. Quanti conoscono però il “lato oscuro” delle tecnologie data-driven, come bias negli algoritmi, violazione della privacy, e minacce alla sicurezza? Attenzione ad affidarsi ciecamente al “deep learning”, a meno di non essere in cerca di “deep trouble”.",
@@ -327,32 +306,32 @@
         11989,
         11990,
         11994,
-        12007,
-        11998
+        11998,
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2411
     },
     {
-      "id": "65780",
-      "title": "How to become an Android dev starting from iOS (and vice versa)",
-      "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
+      "id": "63197",
+      "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+      "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
       "startsAt": "2018-10-06T15:30:00",
       "endsAt": "2018-10-06T16:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "6237b340-4f20-402b-bbe4-4e9e0d27a058"
+        "31513932-a9e7-4097-9ee9-8d886a54b63e"
       ],
       "categoryItems": [
         11989,
         11991,
         11994,
-        12012,
-        11996
+        12010,
+        12004
       ],
       "questionAnswers": [],
-      "roomId": 2358
+      "roomId": 2411
     },
     {
       "id": "65975",
@@ -390,18 +369,60 @@
         11989,
         11991,
         11994,
-        12003,
-        11996
+        11996,
+        12003
       ],
       "questionAnswers": [],
       "roomId": 2357
     },
     {
+      "id": "66464",
+      "title": "AbracaGAN: Introduction to the almost magical world of GANs",
+      "description": "Requires: entry-level Python and TensorFlow knowledge\r\n\r\nGenerative Adversarial Networks (GANs for brevity) are one of the hottest topics in the Deep Learning world.\r\n\r\nAfter briefly introducing the core theory behind this family of models, we will go over some significant milestones and real-world applications. Having a better understanding of what a GAN is and how it can solve real-world problems, the talk will cover how to code one using Python + TensorFlow and the few steps required to deliver it quickly to production using Google Cloud ML Engine.\r\n\r\nThe Talk will feature slides, materials under the form of Jupyter Notebooks on Colab will be made available before the session.",
+      "startsAt": "2018-10-06T15:30:00",
+      "endsAt": "2018-10-06T16:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "77cbcd06-33e5-4a01-8686-2598943d45fd"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        11998,
+        12007
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
+      "id": "65780",
+      "title": "How to become an Android dev starting from iOS (and vice versa)",
+      "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
+      "startsAt": "2018-10-06T16:20:00",
+      "endsAt": "2018-10-06T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6237b340-4f20-402b-bbe4-4e9e0d27a058"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12012,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
       "id": "66130",
       "title": "Creating ML-powered applications",
       "description": "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background.  \r\n\r\nIn this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We'll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit   ",
-      "startsAt": "2018-10-06T15:30:00",
-      "endsAt": "2018-10-06T16:10:00",
+      "startsAt": "2018-10-06T16:20:00",
+      "endsAt": "2018-10-06T17:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -411,50 +432,9 @@
         11989,
         11991,
         11993,
+        12004,
         12007,
-        11996,
-        12004
-      ],
-      "questionAnswers": [],
-      "roomId": 2411
-    },
-    {
-      "id": "61968",
-      "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
-      "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
-      "startsAt": "2018-10-06T16:20:00",
-      "endsAt": "2018-10-06T17:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "47f2bd26-43a8-4b05-9db3-19d04ca8cee8"
-      ],
-      "categoryItems": [
-        11989,
-        11990,
-        11994,
-        12009,
-        12010
-      ],
-      "questionAnswers": [],
-      "roomId": 2411
-    },
-    {
-      "id": "61988",
-      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
-      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
-      "startsAt": "2018-10-06T16:20:00",
-      "endsAt": "2018-10-06T17:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b908d4a9-f8d5-44db-a785-f608885eff46"
-      ],
-      "categoryItems": [
-        11989,
-        11991,
-        11994,
-        11999
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -478,6 +458,66 @@
       ],
       "questionAnswers": [],
       "roomId": 2357
+    },
+    {
+      "id": "61968",
+      "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
+      "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
+      "startsAt": "2018-10-06T17:10:00",
+      "endsAt": "2018-10-06T17:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "47f2bd26-43a8-4b05-9db3-19d04ca8cee8"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11994,
+        12009,
+        12010
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "61988",
+      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+      "startsAt": "2018-10-06T17:10:00",
+      "endsAt": "2018-10-06T17:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        11999
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "66398",
+      "title": "The (build) time of my life",
+      "description": "Building an Android app can be an extremely frustrating experience for developers. Despite caching and all the new features in the Android build system, sometimes even the smallest change can cause a new build to take minutes. In this talk we will explore ways to improve your build times in a modern project that uses Kotlin, annotation processing and multiple modules.",
+      "startsAt": "2018-10-06T17:10:00",
+      "endsAt": "2018-10-06T17:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6e7e2ce7-eeff-45d1-860b-3569ea948a29"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
     }
   ],
   "speakers": [
@@ -881,6 +921,26 @@
       "fullName": "Leonardo Pirro"
     },
     {
+      "id": "6e7e2ce7-eeff-45d1-860b-3569ea948a29",
+      "firstName": "Lorenzo",
+      "lastName": "Quiroli",
+      "bio": "Born and raised in a small town near Milan, now living in London where he's happily coding Android apps. He's even happier when he can write them in Kotlin, his favourite programming language. Feel free to ping him if you want to talk about code or football",
+      "tagLine": "Senior Android Developer @ busuu",
+      "profilePicture": "https://sessionize.com/image?f=6b8397b5f4b3c1b7e7b8c6082988ba09,400,400,True,False,84d1f0ce-4a28-4f0c-9afd-3325d2e32606.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/lorenzoquiroli",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        66398
+      ],
+      "fullName": "Lorenzo Quiroli"
+    },
+    {
       "id": "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
       "firstName": "Marco",
       "lastName": "Gomiero",
@@ -1034,6 +1094,41 @@
         65975
       ],
       "fullName": "Michelantonio Trizio"
+    },
+    {
+      "id": "77cbcd06-33e5-4a01-8686-2598943d45fd",
+      "firstName": "Michele",
+      "lastName": "De Simoni",
+      "bio": "https://www.linkedin.com/in/micheledesimoni/",
+      "tagLine": "Machine Learning Engineer",
+      "profilePicture": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mr_ubik",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/micheledesimoni/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ubik.tech",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://zuru.tech",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        66464
+      ],
+      "fullName": "Michele De Simoni"
     },
     {
       "id": "33c7ffcf-6824-4f31-bac7-fea7ef2d4565",

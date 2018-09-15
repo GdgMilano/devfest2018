@@ -1,5 +1,6 @@
 {
   "2018-10-06": {
+    "date": "2018-10-06",
     "tracks": [
       {
         "title": "Magna"
@@ -28,17 +29,19 @@
         ]
       },
       {
-        "endTime": "10:25",
-        "startTime": "09:35",
         "sessions": [
           {
             "items": [
               "opening"
             ]
           }
-        ]
+        ],
+        "endTime": "10:25",
+        "startTime": "09:35"
       },
       {
+        "endTime": "11:10",
+        "startTime": "10:30",
         "sessions": [
           {
             "items": [
@@ -62,11 +65,10 @@
             ],
             "extend": 3
           }
-        ],
-        "endTime": "11:10",
-        "startTime": "10:30"
+        ]
       },
       {
+        "endTime": "12:00",
         "startTime": "11:20",
         "sessions": [
           {
@@ -85,11 +87,9 @@
           {
             "items": []
           }
-        ],
-        "endTime": "12:00"
+        ]
       },
       {
-        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -110,7 +110,8 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:50"
       },
       {
         "endTime": "13:45",
@@ -175,7 +176,6 @@
         ]
       },
       {
-        "startTime": "15:30",
         "sessions": [
           {
             "items": [
@@ -199,7 +199,8 @@
             "extend": 2
           }
         ],
-        "endTime": "16:10"
+        "endTime": "16:10",
+        "startTime": "15:30"
       },
       {
         "endTime": "17:00",
@@ -236,7 +237,6 @@
           }
         ]
       }
-    ],
-    "date": "2018-10-06"
+    ]
   }
 }
