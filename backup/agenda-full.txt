@@ -1,0 +1,143 @@
+09:00
+
+Registration
+
+09:35
+
+GDG Milano 2018 - Opening keynote
+
+10:30
+
+SOLID principles in practice: the clean architecture
+    by Fabio Collini | #Android #Kotlin
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=solid_principles_in_practice_the_clean_architecture
+
+Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays
+    by Aygul Zagidullina | #Assistant
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays
+
+Guida intergalattica per cercatori di lavoro
+    by Valentina Carrirolo, Clara Canova | #SocialMedia #DigitalWellbeing
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=guida_intergalattica_per_cercatori_di_lavoro
+
+Designing for wicked challenges
+    by Panayotis Tzinis | #Design
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=designing_for_wicked_challenges
+
+
+11:20
+
+Library development: open source your ideas!
+    by Marco Gomiero, Andrea Maglie | #OpenSource
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=library_development_open_source_your_ideas
+
+Behind the curtains: how Photos™ works
+    by Roberto Orgiu | #Kotlin #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=behind_the_curtains_how_photos_works
+
+
+12:10
+
+Develop a product on GCP
+    by Francesca Stagnaro | #GoogleCloud #Web #Design
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=develop_a_product_on_gcp
+
+Want a Slice?
+    by Kaan Mamikoglu | #Firebase #Design #Assistant #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=want_a_slice
+
+HRmatch: Machine Learning vs Pregiudizi umani
+    by Matteo Venturi | #MachineLearning
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=hrmatch_machine_learning_vs_pregiudizi_umani
+
+
+12:55
+
+Lunch
+
+13:50
+
+ARCore is Magic
+    by Michelantonio Trizio | #ARCore #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=arcore_is_magic
+
+ML Kit for Mobile Developers
+    by Laura Morinigo | #MachineLearning #Firebase
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=ml_kit_for_mobile_developers
+
+Image Recognition with TensorFlow using Deep Learning
+    by Elia Rigo | #MachineLearning
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=image_recognition_with_tensorflow_using_deep_learning
+
+Firebase Cloud Firestore: Deep Dive
+    by Kaan Mamikoglu | #GoogleCloud #Firebase
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=firebase_cloud_firestore_deep_dive
+
+
+14:40
+
+Game of coins: on the future of blockchain
+    by Anđela Todorović | #Blockchain #CloudFunctions #IoT
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=game_of_coins_on_the_future_of_blockchain
+
+Il lato oscuro del Deep Learning
+    by Simone Scardapane | #BigData #MachineLearning
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=il_lato_oscuro_del_deep_learning
+
+
+15:20
+
+Coffee break
+
+15:40
+
+Motion Layout: easy animations for everyone!
+    by Boris D'Amato | #Design #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=motion_layout_easy_animations_for_everyone
+
+AbracaGAN: Introduction to the almost magical world of GANs
+    by Michele De Simoni | #MachineLearning #BigData
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=abracagan_introduction_to_the_almost_magical_world_of_gans
+
+La Morte Nera, e se fosse prototipizzata con Firebase e React?
+    by Michel Murabito | #Web #Firebase
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react
+
+Introduction to SceneForm
+    by Michelantonio Trizio | #Android #ARCore
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=introduction_to_sceneform
+
+
+16:30
+
+Android JetPack: Easy navigation with the new Navigation Controller
+    by Leonardo Pirro | #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=android_jetpack_easy_navigation_with_the_new_navigation_controller
+
+Creating ML-powered applications
+    by Buşra Deniz Akın | #Android #MachineLearning #Firebase
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=creating_ml-powered_applications
+
+Digital records evidence - Oracles and the Bitcoin blockchain
+    by Alessandro Aglietti | #Blockchain
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=digital_records_evidence_-_oracles_and_the_bitcoin_blockchain
+
+
+17:20
+
+How to become an Android dev starting from iOS (and vice versa)
+    by Giuseppe Filograno | #Kotlin #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=how_to_become_an_android_dev_starting_from_ios_and_vice_versa
+
+The (build) time of my life
+    by Lorenzo Quiroli | #Android
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=the_build_time_of_my_life
+
+Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza
+    by Mattia Piccirillo | #SocialMedia #Web
+    https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza
+
+
+18:00
+
+Closing
