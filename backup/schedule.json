@@ -29,7 +29,6 @@
         ]
       },
       {
-        "startTime": "09:35",
         "sessions": [
           {
             "items": [
@@ -37,7 +36,8 @@
             ]
           }
         ],
-        "endTime": "10:25"
+        "endTime": "10:25",
+        "startTime": "09:35"
       },
       {
         "endTime": "11:10",
@@ -54,10 +54,10 @@
             ]
           },
           {
+            "extend": 2,
             "items": [
               "guida_intergalattica_per_cercatori_di_lavoro"
-            ],
-            "extend": 2
+            ]
           },
           {
             "items": [
@@ -68,8 +68,6 @@
         ]
       },
       {
-        "endTime": "12:00",
-        "startTime": "11:20",
         "sessions": [
           {
             "items": [
@@ -87,10 +85,11 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:00",
+        "startTime": "11:20"
       },
       {
-        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -111,7 +110,8 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:50"
       },
       {
         "endTime": "13:45",
@@ -125,6 +125,7 @@
         ]
       },
       {
+        "startTime": "13:50",
         "sessions": [
           {
             "items": [
@@ -148,11 +149,9 @@
             "extend": 2
           }
         ],
-        "endTime": "14:30",
-        "startTime": "13:50"
+        "endTime": "14:30"
       },
       {
-        "endTime": "15:20",
         "startTime": "14:40",
         "sessions": [
           {
@@ -171,11 +170,21 @@
           {
             "items": []
           }
+        ],
+        "endTime": "15:20"
+      },
+      {
+        "endTime": "15:40",
+        "startTime": "15:20",
+        "sessions": [
+          {
+            "items": [
+              "break_15"
+            ]
+          }
         ]
       },
       {
-        "endTime": "16:10",
-        "startTime": "15:30",
         "sessions": [
           {
             "items": [
@@ -198,11 +207,13 @@
             ],
             "extend": 2
           }
-        ]
+        ],
+        "endTime": "16:20",
+        "startTime": "15:40"
       },
       {
-        "endTime": "17:00",
-        "startTime": "16:20",
+        "endTime": "17:10",
+        "startTime": "16:30",
         "sessions": [
           {
             "items": [
@@ -216,7 +227,7 @@
           },
           {
             "items": [
-              "how_to_become_an_android_dev_starting_from_ios_and_vice_versa"
+              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
             ]
           },
           {
@@ -225,12 +236,12 @@
         ]
       },
       {
-        "endTime": "17:50",
-        "startTime": "17:10",
+        "endTime": "18:00",
+        "startTime": "17:20",
         "sessions": [
           {
             "items": [
-              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+              "how_to_become_an_android_dev_starting_from_ios_and_vice_versa"
             ]
           },
           {
@@ -249,7 +260,6 @@
         ]
       },
       {
-        "startTime": "17:50",
         "sessions": [
           {
             "items": [
@@ -257,7 +267,8 @@
             ]
           }
         ],
-        "endTime": "18:10"
+        "endTime": "18:30",
+        "startTime": "18:00"
       }
     ]
   }

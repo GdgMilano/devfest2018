@@ -1,5 +1,10 @@
 {
   "alessandro_aglietti": {
+    "company": "Brumbrum.it/Aqquadro.it",
+    "companyLogoUrl": "https://files.brumbrum.it/asset_sito/logo-w.svg",
+    "socials": [],
+    "country": "Firenze, Italia",
+    "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
     "shortBio": "since 2004 face-to-face to a monitor",
     "photoUrl": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
     "name": "Alessandro Aglietti",
@@ -7,21 +12,9 @@
     "title": "Frontend Developer",
     "photo": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
     "order": 5,
-    "featured": false,
-    "company": "Brumbrum.it/Aqquadro.it",
-    "companyLogoUrl": "https://files.brumbrum.it/asset_sito/logo-w.svg",
-    "socials": [],
-    "country": "Firenze, Italia",
-    "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life."
+    "featured": false
   },
   "andrea_maglie": {
-    "bio": "Andrea Maglie is a Senior Developer specialized in Java and, more recently, in Kotlin. He currently works on Musement's Android app and Google Assistant app.",
-    "badges": [
-      {
-        "name": "gdg",
-        "description": "Google Developers Group Venezia"
-      }
-    ],
     "shortBio": "Senior Developer specialized in Java and, more recently, in Kotlin",
     "photoUrl": "https://sessionize.com/image?f=b96267157e4d9f2621f0e4fa944b4c93,400,400,True,False,86-e5d4-4ba7-9f8d-3ef7ffce0926.b2a5cb9c-05c4-4fa6-8fb9-c1a6eaca013b.png",
     "name": "Andrea Maglie",
@@ -54,13 +47,16 @@
         "link": "http://www.musement.com"
       }
     ],
-    "country": "Venezia, Italia"
+    "country": "Venezia, Italia",
+    "bio": "Andrea Maglie is a Senior Developer specialized in Java and, more recently, in Kotlin. He currently works on Musement's Android app and Google Assistant app.",
+    "badges": [
+      {
+        "name": "gdg",
+        "description": "Google Developers Group Venezia"
+      }
+    ]
   },
   "anela_todorovic": {
-    "photoUrl": "https://sessionize.com/image?f=64495e8c31b05efe2abd93e004fa6b8d,400,400,True,False,90-3d52-4aac-8ba3-f923dd58cb2d.577f12db-fd6c-4ca6-96e7-b4a4c178da0b.jpeg",
-    "name": "Anđela Todorović",
-    "companyLogo": "https://www.ksgn.org.rs/wp-content/uploads/2018/03/edusph.png",
-    "title": "DAPP researcher | Software developer",
     "photo": "https://sessionize.com/image?f=64495e8c31b05efe2abd93e004fa6b8d,400,400,True,False,90-3d52-4aac-8ba3-f923dd58cb2d.577f12db-fd6c-4ca6-96e7-b4a4c178da0b.jpeg",
     "order": 5,
     "featured": false,
@@ -75,42 +71,21 @@
     ],
     "country": "Serbia",
     "bio": "She is a huge blockchain enthusiast and the main programmer on the blockchain based voting system in the Balkans. In May 2018, she has held a speech on the Point conference regarding this buzzing topic, that opened her various doors in her career. \r\n",
-    "shortBio": "Tech ninja | DAPP researcher - huge blockchain enthusiast and the main programmer on the blockchain based voting system in the Balkans."
+    "shortBio": "Tech ninja | DAPP researcher - huge blockchain enthusiast and the main programmer on the blockchain based voting system in the Balkans.",
+    "photoUrl": "https://sessionize.com/image?f=64495e8c31b05efe2abd93e004fa6b8d,400,400,True,False,90-3d52-4aac-8ba3-f923dd58cb2d.577f12db-fd6c-4ca6-96e7-b4a4c178da0b.jpeg",
+    "name": "Anđela Todorović",
+    "companyLogo": "https://www.ksgn.org.rs/wp-content/uploads/2018/03/edusph.png",
+    "title": "DAPP researcher | Software developer"
   },
   "aygul_zagidullina": {
-    "companyLogoUrl": "https://www.writespeakcode.com/assets/img/logos/google-women-techmakers.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/aygul",
-        "name": "Twitter"
-      },
-      {
-        "name": "Company Website",
-        "icon": "website",
-        "link": "http://www.aygul.co/"
-      },
-      {
-        "name": "LinkedIn",
-        "icon": "linkedin",
-        "link": "http://www.linkedin.com/in/aygulzagidullina"
-      },
-      {
-        "name": "Blog",
-        "icon": "website",
-        "link": "https://medium.com/google-assistant"
-      }
-    ],
-    "country": "London, UK",
-    "bio": "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
     "badges": [
       {
         "name": "gdg",
         "description": "Google Developers Group London"
       },
       {
-        "description": "WomenTechMakers London",
-        "name": "wtm"
+        "name": "wtm",
+        "description": "WomenTechMakers London"
       }
     ],
     "shortBio": "WTM and GDG Lead, is a passionate Actions on Google developer.",
@@ -121,7 +96,32 @@
     "photo": "https://sessionize.com/image?f=8de6aa0785f4d731a60f3a586dca2d38,400,400,True,False,5c-9bed-41fa-b4d4-9615b451a186.835be137-8e98-4848-ad09-a1320ca082e8.jpg",
     "order": 4,
     "featured": false,
-    "company": "WTM London"
+    "company": "WTM London",
+    "companyLogoUrl": "https://www.writespeakcode.com/assets/img/logos/google-women-techmakers.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/aygul",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://www.aygul.co/",
+        "name": "Company Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "http://www.linkedin.com/in/aygulzagidullina",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/google-assistant",
+        "name": "Blog"
+      }
+    ],
+    "country": "London, UK",
+    "bio": "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013."
   },
   "boris_damato": {
     "bio": "Boris is an Android Developer working at ClearScore. He likes participating at tech conferences, giving talks, sharing knowledge and learning new things, but above all, he loves making beautiful and performant apps. He loves learning new languages, architectural patterns and building meaningful animations.",
@@ -143,19 +143,19 @@
     "companyLogoUrl": "https://theme.zdassets.com/theme_assets/1562074/253a9b88ef1a09a0190cfae95f3a82346fc77867.png",
     "socials": [
       {
+        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/borisdamato",
-        "name": "Twitter"
+        "link": "https://twitter.com/borisdamato"
       },
       {
+        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/borisdam/",
-        "name": "LinkedIn"
+        "link": "https://www.linkedin.com/in/borisdam/"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "https://www.clearscore.com"
+        "link": "https://www.clearscore.com",
+        "name": "Company Website"
       }
     ],
     "country": "London, UK"
@@ -182,14 +182,14 @@
         "link": "https://www.linkedin.com/in/busradeniz/"
       },
       {
-        "name": "Blog",
         "icon": "website",
-        "link": "http://busradeniz.com/"
+        "link": "http://busradeniz.com/",
+        "name": "Blog"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "https://www.theappbusiness.com/"
+        "link": "https://www.theappbusiness.com/",
+        "name": "Company Website"
       }
     ],
     "country": "London, UK",
@@ -200,13 +200,16 @@
         "description": "Google Developers Group London"
       },
       {
-        "name": "wtm",
-        "description": "WomenTechMakers London"
+        "description": "WomenTechMakers London",
+        "name": "wtm"
       }
     ],
     "shortBio": "Currently, she’s working for The App Business.  Besides being co-organizer in two different communities, Google Developer Group and WomenTechMakers London"
   },
   "clara_canova": {
+    "shortBio": "",
+    "photoUrl": "https://sessionize.com/image?f=12d4dd79f1add2fa65b0d6ea789d79ef,400,400,True,False,80b925c7-2ec2-41a3-b3df-71138da2563e.jpg",
+    "name": "Clara Canova",
     "companyLogo": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
     "title": "ninja",
     "photo": "https://sessionize.com/image?f=12d4dd79f1add2fa65b0d6ea789d79ef,400,400,True,False,80b925c7-2ec2-41a3-b3df-71138da2563e.jpg",
@@ -217,10 +220,7 @@
     "socials": [],
     "country": "Torino, Italia",
     "bio": "TBD",
-    "badges": [],
-    "shortBio": "",
-    "photoUrl": "https://sessionize.com/image?f=12d4dd79f1add2fa65b0d6ea789d79ef,400,400,True,False,80b925c7-2ec2-41a3-b3df-71138da2563e.jpg",
-    "name": "Clara Canova"
+    "badges": []
   },
   "elia_rigo": {
     "companyLogo": "https://isar.unipg.it/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_XL.jpg",
@@ -232,9 +232,9 @@
     "companyLogoUrl": "https://isar.unipg.it/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_XL.jpg",
     "socials": [
       {
+        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/elia-rigo-248bb716a/",
-        "name": "LinkedIn"
+        "link": "https://www.linkedin.com/in/elia-rigo-248bb716a/"
       },
       {
         "name": "Blog",
@@ -269,9 +269,9 @@
         "name": "Twitter"
       },
       {
+        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/fabiocollini",
-        "name": "LinkedIn"
+        "link": "https://www.linkedin.com/in/fabiocollini"
       },
       {
         "icon": "website",
@@ -302,7 +302,6 @@
     "featured": true
   },
   "francesca_stagnaro": {
-    "shortBio": "I'm an electronic engineer. In my life I worked as consultant, developing web portals, but also as firmware developer and I have a lot of fun when I can develop IoT systems.",
     "photoUrl": "https://sessionize.com/image?f=5ea3b84785bc3f9033bb5629e5109aa5,400,400,True,False,ec-9886-4824-83f5-09853494b438.2fd26868-7340-4253-9725-68792e1bf63f.jpg",
     "name": "Francesca Stagnaro",
     "companyLogo": "https://www.revevol.com/img/revevol.png",
@@ -319,21 +318,16 @@
         "name": "LinkedIn"
       },
       {
+        "name": "Company Website",
         "icon": "website",
-        "link": "http://www.revevol.com",
-        "name": "Company Website"
+        "link": "http://www.revevol.com"
       }
     ],
     "country": "Italia",
-    "bio": "I'm an electronic engineer. In my life I worked as consultant, developing web portals, but also as firmware developer and I have a lot of fun when I can develop IoT systems. I've been working in Revevol since 2016 and now I'm leading the development of a product which is deployed on GCP and which uses several GCP services. "
+    "bio": "I'm an electronic engineer. In my life I worked as consultant, developing web portals, but also as firmware developer and I have a lot of fun when I can develop IoT systems. I've been working in Revevol since 2016 and now I'm leading the development of a product which is deployed on GCP and which uses several GCP services. ",
+    "shortBio": "I'm an electronic engineer. In my life I worked as consultant, developing web portals, but also as firmware developer and I have a lot of fun when I can develop IoT systems."
   },
   "giuseppe_filograno": {
-    "shortBio": "Native Mobile Developer @Enjore and passionate about mobile technologies",
-    "photoUrl": "https://sessionize.com/image?f=34c5ee26d3c4943ffb6a1e1e9f946a6f,400,400,True,False,40-4f20-402b-bbe4-4e9e0d27a058.6bc075ac-ebb5-4864-9423-7be1fc1f99e3.png",
-    "name": "Giuseppe Filograno",
-    "companyLogo": "https://1.bp.blogspot.com/-Y9LeJLlymrs/Vj-ZWHK_aFI/AAAAAAAAGpM/WhJdbw-7v3Q/s1600/enjore-logo-rgb-verde-payoff-mini.png",
-    "title": "Enjore Srl, Native Mobile Developer",
-    "photo": "https://sessionize.com/image?f=34c5ee26d3c4943ffb6a1e1e9f946a6f,400,400,True,False,40-4f20-402b-bbe4-4e9e0d27a058.6bc075ac-ebb5-4864-9423-7be1fc1f99e3.png",
     "order": 5,
     "featured": false,
     "company": "Enjore",
@@ -345,24 +339,27 @@
         "link": "https://twitter.com/filograno"
       },
       {
+        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://it.linkedin.com/in/filograno",
-        "name": "LinkedIn"
+        "link": "https://it.linkedin.com/in/filograno"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "https://www.enjore.com/"
+        "link": "https://www.enjore.com/",
+        "name": "Company Website"
       }
     ],
     "country": "Bari, Italia",
     "bio": "After a small game dev experience, I begin to develop iOS mobile application in 2014.\r\nNow I'm working on native Android and iOS app, discovering a lot of similarities!",
-    "badges": []
+    "badges": [],
+    "shortBio": "Native Mobile Developer @Enjore and passionate about mobile technologies",
+    "photoUrl": "https://sessionize.com/image?f=34c5ee26d3c4943ffb6a1e1e9f946a6f,400,400,True,False,40-4f20-402b-bbe4-4e9e0d27a058.6bc075ac-ebb5-4864-9423-7be1fc1f99e3.png",
+    "name": "Giuseppe Filograno",
+    "companyLogo": "https://1.bp.blogspot.com/-Y9LeJLlymrs/Vj-ZWHK_aFI/AAAAAAAAGpM/WhJdbw-7v3Q/s1600/enjore-logo-rgb-verde-payoff-mini.png",
+    "title": "Enjore Srl, Native Mobile Developer",
+    "photo": "https://sessionize.com/image?f=34c5ee26d3c4943ffb6a1e1e9f946a6f,400,400,True,False,40-4f20-402b-bbe4-4e9e0d27a058.6bc075ac-ebb5-4864-9423-7be1fc1f99e3.png"
   },
   "kaan_mamikoglu": {
-    "shortBio": "Mobile software engineer at MyDrive Solutions, a Generali company, in London, UK.",
-    "photoUrl": "https://sessionize.com/image?f=99cbd7bc29ebf8f620ef0b93f1f90c86,400,400,True,False,07-ffa6-4421-af42-f71b9f40bade.8f62db66-efba-4461-8b77-fde1a4f4e197.jpg",
-    "name": "Kaan Mamikoglu",
     "companyLogo": "https://image4.owler.com/logo/mydrive-solutions_owler_20160503_143456_original.png",
     "title": "Mobile Software Engineer",
     "photo": "https://sessionize.com/image?f=99cbd7bc29ebf8f620ef0b93f1f90c86,400,400,True,False,07-ffa6-4421-af42-f71b9f40bade.8f62db66-efba-4461-8b77-fde1a4f4e197.jpg",
@@ -372,9 +369,9 @@
     "companyLogoUrl": "https://image4.owler.com/logo/mydrive-solutions_owler_20160503_143456_original.png",
     "socials": [
       {
+        "name": "Twitter",
         "icon": "twitter",
-        "link": "http://twitter.com/kaanmamikoglu",
-        "name": "Twitter"
+        "link": "http://twitter.com/kaanmamikoglu"
       },
       {
         "icon": "linkedin",
@@ -382,13 +379,16 @@
         "name": "LinkedIn"
       },
       {
+        "name": "Website",
         "icon": "website",
-        "link": "http://www.iamkaan.com/",
-        "name": "Website"
+        "link": "http://www.iamkaan.com/"
       }
     ],
     "country": "London, UK",
-    "bio": "Kaan is a mobile software engineer at MyDrive Solutions, a Generali company, in London, UK. As an active community builder, he has co-organized a lot of developer events in the UK and Turkey such as DevFests, Android Developer Days’, Android Study Jams, and has been a distinguished speaker at many international industry events in the US, UK, UAE, Turkey and Georgia. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world."
+    "bio": "Kaan is a mobile software engineer at MyDrive Solutions, a Generali company, in London, UK. As an active community builder, he has co-organized a lot of developer events in the UK and Turkey such as DevFests, Android Developer Days’, Android Study Jams, and has been a distinguished speaker at many international industry events in the US, UK, UAE, Turkey and Georgia. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
+    "shortBio": "Mobile software engineer at MyDrive Solutions, a Generali company, in London, UK.",
+    "photoUrl": "https://sessionize.com/image?f=99cbd7bc29ebf8f620ef0b93f1f90c86,400,400,True,False,07-ffa6-4421-af42-f71b9f40bade.8f62db66-efba-4461-8b77-fde1a4f4e197.jpg",
+    "name": "Kaan Mamikoglu"
   },
   "laura_morinigo": {
     "order": 3,
@@ -416,16 +416,16 @@
     "bio": "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. She has been involved in the tech industry for over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working.\r\n",
     "badges": [
       {
-        "description": "Google Developers Expert Firebase",
-        "name": "gde"
+        "name": "gde",
+        "description": "Google Developers Expert Firebase"
       },
       {
-        "name": "gdg",
-        "description": "Google Developers Group Cloud London"
+        "description": "Google Developers Group Cloud London",
+        "name": "gdg"
       },
       {
-        "name": "wtm",
-        "description": "WomenTechMakers London"
+        "description": "WomenTechMakers London",
+        "name": "wtm"
       }
     ],
     "shortBio": "Google Developer Expert in Firebase, entrepreneur, and mentor. She has been involved in the tech industry for over 10 years.",
@@ -436,30 +436,33 @@
     "photo": "https://sessionize.com/image?f=b8a12d7196c1ae7bc1a96e3d75cf6f0e,400,400,True,False,57adcc44-81ff-4fde-8e0b-a901b8d52da8.jpg"
   },
   "leonardo_pirro": {
+    "companyLogo": "http://www.geosmartcampus.it/geosmart/wp-content/uploads/2017/04/LOGO-IQUII-300x127.jpg",
+    "title": "Android Developer ",
+    "photo": "https://sessionize.com/image?f=430b357c0f86862fd6a0e4cf843ad2cc,400,400,True,False,3c-59f5-493c-90aa-45d6adb6ab72.ff4c12d4-f157-4127-9e48-61808056744a.jpg",
     "order": 5,
     "featured": false,
     "company": "IQUII",
     "companyLogoUrl": "http://www.geosmartcampus.it/geosmart/wp-content/uploads/2017/04/LOGO-IQUII-300x127.jpg",
     "socials": [
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/LPirro93"
+        "link": "https://twitter.com/LPirro93",
+        "name": "Twitter"
       },
       {
+        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/lpirro",
-        "name": "LinkedIn"
+        "link": "https://www.linkedin.com/in/lpirro"
       },
       {
+        "name": "Blog",
         "icon": "website",
-        "link": "https://medium.com/@lpirro",
-        "name": "Blog"
+        "link": "https://medium.com/@lpirro"
       },
       {
+        "name": "Company Website",
         "icon": "website",
-        "link": "https://iquii.com",
-        "name": "Company Website"
+        "link": "https://iquii.com"
       }
     ],
     "country": "Roma, Italia",
@@ -467,10 +470,7 @@
     "badges": [],
     "shortBio": "Android user since 2010, UX/UI addicted e Android Developer presso IQUII",
     "photoUrl": "https://sessionize.com/image?f=430b357c0f86862fd6a0e4cf843ad2cc,400,400,True,False,3c-59f5-493c-90aa-45d6adb6ab72.ff4c12d4-f157-4127-9e48-61808056744a.jpg",
-    "name": "Leonardo Pirro",
-    "companyLogo": "http://www.geosmartcampus.it/geosmart/wp-content/uploads/2017/04/LOGO-IQUII-300x127.jpg",
-    "title": "Android Developer ",
-    "photo": "https://sessionize.com/image?f=430b357c0f86862fd6a0e4cf843ad2cc,400,400,True,False,3c-59f5-493c-90aa-45d6adb6ab72.ff4c12d4-f157-4127-9e48-61808056744a.jpg"
+    "name": "Leonardo Pirro"
   },
   "lorenzo_quiroli": {
     "companyLogo": "https://theme.zdassets.com/theme_assets/75720/069b572547e53cd5a04d03c24043332c6e78034c.png",
@@ -482,9 +482,9 @@
     "companyLogoUrl": "https://theme.zdassets.com/theme_assets/75720/069b572547e53cd5a04d03c24043332c6e78034c.png",
     "socials": [
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/lorenzoquiroli"
+        "link": "https://twitter.com/lorenzoquiroli",
+        "name": "Twitter"
       }
     ],
     "country": "London, UK",
@@ -495,6 +495,10 @@
     "name": "Lorenzo Quiroli"
   },
   "marco_gomiero": {
+    "photoUrl": "https://sessionize.com/image?f=ce57f169c6921f306c9bf878c10d3fce,400,400,True,False,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
+    "name": "Marco Gomiero",
+    "companyLogo": "http://www.uniwhere.com/images/full_logo.svg",
+    "title": "Android Developer",
     "photo": "https://sessionize.com/image?f=ce57f169c6921f306c9bf878c10d3fce,400,400,True,False,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
     "order": 4,
     "featured": false,
@@ -505,32 +509,20 @@
     "bio": "I am a Computer Engineer, currently working as Android Developer at Uniwhere. In the (very few) free time I organize events for the Google Developer Group Venezia, I write and talk about tech stuff on ZeroMag.eu and I write code",
     "badges": [
       {
-        "name": "gdg",
-        "description": "Google Developers Group Venezia"
+        "description": "Google Developers Group Venezia",
+        "name": "gdg"
       }
     ],
-    "shortBio": "Computer Engineer, Android Developer and GDG Venezia organizer.",
-    "photoUrl": "https://sessionize.com/image?f=ce57f169c6921f306c9bf878c10d3fce,400,400,True,False,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
-    "name": "Marco Gomiero",
-    "companyLogo": "http://www.uniwhere.com/images/full_logo.svg",
-    "title": "Android Developer"
+    "shortBio": "Computer Engineer, Android Developer and GDG Venezia organizer."
   },
   "matteo_venturi": {
-    "shortBio": "Marketing manager, attualmente lavora presso Myco",
-    "photoUrl": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
-    "name": "Matteo Venturi",
-    "companyLogo": "http://myco.it/r2/assets/img/logo_Myco.png",
-    "title": "Marketing manager e digital product integrator",
-    "photo": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
-    "order": 5,
-    "featured": false,
     "company": "MYCO Srl",
     "companyLogoUrl": "http://myco.it/r2/assets/img/logo_Myco.png",
     "socials": [
       {
+        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/qbertmv",
-        "name": "Twitter"
+        "link": "https://twitter.com/qbertmv"
       },
       {
         "icon": "linkedin",
@@ -538,20 +530,31 @@
         "name": "LinkedIn"
       },
       {
-        "name": "Blog",
         "icon": "website",
-        "link": "https://www.linkedin.com/in/matteoventuri/"
+        "link": "https://www.linkedin.com/in/matteoventuri/",
+        "name": "Blog"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "http://www.myco.it"
+        "link": "http://www.myco.it",
+        "name": "Company Website"
       }
     ],
     "country": "Milano, Italia",
-    "bio": "Marketing manager e digital product integrator. La mia esperienza si basa su progetti di piattaforme HR digitali, e-Commerce ed advertising. Ho maturato la mia esperienza in aziende come Italiaonline, Matrix e Buongiorno. Negli ultimi anni ho lanciato e sviluppato startup in ambito #hr e #hrtech dal carattere innovativo e con impatto sociale come Jobmetoo, Jointly e Myco."
+    "bio": "Marketing manager e digital product integrator. La mia esperienza si basa su progetti di piattaforme HR digitali, e-Commerce ed advertising. Ho maturato la mia esperienza in aziende come Italiaonline, Matrix e Buongiorno. Negli ultimi anni ho lanciato e sviluppato startup in ambito #hr e #hrtech dal carattere innovativo e con impatto sociale come Jobmetoo, Jointly e Myco.",
+    "shortBio": "Marketing manager, attualmente lavora presso Myco",
+    "photoUrl": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
+    "name": "Matteo Venturi",
+    "companyLogo": "http://myco.it/r2/assets/img/logo_Myco.png",
+    "title": "Marketing manager e digital product integrator",
+    "photo": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
+    "order": 5,
+    "featured": false
   },
   "mattia_piccirillo": {
+    "order": 5,
+    "featured": false,
+    "company": "Itis Meucci",
     "companyLogoUrl": "http://j3.itismeucci.gov.it/templates/meucci-0317/images/Logo%20ITIS%20MEUCCI%20-%20Firenze.png",
     "socials": [
       {
@@ -565,9 +568,9 @@
         "name": "LinkedIn"
       },
       {
-        "name": "Blog",
         "icon": "website",
-        "link": "https://wordpress.com"
+        "link": "https://wordpress.com",
+        "name": "Blog"
       },
       {
         "icon": "website",
@@ -583,21 +586,24 @@
     "name": "Mattia Piccirillo",
     "companyLogo": "https://sessionize.com/image?download=Mattia_Piccirillo.jpg&f=a8fcda65e3dc7628f200458c9f709a2f,0,0,False,False,26-43a8-4b05-9db3-19d04ca8cee8.2150ff82-b0bd-4ea1-9d26-e711ec8ad96a.jpg",
     "title": "Studente di informatica",
-    "photo": "https://sessionize.com/image?f=f84dbff0fa931d760eae57898f4a12ae,400,400,True,False,26-43a8-4b05-9db3-19d04ca8cee8.2150ff82-b0bd-4ea1-9d26-e711ec8ad96a.jpg",
-    "order": 5,
-    "featured": false,
-    "company": "Itis Meucci"
+    "photo": "https://sessionize.com/image?f=f84dbff0fa931d760eae57898f4a12ae,400,400,True,False,26-43a8-4b05-9db3-19d04ca8cee8.2150ff82-b0bd-4ea1-9d26-e711ec8ad96a.jpg"
   },
   "michel_murabito": {
+    "shortBio": "Web Developer By Day, Superhero Wannabe By Night",
+    "photoUrl": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
+    "name": "Michel Murabito",
+    "companyLogo": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
+    "title": "Developer senior",
+    "photo": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
     "order": 4,
     "featured": false,
     "company": "Spindox",
     "companyLogoUrl": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
     "socials": [
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/michelmurabito"
+        "link": "https://twitter.com/michelmurabito",
+        "name": "Twitter"
       },
       {
         "icon": "linkedin",
@@ -610,9 +616,9 @@
         "name": "Blog"
       },
       {
+        "name": "Company Website",
         "icon": "website",
-        "link": "https://www.spindox.it/it/",
-        "name": "Company Website"
+        "link": "https://www.spindox.it/it/"
       }
     ],
     "country": "Milano, Italia",
@@ -622,15 +628,18 @@
         "name": "gdg",
         "description": "Google Developers Group Milano"
       }
-    ],
-    "shortBio": "Web Developer By Day, Superhero Wannabe By Night",
-    "photoUrl": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
-    "name": "Michel Murabito",
-    "companyLogo": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
-    "title": "Developer senior",
-    "photo": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg"
+    ]
   },
   "michelantonio_trizio": {
+    "badges": [
+      {
+        "name": "gdg",
+        "description": "Google Developers Group Bari"
+      }
+    ],
+    "shortBio": "Engineer,Android developer & Entreprener,I took master degree in computer Engineering with thesis in Artificial Intelligence.",
+    "photoUrl": "https://sessionize.com/image?f=f503990b873ed9bac4ff0cd638d692f9,400,400,True,False,9e4592e8-3873-4cdb-9b58-92dc806b167c.jpg",
+    "name": "Michelantonio Trizio",
     "companyLogo": "https://www.wideverse.com/wp-content/uploads/2017/02/logo_wideverse_nick-03.png",
     "title": "CTO",
     "photo": "https://sessionize.com/image?f=f503990b873ed9bac4ff0cd638d692f9,400,400,True,False,9e4592e8-3873-4cdb-9b58-92dc806b167c.jpg",
@@ -661,33 +670,16 @@
       }
     ],
     "country": "Bari, Italia",
-    "bio": "Engineer & Entreprener. I took master degree in computer Engineering with thesis in Artificial Intelligence at Polytechnic University of Bari in 2007. I worked for several years in ICT companies in the south of Italy as developer. I attended the Mind The Bridge startup school in San Francisco in 2011. Back in Italy I started working on my own companies. I'm the founder of GDG Bari and he is the current community lead. Now, I'm the CTO of Wideverse, a spin-off of Polytechnic University of Bari that works on VR and AR technologies. I'm an Android developer.",
-    "badges": [
-      {
-        "name": "gdg",
-        "description": "Google Developers Group Bari"
-      }
-    ],
-    "shortBio": "Engineer,Android developer & Entreprener,I took master degree in computer Engineering with thesis in Artificial Intelligence.",
-    "photoUrl": "https://sessionize.com/image?f=f503990b873ed9bac4ff0cd638d692f9,400,400,True,False,9e4592e8-3873-4cdb-9b58-92dc806b167c.jpg",
-    "name": "Michelantonio Trizio"
+    "bio": "Engineer & Entreprener. I took master degree in computer Engineering with thesis in Artificial Intelligence at Polytechnic University of Bari in 2007. I worked for several years in ICT companies in the south of Italy as developer. I attended the Mind The Bridge startup school in San Francisco in 2011. Back in Italy I started working on my own companies. I'm the founder of GDG Bari and he is the current community lead. Now, I'm the CTO of Wideverse, a spin-off of Polytechnic University of Bari that works on VR and AR technologies. I'm an Android developer."
   },
   "michele_de_simoni": {
-    "shortBio": "",
-    "photoUrl": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
-    "name": "Michele De Simoni",
-    "companyLogo": "",
-    "title": "Machine Learning Engineer",
-    "photo": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
-    "order": 5,
-    "featured": false,
     "company": "",
     "companyLogoUrl": "",
     "socials": [
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/mr_ubik"
+        "link": "https://twitter.com/mr_ubik",
+        "name": "Twitter"
       },
       {
         "name": "LinkedIn",
@@ -700,16 +692,44 @@
         "link": "https://ubik.tech"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "https://zuru.tech"
+        "link": "https://zuru.tech",
+        "name": "Company Website"
       }
     ],
     "country": "",
     "bio": "https://www.linkedin.com/in/micheledesimoni/",
-    "badges": []
+    "badges": [],
+    "shortBio": "",
+    "photoUrl": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
+    "name": "Michele De Simoni",
+    "companyLogo": "",
+    "title": "Machine Learning Engineer",
+    "photo": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
+    "order": 5,
+    "featured": false
   },
   "panayotis_tzinis": {
+    "company": "Moonshot Lab",
+    "companyLogoUrl": "https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.0-9/27654546_901933606633744_3073973142972838233_n.png?_nc_cat=0&oh=1eb756be6f53ee710ce974d34da02f3e&oe=5BF7A629",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ptzinis",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ptzinis/",
+        "name": "LinkedIn"
+      },
+      {
+        "name": "Company Website",
+        "icon": "website",
+        "link": "https://mustafar.xyz"
+      }
+    ],
+    "country": "Greece",
     "bio": "Panayotis (AKA Darth), is the Intelligence Tech Lead of the X Factory of Moonshot Lab. \r\nThe X Factory is a tech tank based  on the planet of Mustafar, where crazy people, from scientists to artists, to developers to technologists, share their ideas in order to create moonshots! A moonshot is a radical solution, integrating breakthrough technology with native thinking. More than on projects we are exploring ambitions!\r\nPanayotis is also a Google Dev Expert on Product Strategy and a certified Google Sprint Master\r\n",
     "badges": [
       {
@@ -724,29 +744,18 @@
     "title": "Google Sprint Master",
     "photo": "https://sessionize.com/image?f=0fccf459aefd1d0027411cefd2fa3b08,400,400,True,False,167a67f6-3309-4e6f-a607-f49daea54087.jpg",
     "order": 3,
-    "featured": true,
-    "company": "Moonshot Lab",
-    "companyLogoUrl": "https://scontent.fmxp6-1.fna.fbcdn.net/v/t1.0-9/27654546_901933606633744_3073973142972838233_n.png?_nc_cat=0&oh=1eb756be6f53ee710ce974d34da02f3e&oe=5BF7A629",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/ptzinis",
-        "name": "Twitter"
-      },
-      {
-        "name": "LinkedIn",
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/ptzinis/"
-      },
-      {
-        "name": "Company Website",
-        "icon": "website",
-        "link": "https://mustafar.xyz"
-      }
-    ],
-    "country": "Greece"
+    "featured": true
   },
   "roberto_orgiu": {
+    "badges": [
+      {
+        "name": "gde",
+        "description": "Google Developers Expert Android"
+      }
+    ],
+    "shortBio": "passionate for everything that switches on and off and particularly for handheld and wearable devices.",
+    "photoUrl": "https://sessionize.com/image?f=8b9cf748e690ad84ba58a601bc3070bc,400,400,True,False,7d83f897-2077-4dfc-9215-bb72e5d4536b.jpg",
+    "name": "Roberto Orgiu",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
     "title": "Android Engineer",
     "photo": "https://sessionize.com/image?f=8b9cf748e690ad84ba58a601bc3070bc,400,400,True,False,7d83f897-2077-4dfc-9215-bb72e5d4536b.jpg",
@@ -756,14 +765,14 @@
     "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
     "socials": [
       {
+        "name": "Twitter",
         "icon": "twitter",
-        "link": "http://twitter.com/_tiwiz",
-        "name": "Twitter"
+        "link": "http://twitter.com/_tiwiz"
       },
       {
-        "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "http://www.linkedin.com/in/robertoorgiu"
+        "link": "http://www.linkedin.com/in/robertoorgiu",
+        "name": "LinkedIn"
       },
       {
         "icon": "website",
@@ -771,30 +780,15 @@
         "name": "Blog"
       },
       {
-        "name": "Company Website",
         "icon": "website",
-        "link": "https://www.nytimes.com/"
+        "link": "https://www.nytimes.com/",
+        "name": "Company Website"
       }
     ],
     "country": "Torino, Italia",
-    "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
-    "badges": [
-      {
-        "name": "gde",
-        "description": "Google Developers Expert Android"
-      }
-    ],
-    "shortBio": "passionate for everything that switches on and off and particularly for handheld and wearable devices.",
-    "photoUrl": "https://sessionize.com/image?f=8b9cf748e690ad84ba58a601bc3070bc,400,400,True,False,7d83f897-2077-4dfc-9215-bb72e5d4536b.jpg",
-    "name": "Roberto Orgiu"
+    "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer."
   },
   "simone_scardapane": {
-    "shortBio": "Post-doc @ Sapienza | GDE for ML | IAML co-founder",
-    "photoUrl": "https://sessionize.com/image?f=0e593878500a30ab8f31baa42841a1ca,400,400,True,False,2e-8fc3-4be6-8abe-2968c3adbdaf.434ba2bf-77a5-4727-b56e-60186e698dff.jpg",
-    "name": "Simone Scardapane",
-    "companyLogo": "https://irpa-c02.kxcdn.com/wp-content/uploads/2017/10/logo_rosso_sapienza.png",
-    "title": "Post-doc @ Sapienza | GDE for ML | IAML co-founder",
-    "photo": "https://sessionize.com/image?f=0e593878500a30ab8f31baa42841a1ca,400,400,True,False,2e-8fc3-4be6-8abe-2968c3adbdaf.434ba2bf-77a5-4727-b56e-60186e698dff.jpg",
     "order": 3,
     "featured": false,
     "company": "Post-doc @ Sapienza | IAML co-founder",
@@ -818,23 +812,15 @@
         "name": "gde",
         "description": "Google Developers Expert Machine Learning"
       }
-    ]
+    ],
+    "shortBio": "Post-doc @ Sapienza | GDE for ML | IAML co-founder",
+    "photoUrl": "https://sessionize.com/image?f=0e593878500a30ab8f31baa42841a1ca,400,400,True,False,2e-8fc3-4be6-8abe-2968c3adbdaf.434ba2bf-77a5-4727-b56e-60186e698dff.jpg",
+    "name": "Simone Scardapane",
+    "companyLogo": "https://irpa-c02.kxcdn.com/wp-content/uploads/2017/10/logo_rosso_sapienza.png",
+    "title": "Post-doc @ Sapienza | GDE for ML | IAML co-founder",
+    "photo": "https://sessionize.com/image?f=0e593878500a30ab8f31baa42841a1ca,400,400,True,False,2e-8fc3-4be6-8abe-2968c3adbdaf.434ba2bf-77a5-4727-b56e-60186e698dff.jpg"
   },
   "valentina_carrirolo": {
-    "bio": "Community lover ❤web designer and developer🤓 JOB: Community Manager @Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒️",
-    "badges": [
-      {
-        "name": "gdg",
-        "description": "Google Developers Group Milano"
-      },
-      {
-        "name": "wtm",
-        "description": "WomenTechMakers Milano"
-      }
-    ],
-    "shortBio": "Community Manager @ Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒",
-    "photoUrl": "https://sessionize.com/image?f=5a485ab83a5d87cb5fab0a62bb820e40,400,400,True,False,67317295-3cf6-4c9b-9b11-bde855a8208d.jpg",
-    "name": "Valentina Carrirolo",
     "companyLogo": "https://coderdojoroma.files.wordpress.com/2015/03/codemotion.png",
     "title": "Community lover <3",
     "photo": "https://sessionize.com/image?f=5a485ab83a5d87cb5fab0a62bb820e40,400,400,True,False,67317295-3cf6-4c9b-9b11-bde855a8208d.jpg",
@@ -854,6 +840,20 @@
         "link": "https://codemotionworld.com/"
       }
     ],
-    "country": "Milano, Italia"
+    "country": "Milano, Italia",
+    "bio": "Commumity lover ❤web designer and developer🤓 JOB: Community Manager @Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒️",
+    "badges": [
+      {
+        "name": "gdg",
+        "description": "Google Developers Group Milano"
+      },
+      {
+        "name": "wtm",
+        "description": "WomenTechMakers Milano"
+      }
+    ],
+    "shortBio": "Community Manager @ Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒",
+    "photoUrl": "https://sessionize.com/image?f=5a485ab83a5d87cb5fab0a62bb820e40,400,400,True,False,67317295-3cf6-4c9b-9b11-bde855a8208d.jpg",
+    "name": "Valentina Carrirolo"
   }
 }

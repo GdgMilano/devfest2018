@@ -35,8 +35,8 @@
         11989,
         11991,
         11994,
-        12012,
-        11996
+        11996,
+        12012
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -77,8 +77,8 @@
         11988,
         11990,
         11994,
-        12011,
-        12009
+        12009,
+        12011
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -98,7 +98,8 @@
       "categoryItems": [
         11989,
         11990,
-        11994
+        11994,
+        13492
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -159,10 +160,10 @@
         11989,
         11991,
         11993,
-        11996,
+        12003,
         12004,
         11997,
-        12003
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -223,8 +224,8 @@
         11989,
         11991,
         11993,
-        12007,
-        12004
+        12004,
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -284,9 +285,9 @@
         11989,
         11990,
         11993,
+        12006,
         11999,
-        12002,
-        12006
+        12002
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -306,8 +307,8 @@
         11989,
         11990,
         11994,
-        11998,
-        12007
+        12007,
+        11998
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -316,8 +317,8 @@
       "id": "63197",
       "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
       "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
-      "startsAt": "2018-10-06T15:30:00",
-      "endsAt": "2018-10-06T16:10:00",
+      "startsAt": "2018-10-06T15:40:00",
+      "endsAt": "2018-10-06T16:20:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -337,8 +338,8 @@
       "id": "65975",
       "title": "Introduction to SceneForm",
       "description": "This codelab will guide you step by step to create an \"AR Stickers\" type application using ARCore. This application shows a gallery of objects that can be placed, or anchored in the augmented world. Then take a photo of the AR scene and save it to Photos.",
-      "startsAt": "2018-10-06T15:30:00",
-      "endsAt": "2018-10-06T17:00:00",
+      "startsAt": "2018-10-06T15:40:00",
+      "endsAt": "2018-10-06T17:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -358,8 +359,8 @@
       "id": "66002",
       "title": "Motion Layout: easy animations for everyone!",
       "description": "TBD",
-      "startsAt": "2018-10-06T15:30:00",
-      "endsAt": "2018-10-06T16:10:00",
+      "startsAt": "2018-10-06T15:40:00",
+      "endsAt": "2018-10-06T16:20:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -369,8 +370,8 @@
         11989,
         11991,
         11994,
-        11996,
-        12003
+        12003,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -379,8 +380,8 @@
       "id": "66464",
       "title": "AbracaGAN: Introduction to the almost magical world of GANs",
       "description": "Requires: entry-level Python and TensorFlow knowledge\r\n\r\nGenerative Adversarial Networks (GANs for brevity) are one of the hottest topics in the Deep Learning world.\r\n\r\nAfter briefly introducing the core theory behind this family of models, we will go over some significant milestones and real-world applications. Having a better understanding of what a GAN is and how it can solve real-world problems, the talk will cover how to code one using Python + TensorFlow and the few steps required to deliver it quickly to production using Google Cloud ML Engine.\r\n\r\nThe Talk will feature slides, materials under the form of Jupyter Notebooks on Colab will be made available before the session.",
-      "startsAt": "2018-10-06T15:30:00",
-      "endsAt": "2018-10-06T16:10:00",
+      "startsAt": "2018-10-06T15:40:00",
+      "endsAt": "2018-10-06T16:20:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -390,29 +391,28 @@
         11989,
         11991,
         11993,
-        11998,
-        12007
+        12007,
+        11998
       ],
       "questionAnswers": [],
       "roomId": 2358
     },
     {
-      "id": "65780",
-      "title": "How to become an Android dev starting from iOS (and vice versa)",
-      "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
-      "startsAt": "2018-10-06T16:20:00",
-      "endsAt": "2018-10-06T17:00:00",
+      "id": "61988",
+      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+      "startsAt": "2018-10-06T16:30:00",
+      "endsAt": "2018-10-06T17:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "6237b340-4f20-402b-bbe4-4e9e0d27a058"
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
       ],
       "categoryItems": [
         11989,
         11991,
         11994,
-        12012,
-        11996
+        11999
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -421,8 +421,8 @@
       "id": "66130",
       "title": "Creating ML-powered applications",
       "description": "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background.  \r\n\r\nIn this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We'll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit   ",
-      "startsAt": "2018-10-06T16:20:00",
-      "endsAt": "2018-10-06T17:00:00",
+      "startsAt": "2018-10-06T16:30:00",
+      "endsAt": "2018-10-06T17:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -432,9 +432,9 @@
         11989,
         11991,
         11993,
+        11996,
         12004,
-        12007,
-        11996
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -443,8 +443,8 @@
       "id": "66144",
       "title": "Android JetPack: Easy navigation with the new Navigation Controller",
       "description": "Nel corso degli anni implementare la navigazione in app è sempre stato un incubo per gli sviluppatori Android. La risposta di Google a questo problema è Android Jetpack: un set di librerie per semplificare e accelerare lo sviluppo, creando app con basi solide e di alta qualità. Fra queste librerie vi è la Navigation, una libreria che semplifica sensibilmente l’implementazione della navigazione in una app Android, mettendoci a disposizione tool grafici e API che ci permettono di semplificare il codice, rendendolo più pulito e leggibile. In questa sessione parleremo di come usare il Navigation Editor in Android Studio, tramite XML o tramite le API Kotlin (o Java) per definire il navigation graph, e come tutto questo semplifica la navigazione nella tua app, e come gestire i deep link tramite la Navigation.",
-      "startsAt": "2018-10-06T16:20:00",
-      "endsAt": "2018-10-06T17:00:00",
+      "startsAt": "2018-10-06T16:30:00",
+      "endsAt": "2018-10-06T17:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -463,8 +463,8 @@
       "id": "61968",
       "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
       "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
-      "startsAt": "2018-10-06T17:10:00",
-      "endsAt": "2018-10-06T17:50:00",
+      "startsAt": "2018-10-06T17:20:00",
+      "endsAt": "2018-10-06T18:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -481,21 +481,22 @@
       "roomId": 2411
     },
     {
-      "id": "61988",
-      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
-      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
-      "startsAt": "2018-10-06T17:10:00",
-      "endsAt": "2018-10-06T17:50:00",
+      "id": "65780",
+      "title": "How to become an Android dev starting from iOS (and vice versa)",
+      "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
+      "startsAt": "2018-10-06T17:20:00",
+      "endsAt": "2018-10-06T18:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "b908d4a9-f8d5-44db-a785-f608885eff46"
+        "6237b340-4f20-402b-bbe4-4e9e0d27a058"
       ],
       "categoryItems": [
         11989,
         11991,
         11994,
-        11999
+        11996,
+        12012
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -504,8 +505,8 @@
       "id": "66398",
       "title": "The (build) time of my life",
       "description": "Building an Android app can be an extremely frustrating experience for developers. Despite caching and all the new features in the Android build system, sometimes even the smallest change can cause a new build to take minutes. In this talk we will explore ways to improve your build times in a modern project that uses Kotlin, annotation processing and multiple modules.",
-      "startsAt": "2018-10-06T17:10:00",
-      "endsAt": "2018-10-06T17:50:00",
+      "startsAt": "2018-10-06T17:20:00",
+      "endsAt": "2018-10-06T18:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -514,7 +515,8 @@
       "categoryItems": [
         11989,
         11991,
-        11993
+        11993,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -1402,6 +1404,11 @@
           "id": 13101,
           "name": "ARCore",
           "sort": 19
+        },
+        {
+          "id": 13492,
+          "name": "Open Source",
+          "sort": 20
         }
       ],
       "sort": 1004

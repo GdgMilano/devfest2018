@@ -1,5 +1,5 @@
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=game_of_coins_on_the_future_of_blockchain
-Talk by Anđela Todorović on #IoT #Blockchain #CloudFunctions
+Talk by Anđela Todorović on #Blockchain #CloudFunctions #IoT
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays
@@ -7,7 +7,7 @@ Talk by Aygul Zagidullina on #Assistant
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=library_development_open_source_your_ideas
-Talk di Marco Gomiero, Andrea Maglie su #OpenSource
+Talk di Marco Gomiero, Andrea Maglie su #OpenSource #Development
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=develop_a_product_on_gcp
@@ -23,11 +23,11 @@ Talk di Michelantonio Trizio su #Android
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=abracagan_introduction_to_the_almost_magical_world_of_gans
-Talk by Michele De Simoni on #MachineLearning #BigData
+Talk by Michele De Simoni on #BigData #MachineLearning
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=guida_intergalattica_per_cercatori_di_lavoro
-Talk di Valentina Carrirolo, Clara Canova su #SocialMedia #DigitalWellbeing
+Talk di Valentina Carrirolo, Clara Canova su #CV #SocialMedia
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=behind_the_curtains_how_photos_works
@@ -38,6 +38,8 @@ DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-
 Talk di Alessandro Aglietti su #Blockchain
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
+---
+
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=designing_for_wicked_challenges
 Talk di Panayotis Tzinis su #Design
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
@@ -47,11 +49,11 @@ Talk di Mattia Piccirillo su #SocialMedia #Web
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=creating_ml-powered_applications
-Talk by Buşra Deniz Akın on #Android #Firebase #MachineLearning
+Talk by Buşra Deniz Akın on #Firebase #MachineLearning #Android
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=il_lato_oscuro_del_deep_learning
-Talk di Simone Scardapane su #MachineLearning #BigData
+Talk di Simone Scardapane su #BigData #MachineLearning
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=introduction_to_sceneform
@@ -63,11 +65,11 @@ Talk by Kaan Mamikoglu on #Firebase
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=solid_principles_in_practice_the_clean_architecture
-Talk di Fabio Collini su #Android #Kotlin
+Talk di Fabio Collini su #Kotlin #Android
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=ml_kit_for_mobile_developers
-Talk by Laura Morinigo on #Firebase #MachineLearning
+Talk by Laura Morinigo on #MachineLearning #Firebase
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=image_recognition_with_tensorflow_using_deep_learning
@@ -79,7 +81,7 @@ Talk by Lorenzo Quiroli on #Android
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=want_a_slice
-Talk by Kaan Mamikoglu on #Design #Firebase #Assistant #Android
+Talk by Kaan Mamikoglu on #Android #Firebase #Assistant #Design
 Join now - FREE Conference (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react
@@ -87,7 +89,7 @@ Talk di Michel Murabito su #Web #Firebase
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=how_to_become_an_android_dev_starting_from_ios_and_vice_versa
-Talk di Giuseppe Filograno su #Android #Kotlin
+Talk di Giuseppe Filograno su #Kotlin #Android
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=android_jetpack_easy_navigation_with_the_new_navigation_controller
@@ -95,5 +97,5 @@ Talk di Leonardo Pirro su #Android
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
 
 DevFest Milano 2018, quest'anno: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=motion_layout_easy_animations_for_everyone
-Talk di Boris D'Amato su #Design #Android
+Talk di Boris D'Amato su #Android #Design
 Iscriviti ora - Conferenza gratuita (20+ speaker) #DevFest18
