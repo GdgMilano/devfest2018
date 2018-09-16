@@ -1,0 +1,76 @@
+Agenda:
+09:00 Registration
+
+09:35 GDG Milano 2018 - Opening keynote
+
+10:30
+- SOLID principles in practice: the clean architecture
+by Fabio Collini | #Android #Kotlin
+- Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays
+by Aygul Zagidullina | #Assistant
+- Guida intergalattica per cercatori di lavoro
+by Valentina Carrirolo, Clara Canova | #SocialMedia #DigitalWellbeing
+- Designing for wicked challenges
+by Panayotis Tzinis | #Design
+
+11:20
+- Library development: open source your ideas!
+by Marco Gomiero, Andrea Maglie | #OpenSource
+- Behind the curtains: how Photos™ works
+by Roberto Orgiu | #Kotlin #Android
+
+12:10
+Develop a product on GCP
+by Francesca Stagnaro | #GoogleCloud #Web #Design
+- Want a Slice?
+by Kaan Mamikoglu | #Firebase #Design #Assistant #Android
+- HRmatch: Machine Learning vs Pregiudizi umani
+by Matteo Venturi | #MachineLearning
+
+12:55 Lunch
+
+13:50
+- ARCore is Magic
+by Michelantonio Trizio | #ARCore #Android
+- ML Kit for Mobile Developers
+by Laura Morinigo | #MachineLearning #Firebase
+- Image Recognition with TensorFlow using Deep Learning
+by Elia Rigo | #MachineLearning
+- Firebase Cloud Firestore: Deep Dive
+by Kaan Mamikoglu | #GoogleCloud #Firebase
+
+14:40
+- Game of coins: on the future of blockchain
+by Anđela Todorović | #Blockchain #CloudFunctions #IoT
+- Il lato oscuro del Deep Learning
+by Simone Scardapane | #BigData #MachineLearning
+
+15:20 Coffee break
+
+15:40
+- Motion Layout: easy animations for everyone!
+by Boris D'Amato | #Design #Android
+- AbracaGAN: Introduction to the almost magical world of GANs
+by Michele De Simoni | #MachineLearning #BigData
+- La Morte Nera, e se fosse prototipizzata con Firebase e React?
+by Michel Murabito | #Web #Firebase
+- Introduction to SceneForm
+by Michelantonio Trizio | #Android #ARCore
+
+16:30
+- Android JetPack: Easy navigation with the new Navigation Controller
+by Leonardo Pirro | #Android
+- Creating ML-powered applications
+by Buşra Deniz Akın | #Android #MachineLearning #Firebase
+- Digital records evidence - Oracles and the Bitcoin blockchain
+by Alessandro Aglietti | #Blockchain
+
+17:20
+- How to become an Android dev starting from iOS (and vice versa)
+by Giuseppe Filograno | #Kotlin #Android
+- The (build) time of my life
+by Lorenzo Quiroli | #Android
+- Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza
+by Mattia Piccirillo | #SocialMedia #Web
+
+18:00 Closing

@@ -1,10 +1,6 @@
-09:00
+09:00  Registration
 
-Registration
-
-09:35
-
-GDG Milano 2018 - Opening keynote
+09:35  GDG Milano 2018 - Opening keynote
 
 10:30
 
@@ -51,9 +47,7 @@ HRmatch: Machine Learning vs Pregiudizi umani
     https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=hrmatch_machine_learning_vs_pregiudizi_umani
 
 
-12:55
-
-Lunch
+12:55  Lunch
 
 13:50
 
@@ -85,9 +79,7 @@ Il lato oscuro del Deep Learning
     https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=il_lato_oscuro_del_deep_learning
 
 
-15:20
-
-Coffee break
+15:20  Coffee break
 
 15:40
 
@@ -138,6 +130,4 @@ Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza
     https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza
 
 
-18:00
-
-Closing
+18:00  Closing
