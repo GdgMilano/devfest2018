@@ -160,8 +160,8 @@
         11989,
         11991,
         11993,
-        12003,
         12004,
+        12003,
         11997,
         11996
       ],
@@ -183,6 +183,7 @@
         11989,
         11991,
         11994,
+        13493,
         12010,
         12003
       ],
@@ -204,6 +205,7 @@
         11988,
         11991,
         11993,
+        13493,
         12004
       ],
       "questionAnswers": [],
@@ -224,8 +226,8 @@
         11989,
         11991,
         11993,
-        12004,
-        12007
+        12007,
+        12004
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -265,6 +267,7 @@
         11989,
         11990,
         11994,
+        13101,
         11996
       ],
       "questionAnswers": [],
@@ -285,9 +288,9 @@
         11989,
         11990,
         11993,
-        12006,
         11999,
-        12002
+        12002,
+        12006
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -307,8 +310,8 @@
         11989,
         11990,
         11994,
-        12007,
-        11998
+        11998,
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -349,8 +352,8 @@
         11988,
         11990,
         11994,
-        13101,
-        11996
+        11996,
+        13101
       ],
       "questionAnswers": [],
       "roomId": 2359
@@ -433,8 +436,8 @@
         11991,
         11993,
         11996,
-        12004,
-        12007
+        12007,
+        12004
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -495,8 +498,8 @@
         11989,
         11991,
         11994,
-        11996,
-        12012
+        12012,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -1226,7 +1229,7 @@
       "id": "a60c7b8a-c42b-4587-820c-37aca6a52186",
       "firstName": "Valentina",
       "lastName": "Carrirolo",
-      "bio": "Commumity lover ❤web designer and developer🤓 JOB: Community Manager @Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒️",
+      "bio": "Community lover ❤web designer and developer🤓 JOB: Community Manager @Codemotion HOBBIES: bookaholic, gamer 🎮 & fanwriter ✒️",
       "tagLine": "Community lover <3",
       "profilePicture": "https://sessionize.com/image?f=5a485ab83a5d87cb5fab0a62bb820e40,400,400,True,False,67317295-3cf6-4c9b-9b11-bde855a8208d.jpg",
       "isTopSpeaker": false,
@@ -1336,79 +1339,74 @@
           "sort": 5
         },
         {
-          "id": 12000,
-          "name": "Cloud Container (Docker",
-          "sort": 6
-        },
-        {
           "id": 12011,
           "name": "Digital Wellbeing",
-          "sort": 7
-        },
-        {
-          "id": 12001,
-          "name": " Kubernetes)",
-          "sort": 8
+          "sort": 6
         },
         {
           "id": 12002,
           "name": "Cloud Functions",
-          "sort": 9
+          "sort": 7
         },
         {
           "id": 12003,
           "name": "Design",
-          "sort": 10
+          "sort": 8
         },
         {
           "id": 12004,
           "name": "Firebase",
-          "sort": 11
+          "sort": 9
         },
         {
           "id": 12005,
           "name": "Flutter",
-          "sort": 12
+          "sort": 10
         },
         {
           "id": 12006,
           "name": "IoT",
-          "sort": 13
+          "sort": 11
         },
         {
           "id": 12012,
           "name": "Kotlin",
-          "sort": 14
+          "sort": 12
         },
         {
           "id": 12007,
           "name": "Machine Learning",
-          "sort": 15
+          "sort": 13
         },
         {
           "id": 12008,
           "name": "Marketing",
-          "sort": 16
+          "sort": 14
         },
         {
           "id": 12009,
           "name": "Social Media",
-          "sort": 17
+          "sort": 15
         },
         {
           "id": 12010,
           "name": "Web",
-          "sort": 18
+          "sort": 16
         },
         {
           "id": 13101,
           "name": "ARCore",
-          "sort": 19
+          "sort": 17
         },
         {
           "id": 13492,
           "name": "Open Source",
-          "sort": 20
+          "sort": 18
+        },
+        {
+          "id": 13493,
+          "name": "Google Cloud",
+          "sort": 19
         }
       ],
       "sort": 1004

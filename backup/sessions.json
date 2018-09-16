@@ -1,5 +1,6 @@
 {
   "abracagan_introduction_to_the_almost_magical_world_of_gans": {
+    "image": "",
     "tags": [
       "Machine Learning",
       "Big Data"
@@ -13,11 +14,9 @@
     "videoId": "",
     "description": "Requires: entry-level Python and TensorFlow knowledge\r\n\r\nGenerative Adversarial Networks (GANs for brevity) are one of the hottest topics in the Deep Learning world.\r\n\r\nAfter briefly introducing the core theory behind this family of models, we will go over some significant milestones and real-world applications. Having a better understanding of what a GAN is and how it can solve real-world problems, the talk will cover how to code one using Python + TensorFlow and the few steps required to deliver it quickly to production using Google Cloud ML Engine.\r\n\r\nThe Talk will feature slides, materials under the form of Jupyter Notebooks on Colab will be made available before the session.",
     "presentation": "",
-    "complexity": "Intermediate",
-    "image": ""
+    "complexity": "Intermediate"
   },
   "android_jetpack_easy_navigation_with_the_new_navigation_controller": {
-    "title": "Android JetPack: Easy navigation with the new Navigation Controller",
     "language": "Italian",
     "videoId": "",
     "description": "Nel corso degli anni implementare la navigazione in app è sempre stato un incubo per gli sviluppatori Android. La risposta di Google a questo problema è Android Jetpack: un set di librerie per semplificare e accelerare lo sviluppo, creando app con basi solide e di alta qualità. Fra queste librerie vi è la Navigation, una libreria che semplifica sensibilmente l’implementazione della navigazione in una app Android, mettendoci a disposizione tool grafici e API che ci permettono di semplificare il codice, rendendolo più pulito e leggibile. In questa sessione parleremo di come usare il Navigation Editor in Android Studio, tramite XML o tramite le API Kotlin (o Java) per definire il navigation graph, e come tutto questo semplifica la navigazione nella tua app, e come gestire i deep link tramite la Navigation.",
@@ -30,10 +29,15 @@
     "icon": "",
     "speakers": [
       "leonardo_pirro"
-    ]
+    ],
+    "title": "Android JetPack: Easy navigation with the new Navigation Controller"
   },
   "arcore_is_magic": {
+    "presentation": "",
+    "complexity": "Beginner",
+    "image": "",
     "tags": [
+      "ARCore",
       "Android"
     ],
     "icon": "",
@@ -43,16 +47,9 @@
     "title": "ARCore is Magic",
     "language": "Italian",
     "videoId": "",
-    "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App",
-    "presentation": "",
-    "complexity": "Beginner",
-    "image": ""
+    "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App"
   },
   "behind_the_curtains_how_photos_works": {
-    "language": "English",
-    "videoId": "",
-    "description": "Google Photos is an amazing piece of software, and API are pretty amazing. The only problem? They are not available on Android just yet. Join us to learn how we bypassed this limitation to create a selfie box based on Kotlin, Things™, and, of course, Google Photos!",
-    "presentation": "",
     "complexity": "Intermediate",
     "image": "",
     "tags": [
@@ -63,9 +60,15 @@
     "speakers": [
       "roberto_orgiu"
     ],
-    "title": "Behind the curtains: how Photos™ works"
+    "title": "Behind the curtains: how Photos™ works",
+    "language": "English",
+    "videoId": "",
+    "description": "Google Photos is an amazing piece of software, and API are pretty amazing. The only problem? They are not available on Android just yet. Join us to learn how we bypassed this limitation to create a selfie box based on Kotlin, Things™, and, of course, Google Photos!",
+    "presentation": ""
   },
   "beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays": {
+    "presentation": "",
+    "complexity": "Intermediate",
     "image": "",
     "tags": [
       "Assistant"
@@ -77,9 +80,7 @@
     "title": "Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays",
     "language": "English",
     "videoId": "",
-    "description": "In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more.",
-    "presentation": "",
-    "complexity": "Intermediate"
+    "description": "In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more."
   },
   "break_15": {
     "description": "Coffeeeeeee!",
@@ -88,16 +89,12 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
   },
   "closing": {
+    "icon": "party",
     "title": "Closing",
     "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-    "description": "Closing is a great time to have some fun and meet new people",
-    "icon": "party"
+    "description": "Closing is a great time to have some fun and meet new people"
   },
   "come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza": {
-    "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
-    "presentation": "",
-    "complexity": "Beginner",
-    "image": "",
     "tags": [
       "Social Media",
       "Web"
@@ -108,15 +105,13 @@
     ],
     "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
     "language": "Italian",
-    "videoId": ""
+    "videoId": "",
+    "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
+    "presentation": "",
+    "complexity": "Beginner",
+    "image": ""
   },
   "creating_ml-powered_applications": {
-    "tags": [
-      "Android",
-      "Firebase",
-      "Machine Learning"
-    ],
-    "icon": "",
     "speakers": [
       "busra_deniz_akn"
     ],
@@ -126,12 +121,15 @@
     "description": "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background.  \r\n\r\nIn this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We'll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit   ",
     "presentation": "",
     "complexity": "Intermediate",
-    "image": ""
+    "image": "",
+    "tags": [
+      "Android",
+      "Machine Learning",
+      "Firebase"
+    ],
+    "icon": ""
   },
   "designing_for_wicked_challenges": {
-    "presentation": "",
-    "complexity": "Beginner",
-    "image": "",
     "tags": [
       "Design"
     ],
@@ -142,9 +140,18 @@
     "title": "Designing for wicked challenges",
     "language": "Italian",
     "videoId": "",
-    "description": "This workshop is based on the Lab Exercises I had the opportunity to facilitate with Dave Houge UX Lead, Android @Google and it is a really interesting workshop for developers/designers/product managers addressing challenges and interacting with users!\r\nThroughout 3 Lab exercises we will intro \"wicked problems\", what are they, how to address them and how to \"try\" to solve them without creating others! That's wicked!\r\nAt each Lab Exercise attendees will do some hands-on design/sketching, discussion and ideation. Each Lab Exercise builds upon the information and exercises that preceded it. The third and final lab exercise is more opened-ended (and more wicked), because the attendees will have already been walked through the other exercises."
+    "description": "This workshop is based on the Lab Exercises I had the opportunity to facilitate with Dave Houge UX Lead, Android @Google and it is a really interesting workshop for developers/designers/product managers addressing challenges and interacting with users!\r\nThroughout 3 Lab exercises we will intro \"wicked problems\", what are they, how to address them and how to \"try\" to solve them without creating others! That's wicked!\r\nAt each Lab Exercise attendees will do some hands-on design/sketching, discussion and ideation. Each Lab Exercise builds upon the information and exercises that preceded it. The third and final lab exercise is more opened-ended (and more wicked), because the attendees will have already been walked through the other exercises.",
+    "presentation": "",
+    "complexity": "Beginner",
+    "image": ""
   },
   "develop_a_product_on_gcp": {
+    "tags": [
+      "Google Cloud",
+      "Web",
+      "Design"
+    ],
+    "icon": "",
     "speakers": [
       "francesca_stagnaro"
     ],
@@ -154,15 +161,9 @@
     "description": "How to develop a scalable and multi tenant product on GCP from scratch using some of the services provided by Google. ",
     "presentation": "",
     "complexity": "Intermediate",
-    "image": "",
-    "tags": [
-      "Web",
-      "Design"
-    ],
-    "icon": ""
+    "image": ""
   },
   "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain": {
-    "image": "",
     "tags": [
       "Blockchain"
     ],
@@ -175,13 +176,14 @@
     "videoId": "",
     "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
     "presentation": "",
-    "complexity": "Intermediate"
+    "complexity": "Intermediate",
+    "image": ""
   },
   "firebase_cloud_firestore_deep_dive": {
-    "presentation": "",
     "complexity": "Intermediate",
     "image": "",
     "tags": [
+      "Google Cloud",
       "Firebase"
     ],
     "icon": "",
@@ -191,13 +193,15 @@
     "title": "Firebase Cloud Firestore: Deep Dive",
     "language": "English",
     "videoId": "",
-    "description": "Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing. In this workshop, we’ll focus on Could Firestore, Firebase's new database solution. Cloud Firestore is an efficient, low-latency database solution for mobile apps that is optimized for speed, security, and offline use. As part of this workshop, we’ll build an app using Cloud Firestore focusing on realtime updates, expressive querying, and offline support. The workshop participants will learn how to read and write data to Firestore from an Android app, listen to changes in Firestore data in realtime, use Firebase Authentication and security rules to secure Firestore data, and write complex Firestore queries."
+    "description": "Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing. In this workshop, we’ll focus on Could Firestore, Firebase's new database solution. Cloud Firestore is an efficient, low-latency database solution for mobile apps that is optimized for speed, security, and offline use. As part of this workshop, we’ll build an app using Cloud Firestore focusing on realtime updates, expressive querying, and offline support. The workshop participants will learn how to read and write data to Firestore from an Android app, listen to changes in Firestore data in realtime, use Firebase Authentication and security rules to secure Firestore data, and write complex Firestore queries.",
+    "presentation": ""
   },
   "game_of_coins_on_the_future_of_blockchain": {
+    "image": "",
     "tags": [
-      "IoT",
       "Blockchain",
-      "Cloud Functions"
+      "Cloud Functions",
+      "IoT"
     ],
     "icon": "",
     "speakers": [
@@ -208,8 +212,7 @@
     "videoId": "",
     "description": "The technology of Blockchain, the more complex step after Bitcoin, has compelling possibilities. Because it offers a decentralized\r\napproach to money, blockchain has the potential to promote and achieve fairness and democratization. Blockchain also has the ability to transform numerous sectors: in the financial sector, it encourages people to take initiative in innovation; in government, it creates greater transparency and makes the process of providing services more efficient. These are important developments that are worth pursuing — not for the few, but for the many. The use case for blockchain is tremendous and opportunities are abundant. \r\nThis speech offers a unique approach to the blockchain, explained simply and straightforward, then it provides an overview of my personal experience in Blockchain programming and predicts the future of this mesmerizing technology.",
     "presentation": "",
-    "complexity": "Beginner",
-    "image": ""
+    "complexity": "Beginner"
   },
   "guida_intergalattica_per_cercatori_di_lavoro": {
     "tags": [
@@ -230,21 +233,21 @@
     "image": ""
   },
   "how_to_become_an_android_dev_starting_from_ios_and_vice_versa": {
-    "tags": [
-      "Android",
-      "Kotlin"
-    ],
-    "icon": "",
-    "speakers": [
-      "giuseppe_filograno"
-    ],
     "title": "How to become an Android dev starting from iOS (and vice versa)",
     "language": "Italian",
     "videoId": "",
     "description": "Starting from my working experience I want to describe the similarities between Android and iOS platforms, demonstrating that these worlds are not so far!",
     "presentation": "",
     "complexity": "Intermediate",
-    "image": ""
+    "image": "",
+    "tags": [
+      "Kotlin",
+      "Android"
+    ],
+    "icon": "",
+    "speakers": [
+      "giuseppe_filograno"
+    ]
   },
   "hrmatch_machine_learning_vs_pregiudizi_umani": {
     "image": "",
@@ -263,7 +266,6 @@
     "complexity": "Advanced"
   },
   "il_lato_oscuro_del_deep_learning": {
-    "title": "Il lato oscuro del Deep Learning",
     "language": "Italian",
     "videoId": "",
     "description": "Tutti hanno sentito parlare almeno una volta del potere magico del machine learning. Quanti conoscono però il “lato oscuro” delle tecnologie data-driven, come bias negli algoritmi, violazione della privacy, e minacce alla sicurezza? Attenzione ad affidarsi ciecamente al “deep learning”, a meno di non essere in cerca di “deep trouble”.",
@@ -271,13 +273,14 @@
     "complexity": "Beginner",
     "image": "",
     "tags": [
-      "Machine Learning",
-      "Big Data"
+      "Big Data",
+      "Machine Learning"
     ],
     "icon": "",
     "speakers": [
       "simone_scardapane"
-    ]
+    ],
+    "title": "Il lato oscuro del Deep Learning"
   },
   "image_recognition_with_tensorflow_using_deep_learning": {
     "tags": [
@@ -296,11 +299,9 @@
     "image": ""
   },
   "introduction_to_sceneform": {
-    "complexity": "Beginner",
-    "image": "",
     "tags": [
-      "ARCore",
-      "Android"
+      "Android",
+      "ARCore"
     ],
     "icon": "",
     "speakers": [
@@ -310,7 +311,9 @@
     "language": "Italian",
     "videoId": "",
     "description": "This codelab will guide you step by step to create an \"AR Stickers\" type application using ARCore. This application shows a gallery of objects that can be placed, or anchored in the augmented world. Then take a photo of the AR scene and save it to Photos.",
-    "presentation": ""
+    "presentation": "",
+    "complexity": "Beginner",
+    "image": ""
   },
   "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react": {
     "tags": [
@@ -330,8 +333,6 @@
     "image": ""
   },
   "library_development_open_source_your_ideas": {
-    "complexity": "Beginner",
-    "image": "",
     "tags": [
       "Open Source"
     ],
@@ -344,18 +345,22 @@
     "language": "Italian",
     "videoId": "",
     "description": "Have you ever thought that your idea could help other developers? Join the magic world of open source! \r\nIn this talk we are going to share some tips and the secrets to become an open source master. Of course some practical examples based on our experience cannot miss.",
-    "presentation": ""
+    "presentation": "",
+    "complexity": "Beginner",
+    "image": ""
   },
   "lunch": {
-    "description": "Foooooooood!",
-    "icon": "lunch",
     "title": "Lunch",
-    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+    "description": "Foooooooood!",
+    "icon": "lunch"
   },
   "ml_kit_for_mobile_developers": {
+    "complexity": "Intermediate",
+    "image": "",
     "tags": [
-      "Firebase",
-      "Machine Learning"
+      "Machine Learning",
+      "Firebase"
     ],
     "icon": "",
     "speakers": [
@@ -365,11 +370,10 @@
     "language": "English",
     "videoId": "",
     "description": "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package.  During this talk, we are going to learn how we can boost out firebase app with a live demo that uses image recognition.",
-    "presentation": "",
-    "complexity": "Intermediate",
-    "image": ""
+    "presentation": ""
   },
   "motion_layout_easy_animations_for_everyone": {
+    "image": "",
     "tags": [
       "Design",
       "Android"
@@ -383,15 +387,14 @@
     "videoId": "",
     "description": "TBD",
     "presentation": "",
-    "complexity": "Intermediate",
-    "image": ""
+    "complexity": "Intermediate"
   },
   "opening": {
-    "title": "GDG Milano 2018 - Opening keynote",
-    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
     "language": "Italian",
     "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-    "icon": "opening"
+    "icon": "opening",
+    "title": "GDG Milano 2018 - Opening keynote",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b"
   },
   "registration": {
     "icon": "registration",
@@ -400,8 +403,6 @@
     "description": "Get your badge, coffee, enjoy talking with tech edicts around"
   },
   "solid_principles_in_practice_the_clean_architecture": {
-    "description": "La clean architecture è stata formalizzata in un post da Robert C. Martini nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
-    "presentation": "",
     "complexity": "Intermediate",
     "image": "",
     "tags": [
@@ -414,9 +415,15 @@
     ],
     "title": "SOLID principles in practice: the clean architecture",
     "language": "Italian",
-    "videoId": ""
+    "videoId": "",
+    "description": "La clean architecture è stata formalizzata in un post da Robert C. Martini nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
+    "presentation": ""
   },
   "the_build_time_of_my_life": {
+    "description": "Building an Android app can be an extremely frustrating experience for developers. Despite caching and all the new features in the Android build system, sometimes even the smallest change can cause a new build to take minutes. In this talk we will explore ways to improve your build times in a modern project that uses Kotlin, annotation processing and multiple modules.",
+    "presentation": "",
+    "complexity": "Intermediate",
+    "image": "",
     "tags": [
       "Android"
     ],
@@ -426,22 +433,13 @@
     ],
     "title": "The (build) time of my life",
     "language": "English",
-    "videoId": "",
-    "description": "Building an Android app can be an extremely frustrating experience for developers. Despite caching and all the new features in the Android build system, sometimes even the smallest change can cause a new build to take minutes. In this talk we will explore ways to improve your build times in a modern project that uses Kotlin, annotation processing and multiple modules.",
-    "presentation": "",
-    "complexity": "Intermediate",
-    "image": ""
+    "videoId": ""
   },
   "want_a_slice": {
-    "language": "English",
-    "videoId": "",
-    "description": "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented.",
-    "presentation": "",
-    "complexity": "Intermediate",
     "image": "",
     "tags": [
-      "Design",
       "Firebase",
+      "Design",
       "Assistant",
       "Android"
     ],
@@ -449,6 +447,11 @@
     "speakers": [
       "kaan_mamikoglu"
     ],
-    "title": "Want a Slice?"
+    "title": "Want a Slice?",
+    "language": "English",
+    "videoId": "",
+    "description": "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented.",
+    "presentation": "",
+    "complexity": "Intermediate"
   }
 }
