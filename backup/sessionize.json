@@ -21,27 +21,6 @@
       "roomId": 2358
     },
     {
-      "id": "62541",
-      "title": "SOLID principles in practice: the clean architecture",
-      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martini nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
-      "startsAt": "2018-10-06T10:30:00",
-      "endsAt": "2018-10-06T11:10:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
-      ],
-      "categoryItems": [
-        11989,
-        11991,
-        11994,
-        11996,
-        12012
-      ],
-      "questionAnswers": [],
-      "roomId": 2357
-    },
-    {
       "id": "65058",
       "title": "Designing for wicked challenges",
       "description": "This workshop is based on the Lab Exercises I had the opportunity to facilitate with Dave Houge UX Lead, Android @Google and it is a really interesting workshop for developers/designers/product managers addressing challenges and interacting with users!\r\nThroughout 3 Lab exercises we will intro \"wicked problems\", what are they, how to address them and how to \"try\" to solve them without creating others! That's wicked!\r\nAt each Lab Exercise attendees will do some hands-on design/sketching, discussion and ideation. Each Lab Exercise builds upon the information and exercises that preceded it. The third and final lab exercise is more opened-ended (and more wicked), because the attendees will have already been walked through the other exercises.",
@@ -66,7 +45,7 @@
       "title": "Guida intergalattica per cercatori di lavoro",
       "description": "Come strutturare un buon CV tips & tricks. Come fare un buon colloquio, utilizzare i social al fine di trovare un impiego e gestire la propria reputation online.",
       "startsAt": "2018-10-06T10:30:00",
-      "endsAt": "2018-10-06T12:00:00",
+      "endsAt": "2018-10-06T11:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -77,11 +56,33 @@
         11988,
         11990,
         11994,
-        12009,
-        12011
+        12011,
+        12009
       ],
       "questionAnswers": [],
       "roomId": 2411
+    },
+    {
+      "id": "67075",
+      "title": "Next generation web assets",
+      "description": "How the next generation web assets (AMP, PWA, Speed, UX) can have an impact on your mobile website KPI and on your revenue",
+      "startsAt": "2018-10-06T10:30:00",
+      "endsAt": "2018-10-06T11:10:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "da9d14fa-7755-4ca7-8c7e-1474dbc67789"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
+        11993,
+        12003,
+        12008,
+        12010
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
     },
     {
       "id": "61990",
@@ -105,22 +106,44 @@
       "roomId": 2357
     },
     {
-      "id": "62582",
-      "title": "Behind the curtains: how Photos™ works",
-      "description": "Google Photos is an amazing piece of software, and API are pretty amazing. The only problem? They are not available on Android just yet. Join us to learn how we bypassed this limitation to create a selfie box based on Kotlin, Things™, and, of course, Google Photos!",
+      "id": "63187",
+      "title": "Develop a product on GCP",
+      "description": "How to develop a scalable and multi tenant product on GCP from scratch using some of the services provided by Google. ",
       "startsAt": "2018-10-06T11:20:00",
       "endsAt": "2018-10-06T12:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "7d912e80-f02c-42cf-92db-98e670bef1a6"
+        "7874fdec-9886-4824-83f5-09853494b438"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12010,
+        12003,
+        13493
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
+      "id": "64189",
+      "title": "ML Kit for Mobile Developers",
+      "description": "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package.  During this talk, we are going to learn how we can boost out firebase app with a live demo that uses image recognition.",
+      "startsAt": "2018-10-06T11:20:00",
+      "endsAt": "2018-10-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de1f0ec6-092a-4961-80f0-c99652a2b50b"
       ],
       "categoryItems": [
         11989,
         11991,
         11993,
-        12012,
-        11996
+        12004,
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -160,32 +183,31 @@
         11989,
         11991,
         11993,
-        12004,
-        12003,
         11997,
-        11996
+        11996,
+        12003,
+        12004
       ],
       "questionAnswers": [],
       "roomId": 2358
     },
     {
-      "id": "63187",
-      "title": "Develop a product on GCP",
-      "description": "How to develop a scalable and multi tenant product on GCP from scratch using some of the services provided by Google. ",
+      "id": "66856",
+      "title": "Introducing WorkManager",
+      "description": "Background processing is an integral part of Android development, and the WorkManager API is the architecture component to manage your Android background jobs.\r\n\r\nNew battery optimizations are key to improving the user experience, but these bring new challenges for the developers implementing background jobs:\r\n* API Level 23 introduced Doze Mode and App Standby\r\n* API Level 24 limited implicit Broadcasts and introduced doze-on-the-go\r\n* API Level 26 further limited background behavior\r\n\r\nWorkManager supports a combination of opportunistic and guaranteed execution. \r\n\r\nIn this talk you’ll learn what WorkManager is and how you can use it to:\r\n* Schedule a simple task\r\n* Chain tasks\r\n* Display task status in the UI\r\n* Cancel tasks \r\n\r\nWorkManager API is part of Android Jetpack’s Architecture Component, and is currently in alpha.\r\n",
       "startsAt": "2018-10-06T12:10:00",
       "endsAt": "2018-10-06T12:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "7874fdec-9886-4824-83f5-09853494b438"
+        "e5941ea5-5a10-45a0-903b-f642db802a16"
       ],
       "categoryItems": [
         11989,
         11991,
-        11994,
-        13493,
-        12010,
-        12003
+        11993,
+        11996,
+        12012
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -205,29 +227,51 @@
         11988,
         11991,
         11993,
-        13493,
-        12004
+        12004,
+        13493
       ],
       "questionAnswers": [],
       "roomId": 2359
     },
     {
-      "id": "64189",
-      "title": "ML Kit for Mobile Developers",
-      "description": "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package.  During this talk, we are going to learn how we can boost out firebase app with a live demo that uses image recognition.",
+      "id": "62541",
+      "title": "SOLID principles in practice: the clean architecture",
+      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martini nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
       "startsAt": "2018-10-06T13:50:00",
       "endsAt": "2018-10-06T14:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "de1f0ec6-092a-4961-80f0-c99652a2b50b"
+        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
       ],
       "categoryItems": [
         11989,
         11991,
+        11994,
+        11996,
+        12012
+      ],
+      "questionAnswers": [],
+      "roomId": 2357
+    },
+    {
+      "id": "62552",
+      "title": "Game of coins: on the future of blockchain",
+      "description": "The technology of Blockchain, the more complex step after Bitcoin, has compelling possibilities. Because it offers a decentralized\r\napproach to money, blockchain has the potential to promote and achieve fairness and democratization. Blockchain also has the ability to transform numerous sectors: in the financial sector, it encourages people to take initiative in innovation; in government, it creates greater transparency and makes the process of providing services more efficient. These are important developments that are worth pursuing — not for the few, but for the many. The use case for blockchain is tremendous and opportunities are abundant. \r\nThis speech offers a unique approach to the blockchain, explained simply and straightforward, then it provides an overview of my personal experience in Blockchain programming and predicts the future of this mesmerizing technology.",
+      "startsAt": "2018-10-06T13:50:00",
+      "endsAt": "2018-10-06T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c356f290-3d52-4aac-8ba3-f923dd58cb2d"
+      ],
+      "categoryItems": [
+        11989,
+        11990,
         11993,
-        12007,
-        12004
+        11999,
+        12002,
+        12006
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -253,11 +297,32 @@
       "roomId": 2411
     },
     {
+      "id": "62582",
+      "title": "Behind the curtains: how Photos™ works",
+      "description": "Google Photos is an amazing piece of software, and API are pretty amazing. The only problem? They are not available on Android just yet. Join us to learn how we bypassed this limitation to create a selfie box based on Kotlin, Things™, and, of course, Google Photos!",
+      "startsAt": "2018-10-06T14:40:00",
+      "endsAt": "2018-10-06T15:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7d912e80-f02c-42cf-92db-98e670bef1a6"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11993,
+        11996,
+        12012
+      ],
+      "questionAnswers": [],
+      "roomId": 2358
+    },
+    {
       "id": "64727",
       "title": "ARCore is Magic",
       "description": "ARCore is the Google library that allows to build new augmented reality experiences that seamlessly blend the digital and physical worlds. We will see all the features supported by ARCore through the development of a \"Magic\" App",
-      "startsAt": "2018-10-06T13:50:00",
-      "endsAt": "2018-10-06T14:30:00",
+      "startsAt": "2018-10-06T14:40:00",
+      "endsAt": "2018-10-06T15:20:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -267,33 +332,11 @@
         11989,
         11990,
         11994,
-        13101,
-        11996
+        11996,
+        13101
       ],
       "questionAnswers": [],
       "roomId": 2357
-    },
-    {
-      "id": "62552",
-      "title": "Game of coins: on the future of blockchain",
-      "description": "The technology of Blockchain, the more complex step after Bitcoin, has compelling possibilities. Because it offers a decentralized\r\napproach to money, blockchain has the potential to promote and achieve fairness and democratization. Blockchain also has the ability to transform numerous sectors: in the financial sector, it encourages people to take initiative in innovation; in government, it creates greater transparency and makes the process of providing services more efficient. These are important developments that are worth pursuing — not for the few, but for the many. The use case for blockchain is tremendous and opportunities are abundant. \r\nThis speech offers a unique approach to the blockchain, explained simply and straightforward, then it provides an overview of my personal experience in Blockchain programming and predicts the future of this mesmerizing technology.",
-      "startsAt": "2018-10-06T14:40:00",
-      "endsAt": "2018-10-06T15:20:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c356f290-3d52-4aac-8ba3-f923dd58cb2d"
-      ],
-      "categoryItems": [
-        11989,
-        11990,
-        11993,
-        11999,
-        12002,
-        12006
-      ],
-      "questionAnswers": [],
-      "roomId": 2358
     },
     {
       "id": "65786",
@@ -352,8 +395,8 @@
         11988,
         11990,
         11994,
-        11996,
-        13101
+        13101,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2359
@@ -373,8 +416,8 @@
         11989,
         11991,
         11994,
-        12003,
-        11996
+        11996,
+        12003
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -401,21 +444,22 @@
       "roomId": 2358
     },
     {
-      "id": "61988",
-      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
-      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+      "id": "61968",
+      "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
+      "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
       "startsAt": "2018-10-06T16:30:00",
       "endsAt": "2018-10-06T17:10:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "b908d4a9-f8d5-44db-a785-f608885eff46"
+        "47f2bd26-43a8-4b05-9db3-19d04ca8cee8"
       ],
       "categoryItems": [
         11989,
-        11991,
+        11990,
         11994,
-        11999
+        12009,
+        12010
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -435,9 +479,9 @@
         11989,
         11991,
         11993,
-        11996,
         12007,
-        12004
+        12004,
+        11996
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -463,22 +507,21 @@
       "roomId": 2357
     },
     {
-      "id": "61968",
-      "title": "Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza",
-      "description": "In questo talk della durata di circa 30 minuti illustrerò il funzionamento base della piattaforma AdWords.\r\nAffronteremo varie cose tra cui: \r\n- creazione della campagna;\r\n- varie definizioni (CPC, CPA,...);\r\n- le reti di diffusione dell'annuncio;\r\n- ... e altri argomenti.\r\n\r\nIl talk è di livello beginner.",
+      "id": "61988",
+      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
       "startsAt": "2018-10-06T17:20:00",
       "endsAt": "2018-10-06T18:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "47f2bd26-43a8-4b05-9db3-19d04ca8cee8"
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
       ],
       "categoryItems": [
         11989,
-        11990,
+        11991,
         11994,
-        12009,
-        12010
+        11999
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -498,8 +541,8 @@
         11989,
         11991,
         11994,
-        12012,
-        11996
+        11996,
+        12012
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -738,6 +781,36 @@
         64608
       ],
       "fullName": "Elia Rigo"
+    },
+    {
+      "id": "da9d14fa-7755-4ca7-8c7e-1474dbc67789",
+      "firstName": "Emiliano",
+      "lastName": "De Matteis",
+      "bio": "While at Google, I've covered three roles. I've started as App Promotion Specialist, then I moved to Mobile UX Specialist and now I'm Mobile Web Lead for Italy. Previously I was Account Manager at Twitter for almost 3 years, dealing with Mobile and Performance Clients. Before moving to Ireland for Twitter, I was working as Demand Generation and Social Media Specialist for Microsoft Italy and then as Digital Media Planner for Universal McCann Italy.",
+      "tagLine": "Mobile Web Lead - Google Italia",
+      "profilePicture": "https://sessionize.com/image?f=593819722d0da6060ea561559f4ab236,400,400,True,False,fa-7755-4ca7-8c7e-1474dbc67789.000a0115-91d9-4fd9-b2c2-69c20a73dda8.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/emiliano",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/emilianodematteis",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.Google.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        67075
+      ],
+      "fullName": "Emiliano De Matteis"
     },
     {
       "id": "2e93a5e7-2037-4d7d-a548-7512f9c14960",
@@ -1106,7 +1179,7 @@
       "lastName": "De Simoni",
       "bio": "https://www.linkedin.com/in/micheledesimoni/",
       "tagLine": "Machine Learning Engineer",
-      "profilePicture": "https://sessionize.com/image?f=6ff51d406462e551e9323f784e1763a2,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.42c3fa81-6574-4fc0-a74e-3cc06896a891.jpg",
+      "profilePicture": "https://sessionize.com/image?f=0ee9eb2ec25aef0dc24e48f56dadb727,400,400,True,False,06-33e5-4a01-8686-2598943d45fd.e110eeea-f84a-4ceb-8b9c-17624ef62c3e.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1164,6 +1237,31 @@
         65058
       ],
       "fullName": "Panayotis Tzinis"
+    },
+    {
+      "id": "e5941ea5-5a10-45a0-903b-f642db802a16",
+      "firstName": "Pietro",
+      "lastName": "Maggi",
+      "bio": " I have 15+ years of development experience from 8-bit MCU to HTML5 web apps, architecting solutions for mobile devices before it was trendy.\r\nIn the Android Developer Relations team my focus is to provide an awesome developer experience around Play technologies like Android Vitals and Android App Bundles.\r\n\r\nI believe that the best way to understand how something works is to take it apart (and possibly put it back together at the end). My children share this belief, which results in a lot of broken toys in our house!\r\nI like spending time with my family and climbing mountains. ",
+      "tagLine": "Android Developer Advocate",
+      "profilePicture": "https://sessionize.com/image?f=e45f576d53c9a2f465977a8af9126c77,400,400,True,False,a5-5a10-45a0-903b-f642db802a16.426000d4-041e-4d81-81cf-e89e350542ad.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/pfmaggi",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://developer.android.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        66856
+      ],
+      "fullName": "Pietro Maggi"
     },
     {
       "id": "7d912e80-f02c-42cf-92db-98e670bef1a6",

@@ -1,6 +1,5 @@
 {
   "2018-10-06": {
-    "date": "2018-10-06",
     "tracks": [
       {
         "title": "Magna"
@@ -29,6 +28,7 @@
         ]
       },
       {
+        "startTime": "09:35",
         "sessions": [
           {
             "items": [
@@ -36,8 +36,7 @@
             ]
           }
         ],
-        "endTime": "10:25",
-        "startTime": "09:35"
+        "endTime": "10:25"
       },
       {
         "endTime": "11:10",
@@ -45,7 +44,7 @@
         "sessions": [
           {
             "items": [
-              "solid_principles_in_practice_the_clean_architecture"
+              "next_generation_web_assets"
             ]
           },
           {
@@ -54,7 +53,6 @@
             ]
           },
           {
-            "extend": 2,
             "items": [
               "guida_intergalattica_per_cercatori_di_lavoro"
             ]
@@ -68,6 +66,8 @@
         ]
       },
       {
+        "endTime": "12:00",
+        "startTime": "11:20",
         "sessions": [
           {
             "items": [
@@ -76,25 +76,26 @@
           },
           {
             "items": [
-              "behind_the_curtains_how_photos_works"
+              "ml_kit_for_mobile_developers"
+            ]
+          },
+          {
+            "items": [
+              "develop_a_product_on_gcp"
             ]
           },
           {
             "items": []
-          },
-          {
-            "items": []
           }
-        ],
-        "endTime": "12:00",
-        "startTime": "11:20"
+        ]
       },
       {
+        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
             "items": [
-              "develop_a_product_on_gcp"
+              "introducing_workmanager"
             ]
           },
           {
@@ -110,8 +111,7 @@
           {
             "items": []
           }
-        ],
-        "endTime": "12:50"
+        ]
       },
       {
         "endTime": "13:45",
@@ -125,16 +125,17 @@
         ]
       },
       {
+        "endTime": "14:30",
         "startTime": "13:50",
         "sessions": [
           {
             "items": [
-              "arcore_is_magic"
+              "solid_principles_in_practice_the_clean_architecture"
             ]
           },
           {
             "items": [
-              "ml_kit_for_mobile_developers"
+              "game_of_coins_on_the_future_of_blockchain"
             ]
           },
           {
@@ -148,18 +149,20 @@
             ],
             "extend": 2
           }
-        ],
-        "endTime": "14:30"
+        ]
       },
       {
+        "endTime": "15:20",
         "startTime": "14:40",
         "sessions": [
           {
-            "items": []
+            "items": [
+              "arcore_is_magic"
+            ]
           },
           {
             "items": [
-              "game_of_coins_on_the_future_of_blockchain"
+              "behind_the_curtains_how_photos_works"
             ]
           },
           {
@@ -170,21 +173,22 @@
           {
             "items": []
           }
-        ],
-        "endTime": "15:20"
+        ]
       },
       {
-        "endTime": "15:40",
-        "startTime": "15:20",
         "sessions": [
           {
             "items": [
               "break_15"
             ]
           }
-        ]
+        ],
+        "endTime": "15:40",
+        "startTime": "15:20"
       },
       {
+        "endTime": "16:20",
+        "startTime": "15:40",
         "sessions": [
           {
             "items": [
@@ -207,13 +211,9 @@
             ],
             "extend": 2
           }
-        ],
-        "endTime": "16:20",
-        "startTime": "15:40"
+        ]
       },
       {
-        "endTime": "17:10",
-        "startTime": "16:30",
         "sessions": [
           {
             "items": [
@@ -227,13 +227,15 @@
           },
           {
             "items": [
-              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+              "come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza"
             ]
           },
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "17:10",
+        "startTime": "16:30"
       },
       {
         "endTime": "18:00",
@@ -251,7 +253,7 @@
           },
           {
             "items": [
-              "come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza"
+              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
             ]
           },
           {
@@ -270,6 +272,7 @@
         "endTime": "18:30",
         "startTime": "18:00"
       }
-    ]
+    ],
+    "date": "2018-10-06"
   }
 }

@@ -1,33 +1,35 @@
 Session with #Android
 
+Introducing WorkManager (by Pietro Maggi)
+    #Android #Kotlin
+Want a Slice? (by Kaan Mamikoglu)
+    #Assistant #Android #Design #Firebase
 SOLID principles in practice: the clean architecture (by Fabio Collini)
     #Android #Kotlin
-Behind the curtains: how Photos™ works (by Roberto Orgiu)
-    #Kotlin #Android
-Want a Slice? (by Kaan Mamikoglu)
-    #Firebase #Design #Assistant #Android
 ARCore is Magic (by Michelantonio Trizio)
-    #ARCore #Android
-Motion Layout: easy animations for everyone! (by Boris D'Amato)
-    #Design #Android
-Introduction to SceneForm (by Michelantonio Trizio)
     #Android #ARCore
+Behind the curtains: how Photos™ works (by Roberto Orgiu)
+    #Android #Kotlin
+Motion Layout: easy animations for everyone! (by Boris D'Amato)
+    #Android #Design
+Introduction to SceneForm (by Michelantonio Trizio)
+    #ARCore #Android
 Android JetPack: Easy navigation with the new Navigation Controller (by Leonardo Pirro)
     #Android
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #Android #MachineLearning #Firebase
+    #MachineLearning #Firebase #Android
 How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
-    #Kotlin #Android
+    #Android #Kotlin
 The (build) time of my life (by Lorenzo Quiroli)
     #Android
 
 
 Session with #MachineLearning
 
+ML Kit for Mobile Developers (by Laura Morinigo)
+    #Firebase #MachineLearning
 HRmatch: Machine Learning vs Pregiudizi umani (by Matteo Venturi)
     #MachineLearning
-ML Kit for Mobile Developers (by Laura Morinigo)
-    #MachineLearning #Firebase
 Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
     #MachineLearning
 Il lato oscuro del Deep Learning (by Simone Scardapane)
@@ -35,38 +37,40 @@ Il lato oscuro del Deep Learning (by Simone Scardapane)
 AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
     #MachineLearning #BigData
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #Android #MachineLearning #Firebase
+    #MachineLearning #Firebase #Android
 
 
 Session with #Firebase
 
-Want a Slice? (by Kaan Mamikoglu)
-    #Firebase #Design #Assistant #Android
 ML Kit for Mobile Developers (by Laura Morinigo)
-    #MachineLearning #Firebase
+    #Firebase #MachineLearning
+Want a Slice? (by Kaan Mamikoglu)
+    #Assistant #Android #Design #Firebase
 Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
-    #GoogleCloud #Firebase
+    #Firebase #GoogleCloud
 La Morte Nera, e se fosse prototipizzata con Firebase e React? (by Michel Murabito)
     #Web #Firebase
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #Android #MachineLearning #Firebase
+    #MachineLearning #Firebase #Android
 
 
-Session with: #Assistant #SocialMedia #DigitalWellbeing #Design #OpenSource #GoogleCloud #Web #Blockchain #CloudFunctions #IoT
+Session with: #Design #Marketing #Web #Assistant #DigitalWellbeing #SocialMedia #OpenSource #GoogleCloud #Blockchain #CloudFunctions #IoT
 
+Next generation web assets (by Emiliano De Matteis)
+    #Design #Marketing #Web
 Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
     #Assistant
 Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
-    #SocialMedia #DigitalWellbeing
+    #DigitalWellbeing #SocialMedia
 Designing for wicked challenges (by Panayotis Tzinis)
     #Design
 Library development: open source your ideas! (by Marco Gomiero, Andrea Maglie)
     #OpenSource
 Develop a product on GCP (by Francesca Stagnaro)
-    #GoogleCloud #Web #Design
+    #Web #Design #GoogleCloud
 Game of coins: on the future of blockchain (by Anđela Todorović)
     #Blockchain #CloudFunctions #IoT
-Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
-    #Blockchain
 Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
     #SocialMedia #Web
+Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
+    #Blockchain

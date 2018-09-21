@@ -1,22 +1,24 @@
 10:30
-    SOLID principles in practice: the clean architecture (by Fabio Collini)
+    Next generation web assets (by Emiliano De Matteis)
     Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
     Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
     Designing for wicked challenges (by Panayotis Tzinis)
 11:20
     Library development: open source your ideas! (by Marco Gomiero, Andrea Maglie)
-    Behind the curtains: how Photos™ works (by Roberto Orgiu)
-12:10
+    ML Kit for Mobile Developers (by Laura Morinigo)
     Develop a product on GCP (by Francesca Stagnaro)
+12:10
+    Introducing WorkManager (by Pietro Maggi)
     Want a Slice? (by Kaan Mamikoglu)
     HRmatch: Machine Learning vs Pregiudizi umani (by Matteo Venturi)
 13:50
-    ARCore is Magic (by Michelantonio Trizio)
-    ML Kit for Mobile Developers (by Laura Morinigo)
+    SOLID principles in practice: the clean architecture (by Fabio Collini)
+    Game of coins: on the future of blockchain (by Anđela Todorović)
     Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
     Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
 14:40
-    Game of coins: on the future of blockchain (by Anđela Todorović)
+    ARCore is Magic (by Michelantonio Trizio)
+    Behind the curtains: how Photos™ works (by Roberto Orgiu)
     Il lato oscuro del Deep Learning (by Simone Scardapane)
 15:40
     Motion Layout: easy animations for everyone! (by Boris D'Amato)
@@ -26,8 +28,8 @@
 16:30
     Android JetPack: Easy navigation with the new Navigation Controller (by Leonardo Pirro)
     Creating ML-powered applications (by Buşra Deniz Akın)
-    Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
+    Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
 17:20
     How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
     The (build) time of my life (by Lorenzo Quiroli)
-    Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
+    Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)

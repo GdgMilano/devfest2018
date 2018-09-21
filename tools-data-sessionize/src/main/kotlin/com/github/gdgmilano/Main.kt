@@ -10,8 +10,8 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 fun main(args: Array<String>) {
-//  Main.sessionizeToHoverboard()
-//  Main.buildSocialMessage()
+  // Main.sessionizeToHoverboard()
+  // Main.buildSocialMessage()
   Main.buildAgenda()
 }
 
@@ -127,6 +127,7 @@ object Main {
       sessionize.categories.first { it.title == "Session format" }.items.map { it.id to it.name }.toMap()
     val mapLevel = sessionize.categories.first { it.title == "Level" }.items.map { it.id to it.name }.toMap()
     val mapLanguage = sessionize.categories.first { it.title == "Language" }.items.map { it.id to it.name }.toMap()
+    val mapLanguageFlag = mapOf("Italian" to "🇮🇹", "English" to "🇬🇧")
     val mapTags = sessionize.categories.first { it.title == "Tags" }.items.map { it.id to it.name }.toMap()
 
     val sessionsNew = sessionize.sessions.map { session ->
@@ -139,6 +140,7 @@ object Main {
       if (sessionOld != null) {
         sessionOld.copy(
           language = language,
+          languageFlag = mapLanguageFlag[language],
           description = session.description,
           complexity = level,
           tags = tags,
@@ -148,6 +150,7 @@ object Main {
       } else {
         Hoverboard.Session(
           language = language,
+          languageFlag = mapLanguageFlag[language],
           description = session.description,
           presentation = "",
           complexity = level,
@@ -285,10 +288,12 @@ object Main {
       "${it.startTime}\n\n${
       sessions.map {
         if (it.speakers != null) {
-          val speakers = it.speakers!!.map { speakersOld[it]!!.name }.joinToString()
+          val speakers = it.speakers!!.map { val speaker = speakersOld[it]!!
+            "${speaker.name} (${speaker.title} @ ${speaker.company})"
+          }.joinToString()
           val tags = it.tags!!.map { "#${it.replace(" ", "")}" }.joinToString(" ")
           val url = "https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=${makeSlug(it.title)}"
-          "${it.title}\n    by $speakers | $tags\n    $url\n"
+          "${it.title}\n    $tags\n    by $speakers\n"
         } else {
           it.title
         }

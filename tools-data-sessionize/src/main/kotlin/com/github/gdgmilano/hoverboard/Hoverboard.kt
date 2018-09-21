@@ -69,6 +69,7 @@ object Hoverboard {
 
   data class Session(
     val language: String? = null,
+    val languageFlag: String? = null,
     val description: String,
     val presentation: String? = null,
     val complexity: String? = null,
