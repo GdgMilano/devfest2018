@@ -1,3 +1,21 @@
+DevFest Milano 2018 sta per iniziare, mancano meno di 2 settimane!
+
+- Quest'anno saranno presenti 27 speaker da varie parti del mondo!
+- Sono previsti 24 talk (14 🇮🇹 + 10 🇬🇧) e 3 codelab (2 🇮🇹 +  1 🇬🇧)
+- Quest'anno gli argomenti più discussi saranno: #Android (11 talk), #MachineLearning (6 talk), #Firebase (5 talk) e a seguire (in ordine sparso) #Design #Marketing #Web #Assistant #DigitalWellbeing #SocialMedia #OpenSource #GoogleCloud #Blockchain #CloudFunctions #IoT
+- L'evento più grosso mai realizzato dal GDG Milano, e per questo vorremmo ringraziarvi 😍
+- Ci aspettiamo oltre 400 iscritti!
+
+Evento gratuito, registrazione richiesta: https://www.meetup.com/it-IT/GDG-Milano/events/253106046
+
+
+La DevFest Milano sta per iniziare, mancano solo 2 settimane!
+Quest'anno saranno presenti 27 speaker da varie parti del mondo!
+Previsti 24 talk (14 🇮🇹+10 🇬🇧) 3 codelab (2 🇮🇹+ 1 🇬🇧)
+
+Evento gratuito, registrazione richiesta: https://devfest2018.gdgmilano.it
+
+
 DevFest Milano 2018, this year: https://devfest2018.gdgmilano.it/schedule/2018-10-06?sessionId=game_of_coins_on_the_future_of_blockchain
 Talk by Anđela Todorović on #IoT #Blockchain #CloudFunctions
 Join now - FREE Conference (20+ speaker) #DevFest18
