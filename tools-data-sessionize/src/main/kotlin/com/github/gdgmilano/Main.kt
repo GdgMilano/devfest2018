@@ -10,8 +10,8 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 fun main(args: Array<String>) {
-  // Main.sessionizeToHoverboard()
-  // Main.buildSocialMessage()
+  Main.sessionizeToHoverboard()
+//  Main.buildSocialMessage()
   Main.buildAgenda()
 }
 
@@ -288,7 +288,8 @@ object Main {
       "${it.startTime}\n\n${
       sessions.map {
         if (it.speakers != null) {
-          val speakers = it.speakers!!.map { val speaker = speakersOld[it]!!
+          val speakers = it.speakers!!.map {
+            val speaker = speakersOld[it]!!
             "${speaker.name} (${speaker.title} @ ${speaker.company})"
           }.joinToString()
           val tags = it.tags!!.map { "#${it.replace(" ", "")}" }.joinToString(" ")

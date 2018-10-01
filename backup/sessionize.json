@@ -78,8 +78,8 @@
         11990,
         11993,
         12003,
-        12008,
-        12010
+        12010,
+        12008
       ],
       "questionAnswers": [],
       "roomId": 2357
@@ -149,26 +149,6 @@
       "roomId": 2358
     },
     {
-      "id": "61989",
-      "title": "HRmatch: Machine Learning vs Pregiudizi umani",
-      "description": "Machine Learning applicata ai processi HR può aiutare ad accelerare il reclutamento, ad attirare e trovare candidati eccellenti spesso trascurati dai reclutatori umani. \r\n\r\nAlcune domande alle quali dare una risposta:\r\nE'  possibile collegare il colloquio di un candidato ai risultati di business futuri?\r\nQuali KPI nella gestione HR vanno considerati?\r\nE' possibile fare migliorare i processi e assunzioni in modo imparziale?\r\n\r\nLe risorse umane raccolgono grandi quantità di dati su tutti gli aspetti dell'attività dei dipendenti e tutti questi dati hanno informazioni importanti. Inoltre, le applicazioni di apprendimento automatico sono molteplici e hanno funzioni trasversali.  \r\nLe migliori soluzioni oggi e nel prossimo futuro non sostituiscono  gli esseri umani, ma enfatizzano il ridimensionamento del processo decisionale con l'uso delle macchine come strumento di analisi e collaborazione.\r\n\r\nLe HR del futuro grazie agli strumenti di machine learning avranno sempre più un approccio incentrato sulle persone, sulle motivazioni, sulle competenze... e meno sui pregiudizi.",
-      "startsAt": "2018-10-06T12:10:00",
-      "endsAt": "2018-10-06T12:50:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "18a4c0bc-e7c2-406e-a9b2-1baad10169a3"
-      ],
-      "categoryItems": [
-        11989,
-        11992,
-        11994,
-        12007
-      ],
-      "questionAnswers": [],
-      "roomId": 2411
-    },
-    {
       "id": "62154",
       "title": "Want a Slice?",
       "description": "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented.",
@@ -183,10 +163,10 @@
         11989,
         11991,
         11993,
-        11997,
         11996,
-        12003,
-        12004
+        11997,
+        12004,
+        12003
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -374,8 +354,8 @@
         11989,
         11991,
         11994,
-        12010,
-        12004
+        12004,
+        12010
       ],
       "questionAnswers": [],
       "roomId": 2411
@@ -404,7 +384,7 @@
     {
       "id": "66002",
       "title": "Motion Layout: easy animations for everyone!",
-      "description": "TBD",
+      "description": "Vi è mai capitato di esservi ritrovati a scrivere valanghe di righe di codice nelle vostre view per realizzare semplici animazioni?\r\nSe la risposta è sí, allora questo è il Talk che fa per voi! La versione 2.0 in arrivo per il ConstraintLayout introduce il potentissimo MotionLayout!\r\nScopriamo insieme le potenzialità del MotionLayout tramite esempi e rimaniamo insieme stupiti dalla sua semplicità!",
       "startsAt": "2018-10-06T15:40:00",
       "endsAt": "2018-10-06T16:20:00",
       "isServiceSession": false,
@@ -437,8 +417,8 @@
         11989,
         11991,
         11993,
-        12007,
-        11998
+        11998,
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -479,9 +459,9 @@
         11989,
         11991,
         11993,
-        12007,
+        11996,
         12004,
-        11996
+        12007
       ],
       "questionAnswers": [],
       "roomId": 2358
@@ -925,6 +905,11 @@
           "title": "Website",
           "url": "http://www.iamkaan.com/",
           "linkType": "Other"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@iamkaan",
+          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -1031,41 +1016,6 @@
         61990
       ],
       "fullName": "Marco Gomiero"
-    },
-    {
-      "id": "18a4c0bc-e7c2-406e-a9b2-1baad10169a3",
-      "firstName": "Matteo",
-      "lastName": "Venturi",
-      "bio": "Marketing manager e digital product integrator. La mia esperienza si basa su progetti di piattaforme HR digitali, e-Commerce ed advertising. Ho maturato la mia esperienza in aziende come Italiaonline, Matrix e Buongiorno. Negli ultimi anni ho lanciato e sviluppato startup in ambito #hr e #hrtech dal carattere innovativo e con impatto sociale come Jobmetoo, Jointly e Myco.",
-      "tagLine": "MYCO Srl",
-      "profilePicture": "https://sessionize.com/image?f=24b80ee77cf4aec3511a1f95c5063666,400,400,True,False,bc-e7c2-406e-a9b2-1baad10169a3.ecb7c626-0c8c-475c-91b6-6c6b82e54c8c.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/qbertmv",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/matteoventuri/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://www.linkedin.com/in/matteoventuri/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "http://www.myco.it",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        61989
-      ],
-      "fullName": "Matteo Venturi"
     },
     {
       "id": "47f2bd26-43a8-4b05-9db3-19d04ca8cee8",

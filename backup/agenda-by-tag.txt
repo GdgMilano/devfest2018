@@ -3,7 +3,7 @@ Session with #Android
 Introducing WorkManager (by Pietro Maggi)
     #Android #Kotlin
 Want a Slice? (by Kaan Mamikoglu)
-    #Assistant #Android #Design #Firebase
+    #Android #Assistant #Firebase #Design
 SOLID principles in practice: the clean architecture (by Fabio Collini)
     #Android #Kotlin
 ARCore is Magic (by Michelantonio Trizio)
@@ -17,7 +17,7 @@ Introduction to SceneForm (by Michelantonio Trizio)
 Android JetPack: Easy navigation with the new Navigation Controller (by Leonardo Pirro)
     #Android
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #MachineLearning #Firebase #Android
+    #Android #Firebase #MachineLearning
 How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
     #Android #Kotlin
 The (build) time of my life (by Lorenzo Quiroli)
@@ -28,16 +28,14 @@ Session with #MachineLearning
 
 ML Kit for Mobile Developers (by Laura Morinigo)
     #Firebase #MachineLearning
-HRmatch: Machine Learning vs Pregiudizi umani (by Matteo Venturi)
-    #MachineLearning
 Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
     #MachineLearning
 Il lato oscuro del Deep Learning (by Simone Scardapane)
     #BigData #MachineLearning
 AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
-    #MachineLearning #BigData
+    #BigData #MachineLearning
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #MachineLearning #Firebase #Android
+    #Android #Firebase #MachineLearning
 
 
 Session with #Firebase
@@ -45,19 +43,19 @@ Session with #Firebase
 ML Kit for Mobile Developers (by Laura Morinigo)
     #Firebase #MachineLearning
 Want a Slice? (by Kaan Mamikoglu)
-    #Assistant #Android #Design #Firebase
+    #Android #Assistant #Firebase #Design
 Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
     #Firebase #GoogleCloud
 La Morte Nera, e se fosse prototipizzata con Firebase e React? (by Michel Murabito)
-    #Web #Firebase
+    #Firebase #Web
 Creating ML-powered applications (by Buşra Deniz Akın)
-    #MachineLearning #Firebase #Android
+    #Android #Firebase #MachineLearning
 
 
-Session with: #Design #Marketing #Web #Assistant #DigitalWellbeing #SocialMedia #OpenSource #GoogleCloud #Blockchain #CloudFunctions #IoT
+Session with: #Design #Web #Marketing #Assistant #DigitalWellbeing #SocialMedia #OpenSource #GoogleCloud #Blockchain #CloudFunctions #IoT
 
 Next generation web assets (by Emiliano De Matteis)
-    #Design #Marketing #Web
+    #Design #Web #Marketing
 Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
     #Assistant
 Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)

@@ -1,20 +1,16 @@
-09:00  Registration
-
-09:35  GDG Milano 2018 - Opening keynote
-
 10:30
 
 Next generation web assets
-    #Design #Marketing #Web
-    by Emiliano De Matteis (Mobile Web Lead @ Google Italia)
+    #Design #Web #Marketing
+    by Emiliano De Matteis (Mobile Web Lead - Google Italia @ Google)
 
 Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays
     #Assistant
-    by Aygul Zagidullina (Actions on Google Developer, GDG/WTM London Lead)
+    by Aygul Zagidullina (Actions on Google Developer, GDG/WTM London Lead @ WTM London)
 
 Guida intergalattica per cercatori di lavoro
     #DigitalWellbeing #SocialMedia
-    by Valentina Carrirolo (Community Manager @ Codemotion), Clara Canova (ninja @ Spindox)
+    by Valentina Carrirolo (Community lover <3 @ Codemotion), Clara Canova (ninja @ Spindox)
 
 Designing for wicked challenges
     #Design
@@ -29,7 +25,7 @@ Library development: open source your ideas!
 
 ML Kit for Mobile Developers
     #Firebase #MachineLearning
-    by Laura Morinigo (Software Developer, Mentor & Entrepreneur @ Mode Labs)
+    by Laura Morinigo (Software Developer , Mentor & Entrepreneur @ Mode Labs)
 
 Develop a product on GCP
     #Web #Design #GoogleCloud
@@ -43,15 +39,9 @@ Introducing WorkManager
     by Pietro Maggi (Android Developer Advocate @ Google)
 
 Want a Slice?
-    #Assistant #Android #Design #Firebase
+    #Android #Assistant #Firebase #Design
     by Kaan Mamikoglu (Mobile Software Engineer @ MyDrive Solutions)
 
-HRmatch: Machine Learning vs Pregiudizi umani
-    #MachineLearning
-    by Matteo Venturi (Marketing manager e digital product integrator @ MYCO Srl)
-
-
-12:55  Lunch
 
 13:50
 
@@ -80,27 +70,25 @@ ARCore is Magic
 
 Behind the curtains: how Photos™ works
     #Android #Kotlin
-    by Roberto Orgiu (Android Engineer @ New York Times)
+    by Roberto Orgiu (Android Engineer @ NYTimes)
 
 Il lato oscuro del Deep Learning
     #BigData #MachineLearning
-    by Simone Scardapane (Post-doc @ Sapienza | GDE for ML | IAML co-founder)
+    by Simone Scardapane (Post-doc @ Sapienza | GDE for ML | IAML co-founder @ Post-doc @ Sapienza | IAML co-founder)
 
-
-15:20  Coffee break
 
 15:40
 
 Motion Layout: easy animations for everyone!
     #Android #Design
-    by Boris D'Amato (Android Developer @ ClearScore - GDG Bari co-organizer)
+    by Boris D'Amato (Android Developer @ ClearScore - GDG Bari co-organizer @ ClearScore)
 
 AbracaGAN: Introduction to the almost magical world of GANs
-    #MachineLearning #BigData
-    by Michele De Simoni (Machine Learning Engineer)
+    #BigData #MachineLearning
+    by Michele De Simoni (Machine Learning Engineer @ )
 
 La Morte Nera, e se fosse prototipizzata con Firebase e React?
-    #Web #Firebase
+    #Firebase #Web
     by Michel Murabito (Developer senior @ Spindox)
 
 Introduction to SceneForm
@@ -115,7 +103,7 @@ Android JetPack: Easy navigation with the new Navigation Controller
     by Leonardo Pirro (Android Developer  @ IQUII)
 
 Creating ML-powered applications
-    #MachineLearning #Firebase #Android
+    #Android #Firebase #MachineLearning
     by Buşra Deniz Akın (Android Dev @TAB, Lead @GDGLondon & @WTMLondon  @ The App Business)
 
 Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza
@@ -131,11 +119,8 @@ How to become an Android dev starting from iOS (and vice versa)
 
 The (build) time of my life
     #Android
-    by Lorenzo Quiroli (Senior Android Developer @ busuu)
+    by Lorenzo Quiroli (Senior Android Developer @ busuu @ busuu)
 
 Digital records evidence - Oracles and the Bitcoin blockchain
     #Blockchain
-    by Alessandro Aglietti (Frontend Developer @ Brumbrum.it/Aqquadro.it)
-
-
-18:00  Closing
+    by Alessandro Aglietti (Developer @ aqquadro.it / brumbrum.it)
