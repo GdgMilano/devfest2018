@@ -91,13 +91,13 @@
     "short": "Milano, Italia",
     "address": " Edificio U6, Piazza dell'Ateneo Nuovo, 1, 20126 Milano MI",
     "pointer": {
-      "latitude": 45.5184464,
-      "longitude": 9.210917,
+      "latitude": 45.518339,
+      "longitude": 9.213079,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 45.5184464,
-      "longitude":  9.210917
+      "latitude": 45.518339,
+      "longitude":  9.213079
     },
     "description": "Facilmente raggiungibile con la metro viola, fermata Bicocca o Ponale "
   },

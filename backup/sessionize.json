@@ -193,6 +193,27 @@
       "roomId": 2357
     },
     {
+      "id": "69352",
+      "title": "The power of Kotlin @Annotations",
+      "description": "The main topics of this session are:\r\n- What an annotation is\r\n- How to apply it\r\n- How to create a custom annotation\r\n- How to create an annotation processor",
+      "startsAt": "2018-10-06T12:10:00",
+      "endsAt": "2018-10-06T12:50:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "021f44ab-8d79-427e-bf95-a0e05e1cd73d"
+      ],
+      "categoryItems": [
+        11989,
+        11991,
+        11994,
+        12012,
+        11996
+      ],
+      "questionAnswers": [],
+      "roomId": 2411
+    },
+    {
       "id": "62156",
       "title": "Firebase Cloud Firestore: Deep Dive",
       "description": "Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing. In this workshop, we’ll focus on Could Firestore, Firebase's new database solution. Cloud Firestore is an efficient, low-latency database solution for mobile apps that is optimized for speed, security, and offline use. As part of this workshop, we’ll build an app using Cloud Firestore focusing on realtime updates, expressive querying, and offline support. The workshop participants will learn how to read and write data to Firestore from an Android app, listen to changes in Firestore data in realtime, use Firebase Authentication and security rules to secure Firestore data, and write complex Firestore queries.",
@@ -851,6 +872,36 @@
         63187
       ],
       "fullName": "Francesca Stagnaro"
+    },
+    {
+      "id": "021f44ab-8d79-427e-bf95-a0e05e1cd73d",
+      "firstName": "Giorgio",
+      "lastName": "Antonioli",
+      "bio": "I'm an Android Developer at Subito.it, I love Kotlin and I use it everyday in my job and in my personal projects. I like also tooling and performance analysis.",
+      "tagLine": "Android Developer - Subito.it",
+      "profilePicture": "https://sessionize.com/image?f=ded7ee1345ee39dedabdb01c92deb791,400,400,True,False,b1347f96-767d-45a5-8b1c-846d8ff06885.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/giorgioantonioli/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://github.com/Fondesa",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.subito.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        69352
+      ],
+      "fullName": "Giorgio Antonioli"
     },
     {
       "id": "6237b340-4f20-402b-bbe4-4e9e0d27a058",
