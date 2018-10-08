@@ -1,23 +1,23 @@
 {
   "2018-10-06": {
+    "date": "2018-10-06",
     "tracks": [
       {
         "title": "Magna"
       },
       {
-        "title": "U6-7"
+        "title": "Room 6"
       },
       {
-        "title": "New room"
+        "title": "Room 7"
       },
       {
-        "title": "U6-6-6"
+        "title": "Room 9"
       }
     ],
     "dateReadable": "Programma della giornata",
     "timeslots": [
       {
-        "endTime": "09:30",
         "startTime": "09:00",
         "sessions": [
           {
@@ -25,7 +25,8 @@
               "registration"
             ]
           }
-        ]
+        ],
+        "endTime": "09:30"
       },
       {
         "endTime": "10:25",
@@ -58,16 +59,14 @@
             ]
           },
           {
+            "extend": 3,
             "items": [
               "designing_for_wicked_challenges"
-            ],
-            "extend": 3
+            ]
           }
         ]
       },
       {
-        "endTime": "12:00",
-        "startTime": "11:20",
         "sessions": [
           {
             "items": [
@@ -87,9 +86,12 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:00",
+        "startTime": "11:20"
       },
       {
+        "startTime": "12:10",
         "sessions": [
           {
             "items": [
@@ -110,11 +112,9 @@
             "items": []
           }
         ],
-        "endTime": "12:50",
-        "startTime": "12:10"
+        "endTime": "12:50"
       },
       {
-        "startTime": "12:55",
         "sessions": [
           {
             "items": [
@@ -122,7 +122,8 @@
             ]
           }
         ],
-        "endTime": "13:45"
+        "endTime": "13:45",
+        "startTime": "12:55"
       },
       {
         "endTime": "14:30",
@@ -134,9 +135,7 @@
             ]
           },
           {
-            "items": [
-              "game_of_coins_on_the_future_of_blockchain"
-            ]
+            "items": []
           },
           {
             "items": [
@@ -176,15 +175,15 @@
         "startTime": "14:40"
       },
       {
-        "endTime": "15:40",
-        "startTime": "15:20",
         "sessions": [
           {
             "items": [
               "break_15"
             ]
           }
-        ]
+        ],
+        "endTime": "15:40",
+        "startTime": "15:20"
       },
       {
         "startTime": "15:40",
@@ -205,16 +204,15 @@
             ]
           },
           {
+            "extend": 2,
             "items": [
               "introduction_to_sceneform"
-            ],
-            "extend": 2
+            ]
           }
         ],
         "endTime": "16:20"
       },
       {
-        "endTime": "17:10",
         "startTime": "16:30",
         "sessions": [
           {
@@ -235,7 +233,8 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "17:10"
       },
       {
         "startTime": "17:20",
@@ -272,7 +271,6 @@
           }
         ]
       }
-    ],
-    "date": "2018-10-06"
+    ]
   }
 }
