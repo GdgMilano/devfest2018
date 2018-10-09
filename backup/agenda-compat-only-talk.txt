@@ -10,9 +10,9 @@
 12:10
     Introducing WorkManager (by Pietro Maggi)
     Want a Slice? (by Kaan Mamikoglu)
+    The power of Kotlin @Annotations (by Giorgio Antonioli)
 13:50
     SOLID principles in practice: the clean architecture (by Fabio Collini)
-    Game of coins: on the future of blockchain (by Anđela Todorović)
     Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
     Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
 14:40

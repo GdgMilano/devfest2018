@@ -1,47 +1,10 @@
 {
   "2018-10-06": {
     "date": "2018-10-06",
-    "tracks": [
-      {
-        "title": "Magna"
-      },
-      {
-        "title": "Room 6"
-      },
-      {
-        "title": "Room 7"
-      },
-      {
-        "title": "Room 9"
-      }
-    ],
     "dateReadable": "Programma della giornata",
     "timeslots": [
       {
-        "startTime": "09:00",
-        "sessions": [
-          {
-            "items": [
-              "registration"
-            ]
-          }
-        ],
-        "endTime": "09:30"
-      },
-      {
-        "endTime": "10:25",
-        "startTime": "09:35",
-        "sessions": [
-          {
-            "items": [
-              "opening"
-            ]
-          }
-        ]
-      },
-      {
         "endTime": "11:10",
-        "startTime": "10:30",
         "sessions": [
           {
             "items": [
@@ -64,9 +27,11 @@
               "designing_for_wicked_challenges"
             ]
           }
-        ]
+        ],
+        "startTime": "10:30"
       },
       {
+        "endTime": "12:00",
         "sessions": [
           {
             "items": [
@@ -87,11 +52,10 @@
             "items": []
           }
         ],
-        "endTime": "12:00",
         "startTime": "11:20"
       },
       {
-        "startTime": "12:10",
+        "endTime": "12:50",
         "sessions": [
           {
             "items": [
@@ -112,22 +76,10 @@
             "items": []
           }
         ],
-        "endTime": "12:50"
-      },
-      {
-        "sessions": [
-          {
-            "items": [
-              "lunch"
-            ]
-          }
-        ],
-        "endTime": "13:45",
-        "startTime": "12:55"
+        "startTime": "12:10"
       },
       {
         "endTime": "14:30",
-        "startTime": "13:50",
         "sessions": [
           {
             "items": [
@@ -143,14 +95,16 @@
             ]
           },
           {
+            "extend": 2,
             "items": [
               "firebase_cloud_firestore_deep_dive"
-            ],
-            "extend": 2
+            ]
           }
-        ]
+        ],
+        "startTime": "13:50"
       },
       {
+        "endTime": "15:20",
         "sessions": [
           {
             "items": [
@@ -171,22 +125,10 @@
             "items": []
           }
         ],
-        "endTime": "15:20",
         "startTime": "14:40"
       },
       {
-        "sessions": [
-          {
-            "items": [
-              "break_15"
-            ]
-          }
-        ],
-        "endTime": "15:40",
-        "startTime": "15:20"
-      },
-      {
-        "startTime": "15:40",
+        "endTime": "16:20",
         "sessions": [
           {
             "items": [
@@ -210,10 +152,10 @@
             ]
           }
         ],
-        "endTime": "16:20"
+        "startTime": "15:40"
       },
       {
-        "startTime": "16:30",
+        "endTime": "17:10",
         "sessions": [
           {
             "items": [
@@ -234,10 +176,10 @@
             "items": []
           }
         ],
-        "endTime": "17:10"
+        "startTime": "16:30"
       },
       {
-        "startTime": "17:20",
+        "endTime": "18:00",
         "sessions": [
           {
             "items": [
@@ -258,18 +200,21 @@
             "items": []
           }
         ],
-        "endTime": "18:00"
+        "startTime": "17:20"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Magna"
       },
       {
-        "endTime": "18:30",
-        "startTime": "18:00",
-        "sessions": [
-          {
-            "items": [
-              "closing"
-            ]
-          }
-        ]
+        "title": "U6-7"
+      },
+      {
+        "title": "New room"
+      },
+      {
+        "title": "U6-6-6"
       }
     ]
   }

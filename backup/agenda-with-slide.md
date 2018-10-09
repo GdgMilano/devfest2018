@@ -1,0 +1,119 @@
+### 10:30
+
+- Next generation web assets (by Emiliano De Matteis)
+
+   Slide coming soon
+
+- Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
+
+   Slide coming soon
+
+- Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
+
+   Slide coming soon
+
+- Designing for wicked challenges (by Panayotis Tzinis)
+
+   Slide coming soon
+
+### 11:20
+
+- Library development: open source your ideas! (by Marco Gomiero, Andrea Maglie)
+
+   https://speakerdeck.com/prof18/library-development-open-source-your-ideas-devfest-milano-18
+
+- ML Kit for Mobile Developers (by Laura Morinigo)
+
+   Slide coming soon
+
+- Develop a product on GCP (by Francesca Stagnaro)
+
+   Slide coming soon
+
+### 12:10
+
+- Introducing WorkManager (by Pietro Maggi)
+
+   Slide coming soon
+
+- Want a Slice? (by Kaan Mamikoglu)
+
+   Slide coming soon
+
+- The power of Kotlin @Annotations (by Giorgio Antonioli)
+
+   https://speakerdeck.com/fondesa/the-power-of-kotlin-at-annotations
+
+### 13:50
+
+- SOLID principles in practice: the clean architecture (by Fabio Collini)
+
+   https://www.slideshare.net/fabio_collini/solid-principles-in-practice-the-clean-architecture
+
+- Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
+
+   Slide coming soon
+
+- Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
+
+   Slide coming soon
+
+### 14:40
+
+- ARCore is Magic (by Michelantonio Trizio)
+
+   https://speakerdeck.com/mikelantonio/arcore-is-magic
+
+- Behind the curtains: how Photos™ works (by Roberto Orgiu)
+
+   https://speakerdeck.com/tiwiz/behind-the-curtains-how-photos-work
+
+- Il lato oscuro del Deep Learning (by Simone Scardapane)
+
+   http://ispac.diet.uniroma1.it/scardapane/reveal/scardapane_converge.html#/
+
+### 15:40
+
+- Motion Layout: easy animations for everyone! (by Boris D'Amato)
+
+   Slide coming soon
+
+- AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
+
+   Slide coming soon
+
+- La Morte Nera, e se fosse prototipizzata con Firebase e React? (by Michel Murabito)
+
+   Slide coming soon
+
+- Introduction to SceneForm (by Michelantonio Trizio)
+
+   Slide coming soon
+
+### 16:30
+
+- Android JetPack: Easy navigation with the new Navigation Controller (by Leonardo Pirro)
+
+   https://speakerdeck.com/lpirro/android-jetpack-easy-navigation-with-the-new-navigation-controller
+
+- Creating ML-powered applications (by Buşra Deniz Akın)
+
+   Slide coming soon
+
+- Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
+
+   Slide coming soon
+
+### 17:20
+
+- How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
+
+   https://www.slideshare.net/GiuseppeFilograno/how-to-become-an-android-dev-starting-from-ios-and-vice-versa?qid=ba77201b-9a95-400e-b778-7e1b5fd43efb&v=&b=&from_search=1
+
+- The (build) time of my life (by Lorenzo Quiroli)
+
+   https://speakerdeck.com/quiro91/the-build-time-of-my-life
+
+- Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
+
+   https://docs.google.com/presentation/d/1FRi6jyuBpqkLt2snFiao1lMSTxAiRZ_5qMUJf3m8_jw/edit?usp=drivesdk

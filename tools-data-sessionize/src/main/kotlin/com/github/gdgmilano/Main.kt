@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 fun main(args: Array<String>) {
-  Main.sessionizeToHoverboard()
+//  Main.sessionizeToHoverboard()
 //  Main.buildSocialMessage()
   Main.buildAgenda()
 }
@@ -18,9 +18,9 @@ fun main(args: Array<String>) {
 object Main {
   // Config
 
-  private const val isFirestoreBackupEnabled = true
-  private const val isForceUpdateSessionize = true
-  private const val isUpdateSpeakerData = true
+  private const val isFirestoreBackupEnabled = false
+  private const val isForceUpdateSessionize = false
+  private const val isUpdateSpeakerData = false
 
   private const val sessionizeUrl = "https://sessionize.com/api/v2/y2kbnktu/view/all"
 
@@ -136,7 +136,7 @@ object Main {
       val language = session.categoryItems.first { mapLanguage[it] != null }.let { mapLanguage[it]!! }
       val tags = session.categoryItems.mapNotNull { mapTags[it] }
 
-      val sessionOld = sessionsOld.getOrDefault(session.id, null)
+      val sessionOld = sessionsOld.getOrDefault(makeSlug(session.title), null)
       if (sessionOld != null) {
         sessionOld.copy(
           language = language,
@@ -326,6 +326,23 @@ object Main {
             val speakers = it.speakers!!.map { speakersOld[it]!!.name }.joinToString()
             val tags = it.tags!!.map { "#${it.replace(" ", "")}" }.joinToString(" ")
             "    ${it.title} (by $speakers)"
+          } else null
+        }.joinToString("\n")
+        }"
+      } else null
+    }.joinToString("\n"))
+
+
+    File("${backupFolder}agenda-with-slide.md").writeText(scheduleOld.day1.timeslots.mapNotNull {
+      val sessions = it.sessions.filter { it.items.isNotEmpty() }.map { sessionsOld[it.items.first()]!! }
+      if (sessions.any { it.speakers != null }) {
+        "### ${it.startTime}\n\n${
+        sessions.mapNotNull {
+          if (it.speakers != null) {
+            val speakers = it.speakers!!.map { speakersOld[it]!!.name }.joinToString()
+            val tags = it.tags!!.map { "#${it.replace(" ", "")}" }.joinToString(" ")
+            "- ${it.title} (by $speakers)\n" +
+              "\n   ${it.presentation?.takeIf { it.isNotBlank() } ?: "Slide coming soon"}\n"
           } else null
         }.joinToString("\n")
         }"
