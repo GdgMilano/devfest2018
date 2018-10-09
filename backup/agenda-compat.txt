@@ -1,3 +1,7 @@
+09:00
+    Registration
+09:35
+    GDG Milano 2018 - Opening keynote
 10:30
     Next generation web assets (by Emiliano De Matteis)
     Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
@@ -11,6 +15,8 @@
     Introducing WorkManager (by Pietro Maggi)
     Want a Slice? (by Kaan Mamikoglu)
     The power of Kotlin @Annotations (by Giorgio Antonioli)
+12:55
+    Lunch
 13:50
     SOLID principles in practice: the clean architecture (by Fabio Collini)
     Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
@@ -19,6 +25,8 @@
     ARCore is Magic (by Michelantonio Trizio)
     Behind the curtains: how Photos™ works (by Roberto Orgiu)
     Il lato oscuro del Deep Learning (by Simone Scardapane)
+15:20
+    Coffee break - offered by Codemotion
 15:40
     Motion Layout: easy animations for everyone! (by Boris D'Amato)
     AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
@@ -32,3 +40,5 @@
     How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
     The (build) time of my life (by Lorenzo Quiroli)
     Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
+18:00
+    Closing

@@ -10,7 +10,7 @@
 
 - Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
 
-   Slide coming soon
+   https://speakerdeck.com/carrirolo/guida-intergalattica-per-cercatori-di-lavoro
 
 - Designing for wicked challenges (by Panayotis Tzinis)
 

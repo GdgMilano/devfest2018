@@ -1,3 +1,11 @@
+09:00
+
+Registration
+
+09:35
+
+GDG Milano 2018 - Opening keynote
+
 10:30
 
 Next generation web assets
@@ -47,6 +55,10 @@ The power of Kotlin @Annotations
     by Giorgio Antonioli (Android Developer - Subito.it @ Subito.it)
 
 
+12:55
+
+Lunch
+
 13:50
 
 SOLID principles in practice: the clean architecture
@@ -76,6 +88,10 @@ Il lato oscuro del Deep Learning
     #BigData #MachineLearning
     by Simone Scardapane (Post-doc @ Sapienza | GDE for ML | IAML co-founder @ Post-doc @ Sapienza | IAML co-founder)
 
+
+15:20
+
+Coffee break - offered by Codemotion
 
 15:40
 
@@ -124,3 +140,8 @@ The (build) time of my life
 Digital records evidence - Oracles and the Bitcoin blockchain
     #Blockchain
     by Alessandro Aglietti (Developer @ aqquadro.it / brumbrum.it)
+
+
+18:00
+
+Closing
