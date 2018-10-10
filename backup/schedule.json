@@ -1,5 +1,6 @@
 {
   "2018-10-06": {
+    "date": "2018-10-06",
     "tracks": [
       {
         "title": "Magna"
@@ -17,6 +18,7 @@
     "dateReadable": "Programma della giornata",
     "timeslots": [
       {
+        "startTime": "09:00",
         "sessions": [
           {
             "items": [
@@ -24,11 +26,9 @@
             ]
           }
         ],
-        "endTime": "09:30",
-        "startTime": "09:00"
+        "endTime": "09:30"
       },
       {
-        "startTime": "09:35",
         "sessions": [
           {
             "items": [
@@ -36,7 +36,8 @@
             ]
           }
         ],
-        "endTime": "10:25"
+        "endTime": "10:25",
+        "startTime": "09:35"
       },
       {
         "startTime": "10:30",
@@ -57,15 +58,16 @@
             ]
           },
           {
-            "extend": 3,
             "items": [
               "designing_for_wicked_challenges"
-            ]
+            ],
+            "extend": 3
           }
         ],
         "endTime": "11:10"
       },
       {
+        "startTime": "11:20",
         "sessions": [
           {
             "items": [
@@ -86,10 +88,10 @@
             "items": []
           }
         ],
-        "endTime": "12:00",
-        "startTime": "11:20"
+        "endTime": "12:00"
       },
       {
+        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -110,10 +112,10 @@
           {
             "items": []
           }
-        ],
-        "endTime": "12:50"
+        ]
       },
       {
+        "endTime": "13:45",
         "startTime": "12:55",
         "sessions": [
           {
@@ -121,10 +123,10 @@
               "lunch"
             ]
           }
-        ],
-        "endTime": "13:45"
+        ]
       },
       {
+        "endTime": "14:30",
         "startTime": "13:50",
         "sessions": [
           {
@@ -146,8 +148,7 @@
             ],
             "extend": 2
           }
-        ],
-        "endTime": "14:30"
+        ]
       },
       {
         "endTime": "15:20",
@@ -174,17 +175,18 @@
         ]
       },
       {
-        "endTime": "15:40",
-        "startTime": "15:20",
         "sessions": [
           {
             "items": [
               "break_15"
             ]
           }
-        ]
+        ],
+        "endTime": "15:40",
+        "startTime": "15:20"
       },
       {
+        "endTime": "16:20",
         "startTime": "15:40",
         "sessions": [
           {
@@ -208,10 +210,10 @@
             ],
             "extend": 2
           }
-        ],
-        "endTime": "16:20"
+        ]
       },
       {
+        "endTime": "17:10",
         "startTime": "16:30",
         "sessions": [
           {
@@ -232,10 +234,11 @@
           {
             "items": []
           }
-        ],
-        "endTime": "17:10"
+        ]
       },
       {
+        "endTime": "18:00",
+        "startTime": "17:20",
         "sessions": [
           {
             "items": [
@@ -255,12 +258,9 @@
           {
             "items": []
           }
-        ],
-        "endTime": "18:00",
-        "startTime": "17:20"
+        ]
       },
       {
-        "endTime": "18:30",
         "startTime": "18:00",
         "sessions": [
           {
@@ -268,9 +268,9 @@
               "closing"
             ]
           }
-        ]
+        ],
+        "endTime": "18:30"
       }
-    ],
-    "date": "2018-10-06"
+    ]
   }
 }

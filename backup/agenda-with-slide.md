@@ -24,7 +24,7 @@
 
 - ML Kit for Mobile Developers (by Laura Morinigo)
 
-   not available (yet)
+   https://speakerdeck.com/lauramorinigo/ml-kit-for-mobile-developers
 
 - Develop a product on GCP (by Francesca Stagnaro)
 
