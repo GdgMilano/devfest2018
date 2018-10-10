@@ -102,7 +102,7 @@
 
 - Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
 
-   https://drive.google.com/folderview?id=1mSHuTxT33eiZWamB7ASxpFPzKTvR7Usi
+   https://drive.google.com/file/d/1PiniWUP3qxB0YTvjKSaTgLEU-E-RI-sU/view
 
 ### 17:20
 
