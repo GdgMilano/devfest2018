@@ -342,7 +342,7 @@ object Main {
             val speakers = it.speakers!!.map { speakersOld[it]!!.name }.joinToString()
             val tags = it.tags!!.map { "#${it.replace(" ", "")}" }.joinToString(" ")
             "- ${it.title} (by $speakers)\n" +
-              "\n   ${it.presentation?.takeIf { it.isNotBlank() } ?: "Slide coming soon"}\n"
+              "\n   ${it.presentation?.takeIf { it.isNotBlank() } ?: "not available (yet)"}\n"
           } else null
         }.joinToString("\n")
         }"

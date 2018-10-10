@@ -2,11 +2,11 @@
 
 - Next generation web assets (by Emiliano De Matteis)
 
-   Slide coming soon
+   not available (yet)
 
 - Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
 
-   Slide coming soon
+   not available (yet)
 
 - Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
 
@@ -14,7 +14,7 @@
 
 - Designing for wicked challenges (by Panayotis Tzinis)
 
-   Slide coming soon
+   not available (yet)
 
 ### 11:20
 
@@ -24,21 +24,21 @@
 
 - ML Kit for Mobile Developers (by Laura Morinigo)
 
-   Slide coming soon
+   not available (yet)
 
 - Develop a product on GCP (by Francesca Stagnaro)
 
-   Slide coming soon
+   not available (yet)
 
 ### 12:10
 
 - Introducing WorkManager (by Pietro Maggi)
 
-   Slide coming soon
+   not available (yet)
 
 - Want a Slice? (by Kaan Mamikoglu)
 
-   Slide coming soon
+   not available (yet)
 
 - The power of Kotlin @Annotations (by Giorgio Antonioli)
 
@@ -52,11 +52,11 @@
 
 - Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
 
-   Slide coming soon
+   https://drive.google.com/file/d/1TefUMwz8xzSR-6_hYjAL3wSjQNDQ8PEY/view
 
 - Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
 
-   Slide coming soon
+   not available (yet)
 
 ### 14:40
 
@@ -76,19 +76,19 @@
 
 - Motion Layout: easy animations for everyone! (by Boris D'Amato)
 
-   Slide coming soon
+   not available (yet)
 
 - AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
 
-   Slide coming soon
+   not available (yet)
 
 - La Morte Nera, e se fosse prototipizzata con Firebase e React? (by Michel Murabito)
 
-   Slide coming soon
+   not available (yet)
 
 - Introduction to SceneForm (by Michelantonio Trizio)
 
-   Slide coming soon
+   not available (yet)
 
 ### 16:30
 
@@ -98,7 +98,7 @@
 
 - Creating ML-powered applications (by Buşra Deniz Akın)
 
-   Slide coming soon
+   not available (yet)
 
 - Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
 
