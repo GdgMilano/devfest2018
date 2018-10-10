@@ -76,7 +76,7 @@
 
 - Motion Layout: easy animations for everyone! (by Boris D'Amato)
 
-   not available (yet)
+   https://www.slideshare.net/damatoboris/motion-layout-easy-animations-for-everyone
 
 - AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
 

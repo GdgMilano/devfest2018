@@ -1,5 +1,20 @@
 {
   "2018-10-06": {
+    "tracks": [
+      {
+        "title": "Magna"
+      },
+      {
+        "title": "Room 6"
+      },
+      {
+        "title": "Room 7"
+      },
+      {
+        "title": "Room 9"
+      }
+    ],
+    "dateReadable": "Programma della giornata",
     "timeslots": [
       {
         "sessions": [
@@ -13,6 +28,7 @@
         "startTime": "09:00"
       },
       {
+        "startTime": "09:35",
         "sessions": [
           {
             "items": [
@@ -20,11 +36,9 @@
             ]
           }
         ],
-        "endTime": "10:25",
-        "startTime": "09:35"
+        "endTime": "10:25"
       },
       {
-        "endTime": "11:10",
         "startTime": "10:30",
         "sessions": [
           {
@@ -43,16 +57,15 @@
             ]
           },
           {
+            "extend": 3,
             "items": [
               "designing_for_wicked_challenges"
-            ],
-            "extend": 3
+            ]
           }
-        ]
+        ],
+        "endTime": "11:10"
       },
       {
-        "endTime": "12:00",
-        "startTime": "11:20",
         "sessions": [
           {
             "items": [
@@ -72,10 +85,11 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:00",
+        "startTime": "11:20"
       },
       {
-        "endTime": "12:50",
         "startTime": "12:10",
         "sessions": [
           {
@@ -96,9 +110,11 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "12:50"
       },
       {
+        "startTime": "12:55",
         "sessions": [
           {
             "items": [
@@ -106,11 +122,9 @@
             ]
           }
         ],
-        "endTime": "13:45",
-        "startTime": "12:55"
+        "endTime": "13:45"
       },
       {
-        "endTime": "14:30",
         "startTime": "13:50",
         "sessions": [
           {
@@ -127,14 +141,17 @@
             ]
           },
           {
-            "extend": 2,
             "items": [
               "firebase_cloud_firestore_deep_dive"
-            ]
+            ],
+            "extend": 2
           }
-        ]
+        ],
+        "endTime": "14:30"
       },
       {
+        "endTime": "15:20",
+        "startTime": "14:40",
         "sessions": [
           {
             "items": [
@@ -154,9 +171,7 @@
           {
             "items": []
           }
-        ],
-        "endTime": "15:20",
-        "startTime": "14:40"
+        ]
       },
       {
         "endTime": "15:40",
@@ -170,7 +185,6 @@
         ]
       },
       {
-        "endTime": "16:20",
         "startTime": "15:40",
         "sessions": [
           {
@@ -194,10 +208,10 @@
             ],
             "extend": 2
           }
-        ]
+        ],
+        "endTime": "16:20"
       },
       {
-        "endTime": "17:10",
         "startTime": "16:30",
         "sessions": [
           {
@@ -218,11 +232,10 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "17:10"
       },
       {
-        "endTime": "18:00",
-        "startTime": "17:20",
         "sessions": [
           {
             "items": [
@@ -242,35 +255,22 @@
           {
             "items": []
           }
-        ]
+        ],
+        "endTime": "18:00",
+        "startTime": "17:20"
       },
       {
+        "endTime": "18:30",
+        "startTime": "18:00",
         "sessions": [
           {
             "items": [
               "closing"
             ]
           }
-        ],
-        "endTime": "18:30",
-        "startTime": "18:00"
+        ]
       }
     ],
-    "date": "2018-10-06",
-    "tracks": [
-      {
-        "title": "Magna"
-      },
-      {
-        "title": "Room 6"
-      },
-      {
-        "title": "Room 7"
-      },
-      {
-        "title": "Room 9"
-      }
-    ],
-    "dateReadable": "Programma della giornata"
+    "date": "2018-10-06"
   }
 }
