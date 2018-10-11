@@ -28,7 +28,7 @@
 
 - Develop a product on GCP (by Francesca Stagnaro)
 
-   not available (yet)
+   https://docs.google.com/presentation/d/1zdQ9Vk_1pmySuW5OjKQzOIg9mnA0qbNlHgr692VS7jc/edit#slide=id.p
 
 ### 12:10
 
